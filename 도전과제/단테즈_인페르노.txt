@@ -1,0 +1,62 @@
+====== 단테즈 인페르노(Dante's Inferno) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:단테즈_인페르노:04cligjhbc9ffqqaxfjrf0ngl2fjac8wlzeaaaaa5_fn-ptkwg_.jpg|}}|공개|Slaughter at Acre\\ 에이커의 학살|5 G|Fight against the prisoner at Acre\\ 에이커에서 죄수와 싸워라|
+|{{:도전과제:단테즈_인페르노:0ycligjhbc9gfqqaxfjrf0ngl2fjac8wlziaaaaa5_fn-tpt7w_.jpg|}}|공개|Abandon All Hope\\ 모든 희망을 버려라|15 G|Break through the Gates of Hell\\ 지옥의 입구를 돌파하라|
+|{{:도전과제:단테즈_인페르노:0icligjhbc9hfqqaxfjrf0ngl2fjac8wlzmaaaaa5_fn-zqvfa_.jpg|}}|공개|Sentence the Judge\\ 재판관의 선고|25 G|Defeat King Minos\\ 미노스 왕을 쓰러뜨려라|
+|{{:도전과제:단테즈_인페르노:1ycligjhbc9afqqaxfjrf0ngl2fjac8wlzqaaaaa5_fn_ph_hq_.jpg|}}|공개|Lovers Torn Asunder\\ 갈기갈기 찢겨진 연인들|25 G|Defeat Marc Antony\\ 마르쿠스 안토니우스를 쓰러뜨려라|
+|{{:도전과제:단테즈_인페르노:1icligjhbc9bfqqaxfjrf0ngl2fjac8wlzuaaaaa5_fn_3igfg_.jpg|}}|공개|The Great Worm\\ 거대한 벌레|25 G|Defeat Cerberus\\ 케르베로스를 쓰러뜨려라|
+|{{:도전과제:단테즈_인페르노:1ocligjhbc9cfqqaxfjrf0ngl2fjac8wlzyaaaaa5_fn_vmpow_.jpg|}}|공개|Like Father Like Son\\ 그 애비에 그 자식|25 G|Defeat Alighiero\\ 알리기에리를 쓰러뜨려라|
+|{{:도전과제:단테즈_인페르노:14cligjhbc9dfqqaxfjrf0ngl2fjac8wlzcaaaaa5_fn_ll3ma_.jpg|}}|공개|Gates of Dis\\ 디테의 문|35 G|Enter the lower circles of The Inferno\\ 하부 지옥으로 들어가라|
+|{{:도전과제:단테즈_인페르노:1icligjhbc9mfqqaxfjrf0ngl2fjac8wlzgaaaaa5_fn_55jpg_.jpg|}}|공개|The Harrowing\\ 정복|35 G|Escape Heresy\\ 이단 지옥에서 벗어나라|
+|{{:도전과제:단테즈_인페르노:1ycligjhbc9nfqqaxfjrf0ngl2fjac8wlzkaaaaa5_fn_n6brq_.jpg|}}|공개|Brotherhood\\ 우애|40 G|Defeat Francesco\\ 프란체스코를 쓰러뜨려라|
+|{{:도전과제:단테즈_인페르노:1ocligjhbc81fqqaxfjrf0ngl2fjac8wl0eaaaaa5_fn_cb2ba_.jpg|}}|공개|Bitter Sweet\\ 달콤하고 쌉쌀한|50 G|Save Beatrice\\ 베아트리체를 구하라|
+|{{:도전과제:단테즈_인페르노:1icligjhbc82fqqaxfjrf0ngl2fjac8wl0iaaaaa5_fn_f-2q_.jpg|}}|공개|Lucifer's Match\\ 루시퍼 전투|100 G|Defeat the Emperor of the Woeful Realm\\ 지옥 세계의 황제를 쓰러뜨려라|
+|{{:도전과제:단테즈_인페르노:0ocligjhbc9ncxsfg1ltwungl2fjac8wlze5aaaaaofn5-2nheq_.jpg|}}|공개|Burning Eyes\\ 불타는 눈|10 G|Send Charon back into the abyss\\ 카론을 심연으로 되돌려 보내라|
+|{{:도전과제:단테즈_인페르노:0ocligjhbc9acxsfg1ltwungl2fjac8wlze0aaaaaofn5-1rymw_.jpg|}}|공개|Forbidden Love\\ 금단의 사랑|20 G|Find and absolve both Francesca da Polenta and Paolo Malatesta\\ 프란체스카 다 폴렌타와 파올로 말라테스타 찾아서 둘 다 흡수하라|
+|{{:도전과제:단테즈_인페르노:04cligjhbc9bcxsfg1ltwungl2fjac8wlze1aaaaaofn5-ylmf8_.jpg|}}|공개|Old Friend\\ 오랜 벗|20 G|Find and absolve Brunetto Latini\\ 브루네토 라티니를 찾아서 흡수하라|
+|{{:도전과제:단테즈_인페르노:0ycligjhbc9ccxsfg1ltwungl2fjac8wlze2aaaaaofn5-6qkeo_.jpg|}}|공개|The Damned\\ 저주받은 자들|50 G|Punish or absolve all 27 shades of The Inferno\\ 지옥에 있는 27명의 망령을 모두 징벌하거나 흡수하라|
+|{{:도전과제:단테즈_인페르노:0icligjhbc9dcxsfg1ltwungl2fjac8wlze3aaaaaofn5-9kaxk_.jpg|}}|공개|The Guide\\ 안내자|40 G|Collect all Virgil commentaries\\ 베르길리우스의 모든 설명을 모아라|
+|{{:도전과제:단테즈_인페르노:1ycligjhbc83fqqaxfjrf0ngl2fjac8wl0maaaaa5_fn_gghsg_.jpg|}}|공개|Precious\\ 보물|10 G|Find a Beatrice stone\\ 베아트리체의 보석을 찾아라|
+|{{:도전과제:단테즈_인페르노:0icligjhbc8wfqqaxfjrf0ngl2fjac8wl0qaaaaa5_fn-6nssw_.jpg|}}|공개|Power of the Cross\\ 십자가의 힘|20 G|Find all 3 Beatrice stones\\ 베아트리체의 보석 3개를 모두 찾아라|
+|{{:도전과제:단테즈_인페르노:0ycligjhbc8xfqqaxfjrf0ngl2fjac8wl0uaaaaa5_fn-kouia_.jpg|}}|공개|Footsteps of a Traitor\\ 배신자의 발자국|10 G|Find 10 pieces of silver\\ 10개의 은화를 찾아라|
+|{{:도전과제:단테즈_인페르노:04cligjhbc8yfqqaxfjrf0ngl2fjac8wl0yaaaaa5_fn-gkdlq_.jpg|}}|공개|Betrayed with a Kiss\\ 배신의 입맞춤|10 G|Find 20 pieces of silver\\ 20개의 은화를 찾아라|
+|{{:도전과제:단테즈_인페르노:1ycligjhbc9ecxsfg1ltwungl2fjac8wlzewaaaaaofn5-rogoa_.jpg|}}|공개|Well Done, Judas\\ 잘 했다, 유다여|20 G|Find All 30 pieces of silver\\ 30개의 은화를 모두 찾아라|
+|{{:도전과제:단테즈_인페르노:1icligjhbc9fcxsfg1ltwungl2fjac8wlzexaaaaaofn5-siehm_.jpg|}}|공개|Relic Hunter\\ 유물 사냥꾼|10 G|Find a relic\\ 유물을 찾아라|
+|{{:도전과제:단테즈_인페르노:1ocligjhbc9gcxsfg1ltwungl2fjac8wlzeyaaaaaofn5-kpc6y_.jpg|}}|공개|Light Relics\\ 빛의 유물|20 G|Find all Holy relics\\ 성스러운 유물을 모두 찾아라|
+|{{:도전과제:단테즈_인페르노:14cligjhbc9hcxsfg1ltwungl2fjac8wlzezaaaaaofn5-jjizu_.jpg|}}|공개|Dark Relics\\ 어둠의 유물|20 G|Find all Unholy relics\\ 사악한 유물을 모두 찾아라|
+|{{:도전과제:단테즈_인페르노:04cligjhbc9mcxsfg1ltwungl2fjac8wlze4aaaaaofn5-xtfxc_.jpg|}}|공개|Soul Reaper\\ 영혼의 수확자|50 G|Collect 60,000 Souls\\ 60,000 점의 영혼을 모아라|
+|{{:도전과제:단테즈_인페르노:0ycligjhbc81cxsfg1ltwungl2fjac8wlzfbaaaaaofn5-4zacu_.jpg|}}|공개|Warming Up\\ 준비운동|10 G|Perform a 50 hit combo\\ 50 콤보를 성공시켜라|
+|{{:도전과제:단테즈_인페르노:04cligjhbc82cxsfg1ltwungl2fjac8wlzfcaaaaaofn5-wsyza_.jpg|}}|공개|Masterpiece\\ 걸작|10 G|Perform a 200 hit combo\\ 200 콤보를 성공시켜라|
+|{{:도전과제:단테즈_인페르노:0ocligjhbc83cxsfg1ltwungl2fjac8wlzfdaaaaaofn5-3ymqm_.jpg|}}|공개|Poetry in Motion\\ 화려한 시|20 G|Perform a 666 hit combo\\ 666 콤보를 성공시켜라|
+|{{:도전과제:단테즈_인페르노:14cligjhbc8wcxsfg1ltwungl2fjac8wlzfeaaaaaofn5-hqcvo_.jpg|}}|공개|Holy Warrior\\ 성스러운 전사|10 G|Kill 30 Minions\\ 30마리의 사도를 죽여라|
+|{{:도전과제:단테즈_인페르노:1icligjhbc8ycxsfg1ltwungl2fjac8wlzfgaaaaaofn5-urg9w_.jpg|}}|공개|Bad Nanny\\ 악한 유모|10 G|Kill 20 Unbaptized Babies\\ 20마리의 세례받지 못한 아기를 죽여라|
+|{{:도전과제:단테즈_인페르노:1ocligjhbc8xcxsfg1ltwungl2fjac8wlzffaaaaaofn5-mwimk_.jpg|}}|공개|Demon Slayer\\ 악마 사냥꾼|10 G|Kill 30 Demons\\ 30마리의 악마를 죽여라|
+|{{:도전과제:단테즈_인페르노:14cligjhbc9ecbsfg1ltwungl2fjac8wlziwaaaaaofn5-j6sik_.jpg|}}|공개|Indigestion\\ 소화불량|10 G|Kill 5 Gluttons\\ 5마리의 폭식자를 죽여라|
+|{{:도전과제:단테즈_인페르노:1ocligjhbc9fcbsfg1ltwungl2fjac8wlzixaaaaaofn5-kasro_.jpg|}}|공개|Confessional\\ 참회|10 G|Kill 5 Heretics\\ 5마리의 이단자를 죽여라|
+|{{:도전과제:단테즈_인페르노:1ycligjhbc9hcbsfg1ltwungl2fjac8wlzizaaaaaofn5-rbu5w_.jpg|}}|공개|Superstition\\ 미신|10 G|Kill 20 enemies using magic\\ 마법을 사용하여 20마리의 적을 죽여라|
+|{{:도전과제:단테즈_인페르노:1icligjhbc9gcbsfg1ltwungl2fjac8wlziyaaaaaofn5-s7qw8_.jpg|}}|공개|Countermeasures\\ 반격|10 G|Kill 20 enemies using a counter move\\ 반격기를 사용하여 20마리의 적을 죽여라|
+|{{:도전과제:단테즈_인페르노:0icligjhbc9acbsfg1ltwungl2fjac8wlzi0aaaaaofn5-95ugu_.jpg|}}|공개|Give Me Strength\\ 힘을 주소서|10 G|Open 20 Health fountains\\ 체력 분수를 20개 열어라|
+|{{:도전과제:단테즈_인페르노:0ycligjhbc9bcbsfg1ltwungl2fjac8wlzi1aaaaaofn5-6zqpy_.jpg|}}|공개|Sorcerer's Apprentice\\ 마술사의 제자|10 G|Open 20 Mana fountains\\ 마나 분수를 20개 열어라|
+|{{:도전과제:단테즈_인페르노:04cligjhbc9ccbsfg1ltwungl2fjac8wlzi2aaaaaofn5-y4oum_.jpg|}}|공개|Light in the Dark\\ 어둠 속의 빛|30 G|Reach Holy Level 7\\ 십자가 레벨 7에 도달하라|
+|{{:도전과제:단테즈_인페르노:0ocligjhbc9dcbsfg1ltwungl2fjac8wlzi3aaaaaofn5-1ywda_.jpg|}}|공개|Death's Apprentice\\ 사신의 수제자|30 G|Reach Unholy Level 7\\ 낫 레벨 7에 도달하라|
+|{{:도전과제:단테즈_인페르노:0ycligjhbc9mcbsfg1ltwungl2fjac8wlzi4aaaaaofn5-5-td4_.jpg|}}|공개|Holy Man\\ 성자|30 G|Max out the Holy path\\ 모든 십자가 기술을 익혀라|
+|{{:도전과제:단테즈_인페르노:0icligjhbc9ncbsfg1ltwungl2fjac8wlzi5aaaaaofn5-_ftu0_.jpg|}}|공개|Man of Evil\\ 악인|30 G|Max out the Unholy path\\ 모든 낫 기술을 익혀라|
+|{{:도전과제:단테즈_인페르노:04cligjhbc81cbsfg1ltwungl2fjac8wlzjbaaaaaofn5-whwiw_.jpg|}}|공개|Gates of Hell\\ 지옥의 문|60 G|Defeat all enemy waves in the Gates of Hell Arena\\ 지옥의 문 투기장에서 모든 적을 격파하라|
+</sortable>
+
+===== 추가 DLC : 검은 숲(Dark forest) =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:단테즈_인페르노:0ycligjhbc82cbsfg1ltwungl2fjac8wlzjcaaaaaofn5-4autk_.jpg|}}|공개|Dark Forest\\ 검은 숲|20 G|Complete the Dark Forest on any difficulty\\ 검은 숲을 아무 난이도로나 완료하라|
+|{{:도전과제:단테즈_인페르노:0icligjhbc83cbsfg1ltwungl2fjac8wlzjdaaaaaofn5--gqao_.jpg|}}|공개|Clear Path Not Lost\\ 길을 잃지 않다|20 G|Complete the Dark Forest without getting lost once\\ 검은 숲에서 한 번도 길을 잃는 일 없이 완료하라|
+</sortable>
+
+
+===== 추가 DLC : 성 루시아의 시련(Trials of St. Lucia) =====
+
+{{tag>게임 도전과제 엑스박스360 xbox360}}

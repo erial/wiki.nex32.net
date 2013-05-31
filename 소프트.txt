@@ -1,0 +1,7 @@
+====== 소프트웨어 (Software) ======
+각종 소프트웨어에 대한 항목을 모아두는 공간입니다. 
+
+게임을 제외한 소프트웨어에 대해서는 이곳에 정리해주시기 바랍니다. 소프트웨어 전반을 다뤄도 됩니다. 
+
+
+{{pagequery>소프트: ;sort=ns,a,name;layout=column;group;fullregex;proper;cols=3;}}

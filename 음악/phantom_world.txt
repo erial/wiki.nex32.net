@@ -1,0 +1,130 @@
+====== Phantom world(팬텀 월드) ======
+===== 아미테이지 더 서드 영어판 엔딩 =====
+
+---- datatemplateentry music ----
+곡명			: Phantom world
+한국어명		: 팬텀 월드
+수록작_titles		: 애니:아미테이지 더 서드-폴리 매트릭스
+수록앨범_albums		: PICA-1098 | 아미테이지 더 서드-폴리 매트릭스 OST
+발매일_dts		: 1995-01-25
+
+작사			: JEFF DAY
+작곡_peoples		: 마츠미야 쿄코 | 마츠미야 쿄코(松宮恭子)
+편곡_peoples		: 후지와라 이쿠로 | 후지와라 이쿠로(藤原いくろう)
+부른이_peoples		: 카사하라 히로코
+----
+
+===== 상세설명 =====
+
+[[애니:공각기동대]]와 더불어서 일본 SF애니메이션을 대표하는 작품 중 하나인 [[애니:아미테이지 더 서드]]의 엔딩곡의 영어판으로, 극장판으로 편집된 폴리 매트릭스의 영어버전에 삽입되어있다. 원곡은 [[음악:행복한꿈이기억나지않아_いい夢を思い出せない]]
+
+인간이 아니면서 인간과 같은 감정과 삶을 살아야하는 서드가 느끼는 안타까운 마음이 담긴 곡으로, 기나긴 시간이 지나 모두가 차이를 잊을 때가 오리라고 읊조리는 내용이다. 카사하라 히로코 특유의 애절한 목소리가 매력적인 곡이다.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 아미테이지 더 서드 매드무비 | {{youtube>yURo1uuvKy4?medium}} ++
+
+  Neon lights
+  네온 불빛이
+  
+  Warm the windy nights
+  바람부는 밤을 알리네
+  
+  While a scrapyard kitten starts to cry
+  쓰레기장의 고양이가 울기 시작하고
+  
+  And the dust covered memories fill my eyes
+  먼지가 내 눈과 추억을 덮어버리네
+
+
+  Caught in dreams
+  꿈 속에서 붙잡은
+  
+  With crystal streams
+  반짝이는 흐름들
+  
+  And I can't see where they're flowing to
+  어디로 가는지는 모르지만
+  
+  But soon they'll end
+  머잖아 그것도 끝나겠지
+  
+  Yes, soon the sun will rise
+  머잖아 태양이 떠오를테니...
+
+
+  It's a phantom world
+  허상같은 세상이어라
+  
+  It's a phantom world
+  허상같은 세상이어라...
+  
+  And it's fading in the night
+  곧이어 밤으로 물들어가네
+
+
+  It's a phantom world
+  허상같은 세상이어라
+  
+  No, there's nothing real
+  어디에도 진짜가 없네
+  
+  Soon the ghosts will fade out of sight
+  머잖아 유령도 보이지 않게 되겠지...
+
+
+  Rockets fly so far away
+  로켓이 아득히 먼곳으로 날아가네
+  
+  Through the gold fan of a sun ray
+  햇살같은 황금빛 날개를 지나
+  
+  When they come back
+  그들은 돌아 올 적에
+  
+  All the ghosts of the past will be gone
+  과거의 망령은 사라질거야...
+
+
+  It's a phantom world
+  허상같은 세상이어라
+  
+  It's a phantom world
+  허상같은 세상이어라
+  
+  Filled with misty shades of light
+  빛의 이면이 짙은 그림자로 가득차네
+
+
+  It's a phantom world
+  허상같은 세상이어라
+  
+  It's become unreal
+  비현실이 되어가누나
+  
+  See the ghostly shapes of the night
+  밤의 망령같은 모양을 지켜보네
+
+
+  Rockets fly so far away
+  로켓이 아득히 먼곳으로 날아가네
+  
+  Through the pink clouds of a fall day
+  지난 날의 핑크빛 구름을 지나
+  
+  When they come back home
+  그들이 집에 되돌아 올 때
+  
+  All the ghosts of the past will be gone
+  과거의 망령은 사라질거야...
+
+
+  When they come back home
+  그들이 집에 되돌아 올 때
+  
+  All the ghosts of the past will be gone
+  과거의 망령은 사라질거야...
+
+
+{{tag>가사 애니음악 아미테이지 아미테이지_더_서드 엔딩송 JEFF_DAY 마츠미야_쿄코 후지와라_이쿠로 카사하라_히로코 재즈 발라드}}

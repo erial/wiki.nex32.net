@@ -1,0 +1,174 @@
+====== TSU・BA・SA (날개) ======
+===== 루나 실버스타 스토리 =====
+---- datatemplateentry music ----
+곡명			: TSU・BA・SA
+한국어명		: 날개
+수록작_titles		: 게임:루나 실버스타 스토리
+수록앨범_albums		: SLUS-00628 | 루나 실버스타 스토리 컴플릿 컬렉션, SLUS-00899 | 앞의 복각앨범
+발매일_dts		: 1996-07-04,2009-11-12
+
+작사_peoples		: 미조구치 이사오|溝口功 (미조구치 이사오)
+작곡_peoples		: 이와다레 노리유키|岩垂徳行 (이와다레 노리유키)
+편곡_peoples		: 이와다레 노리유키|岩垂徳行 (이와다레 노리유키)
+부른이_peoples		: 히카미 쿄코 | 氷上恭子 (히카미 쿄코)
+----
+
+===== 상세설명 =====
+
+[[게임:루나 더 실버스타]]의 리메이크 작품인 [[게임:루나 실버스타 스토리]]의 오프닝으로 사용된 곡. 오리지널이 락을 사용해 게임의 주제와 좀 동떨어진 느낌이었다면 잔잔한 발라드 풍의 곡으로 만들어져 게임 분위기에는 더 걸맞게 만들어졌다. 단지 곡이 좀 심심하긴 하다.
+
+이후 [[게임기:플레이스테이션 포터블]]로 이식된 [[게임:루나 하모니 오브 실버스타]]의 오프닝으로도 사용되었다. 게임 내에서 루나의 성우는 [[사람:이노우에 키쿠코]]로 변경되었지만 오프닝만은 변함없이 히카미 쿄코가 불렀다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+==== 일본어판 ====
+
+  * ++ 오프닝 영상보기 | {{youtube>M6wm03WiP6g?medium}} ++
+  * ++ 루나 실버스타 스토리 버전 | {{youtube>QCv8H_s0aV4?medium}} ++
+  * ++ 하모니 오브 루나 버전 | {{youtube>7qhDzDGkhKM?medium}} ++
+
+  遠く遠くへ　
+  멀리 저 멀리로 
+  
+  地平線の彼方まで
+  지평선의 너머까지
+  
+  風が忘れた翼に乗ろう
+  바람이 잃어버린 날개에 올라타자
+
+
+  いつかはきっと出会う
+  언젠가는 분명 만날거야
+  
+  未来が ホラ微笑みながら
+  미래가, 봐 미소지으면서
+  
+  手招きをするから
+  손을 흔들고 있잖아
+
+
+  さぁ旅立とう　
+  자아, 여행을 떠나자 
+  
+  新しい世界へ
+  새로운 세계로
+  
+  記憶の中の伝説　
+  기억 속의 전설 
+  
+  扉を開く
+  문을 여네
+
+
+  遥か彼方の　
+  아득한 저편의
+  
+  あの雲の向こうには
+  저 구름의 너머에는
+  
+  胸が高鳴る希望が見える
+  가슴 떨리는 희망이 보이네
+  
+  時にはつまずいても
+  때로는 비틀거리더라도
+  
+  勇気を今心にかかげ
+  용기를 지금 가슴에 매달고
+  
+  歩いていこうよ
+  걸어나가 보자
+
+
+  さぁ旅立とう　
+  자아 여행을 떠나자
+  
+  冒険の世界へ
+  모험의 세계로
+  
+  限りない夢広がる　
+  한없이 꿈이 펼쳐지는
+  
+  青き空に
+  푸른 하늘로
+
+
+
+  さぁ旅立とう　
+  자아, 여행을 떠나자 
+  
+  新しい世界へ
+  새로운 세계로
+  
+  記憶の中の伝説　
+  기억 속의 전설 
+  
+  扉を開く
+  문을 여네
+
+==== 영문판 루나 실버스타 스토리 Wings ====
+^부른이 | Stigile |
+
+[[게임기:세가새턴]]과 [[게임기:플레이스테이션1]] 시절 이식된 루나 실버스타 스토리에 삽입된 오프닝.
+
+  * ++ 루나 실버스타 스토리 버전 | {{youtube>raIUOqSPATc?medium}} ++
+
+  In your dreams,
+  magical thoughts...
+  All things are real
+  unless you dream they're not.
+  
+  In your dreams,
+  love is the plot
+  carried on wings of hope.
+  
+  Each of our souls
+  intertwine, when we do.
+  Instantly we see it
+  the time to grow and be it
+  when everything is pinned on a hope.
+  
+  Let rise the dreams of your heart,
+  that innocent youth
+  careless and kind.
+  Free to roam the breeze in love
+  only when two
+  brilliantly shine as one...
+
+==== 영문판 루나 실버스타 하모니 판 ====
+^ 부른이 | Jenny |
+
+[[게임기:플레이스테이션 포터블]] 시절에 이식된 [[게임:루나 하모니오브 실버스타]]의 오프닝. 특이하게도 원판을 사용하지 않고 가사를 새로 작성해다.
+
+  * ++ 루나 실버스타 하모니 버전 | {{youtube>wC-xdA1zeqk?medium}} ++
+
+  Far away, far away, 
+  beyond the bounds where light fades from day
+  Bestride white wings forgotten by the winds of time
+  
+  Surely our paths shall cross one day soon
+  As the future beckons to us with cheerful tidings and open arms
+  
+  So now, our journey begins
+  Bound for a new world, filled with magic
+  Deep within our memories
+  Lies the door of legends open to us
+
+
+  Far beyond billowing clouds, 
+  over the ridge of snow-covered alps
+  Hearts are filled with elation where rays of hope shine down
+  Though at times we may stumble and fall
+  With courage to stand, we rise once again, and march ever onward
+
+
+  So now, our journey begins
+  Bound for a world where adventure awaits
+  And endless dreams always lie
+  Beneath its vast and wondrous azure sky
+
+  So now, our journey begins
+  Bound for a new world, fi~lled with magic
+  Deep within our memories
+  Lies the door of legends open to us
+
+{{tag>가사 게임음악 루나 루나_실버스타_스토리 루나_하모니오브_실버스타 오프닝송 미조구치_이사오 이와다레_노리유키 히카미_쿄코 발라드}}

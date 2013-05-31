@@ -1,0 +1,4 @@
+====== 루시아 캐릭터 목록 ======
+'루시아'라는 이름을 가지는 캐릭터의 목록. 
+
+{{pagequery>캐릭터:루시아:;sort=ns,a,name;group;fullregex;proper=header;}}

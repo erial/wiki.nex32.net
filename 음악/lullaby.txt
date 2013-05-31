@@ -1,0 +1,164 @@
+====== Lullaby (자장가) ======
+===== 느와르 이미지송 =====
+---- datatemplateentry music ----
+곡명			: Lullaby
+한국어명		: 자장가
+수록작_title		: 애니:느와르
+수록앨범_albums		: VICL-60738 | Noir OST2 (영어판 수록), VIZL-57 | Noir Blanc dans Noir (일어판 수록)
+발매일_dts		: 2001-04-05
+
+작사_peoples		: 카지우라 유키 | 梶浦由記 (카지우라 유키)
+작곡_peoples		: 카지우라 유키 | 梶浦由記 (카지우라 유키)
+편곡_peoples		: 카지우라 유키 | 梶浦由記 (카지우라 유키)
+부른이_peoples		: 카이다 유리코 | 貝田由里子 (카이다 유리코), TARAKO
+----
+
+===== 상세설명 =====
+
+[[애니:느와르]]의 삽입곡으로, 작중의 등장인물 알테나의 이미지 송이다. 요람, 아니 장원을 관리하는 그녀의 소임과 그녀의 어두운 과거, 어둠으로나마 세상을 구하고자 하는 그녀의 간절한 마음을 담은 슬픈 곡이다. 
+
+조용하면서도 애절한 목소리로 불러낸 곡으로, 알테나의 한을 담은듯한, 어린 날의 그녀를 달래기 위해 노력하는 듯한 알테나를 그린 곡.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 영어판 ====
+기본적으로 원곡에 해당하는 영어판은 카이다 유리코가 불렀다. 
+
+  * ++ 영상보기 | {{youtube>QLtsAmw0DBU?medium}} ++
+
+  the snow in the air
+  하늘에서 눈이 내리고
+  
+  to sing me a lullaby
+  자장가를 부르기 위해
+  
+  my winter, come hither to me 
+  나의 겨울이여, 제 곁으로 오세요
+
+
+  the dark nights to come
+  어두운 밤이 와요
+  
+  so, kiss me for good-bye
+  내게 작별의 키스를 해주세요
+  
+  the grace of the goodland is near to you
+  낙원의 은총은 바로 당신 곁인걸요
+
+
+  show me the flowers invisible
+  투명한 꽃을 보여주세요
+  
+  sing me the hymns inaudible
+  들리지 않는 찬송가를 불러주세요
+  
+  the wind is my voice
+  바람은 저의 목소리가 되고
+  
+  the moon is my heart
+  달은 저의 마음이 되니
+  
+  come find me, 
+  저를 찾아주세요 
+  
+  I'm on every hills and fields
+  저는 모든 산과 들에 깃들어 있어요
+  
+  I'm here...ever your near.....
+  저는 여기에 있어요, 바로 당신 곁에...
+
+
+  (sing for your love, gone so far in the past)
+  (아주 오랜 예전에 사라진 당신의 사랑을 노래해요)
+  
+  (pray for the world, that you may rest in perce)
+  (당신이 평안히 잠들 세상을 위해 기도해요)
+
+
+  the snow in the air
+  하늘에서 눈이 내리고
+  
+  to sing me a lullaby
+  자장가를 부르기 위해
+  
+  the angel of rebirth is here
+  부활의 천사는 여기로 내려왔어요
+
+
+  so let all your pain
+  그러니 당신의 모든 아픔을
+  
+  sleep within the husha-by
+  이 자장가 속에 잠재우세요 
+  
+  the grace of the godland
+  낙원의 은총은...
+  
+  grace of the godland
+  낙원의 은총은
+  
+  grace of the godland is near.....
+  저의 낙원의 은총은 바로
+  
+  so close to you
+  당신 곁이예요
+
+
+==== 일본어판 ====
+
+작중의 알테나 성우를 담당한 [[사람:TARAKO]]가 직접 부른 일본어 버전이다. 작중에 삽입되는 곡은 아니고, 후에 발매된 보컬 앨범앨범인 '검정 속의 하양' 1번 디스크에 수록되어있다.
+
+  * ++ 일본어 버전 보기 | {{nicovideo>sm3857720?medium}} ++
+
+  雪が降る
+  눈이 내리고
+  
+  静かなララバイ歌う淡い横顔
+  조용한 자장가를 노래하는 평온한 얼굴
+  
+  閉じ込められた小さな部屋は
+  닫혀져 있는 작은 방은
+  
+  愛と呼べる気がしている
+  사랑이라 부를 수 있을 것 같아요
+
+
+  言葉もいらなくて
+  말도 필요 없이
+  
+  思い出が和らいで
+  추억이 잔잔해지는
+  
+  安らぎなんて知らないけど
+  안식같은건 모르지만
+  
+  一番そこに近い場所で
+  가장 그것에 가까운 곳에서 
+  
+  眠りたいだけ
+  잠들고 싶을 뿐
+  
+  貴方の側にいる
+  당신의 곁에 있을께요
+
+
+  雪が降る
+  눈이 내리고
+  
+  静かなララバイ　そっと夜を埋めて
+  조용한 자장가에 조심스레 밤을 묻고
+  
+  悲しい事は知りたくないの
+  슬픈 일은 알고 싶지 않아요
+  
+  だからずっと歌っていて
+  그러니 계속 노래해 주세요
+  
+  夜明けが来るまで
+  새벽이 올 때 까지
+  
+  ずっとこのまま
+  계속 이대로...
+
+{{tag>가사 애니음악 느와르 이미지송 카지우라_유키 카이다_유리코 TARAKO 발라드}}

@@ -1,0 +1,153 @@
+====== Follow the nightingale (나이팅게일을 따라서) ======
+===== 테일즈 오브 이노센스 오프닝 =====
+---- datatemplateentry music ----
+곡명			: Follow the nightingale
+한국어명		: 나이팅게일을 따라서
+수록작_title		: 게임:테일즈 오브 이노센스
+수록앨범_albums		: VTCL-35011 | 테일즈 오브 이노센스 테마송 싱글
+발매일_dts		: 2007-11-21
+
+작사_peoples		: KOKIA
+작곡_peoples		: KOKIA
+편곡_peoples		: 사와치카 타이스케 | 澤近秦輔 (사와치카 타이스케)
+부른이_peoples		: KOKIA
+----
+
+===== 상세설명 =====
+
+[[게임:테일즈 오브 이노센스]]의 오프닝곡. [[사람:KOKIA]] 특유의 조어가 가득 담겨있는 곡이다. 게임의 테마 전체가 담긴 가사인데, 조어로 되어있어 안타깝게도 알아듣기는 어렵다.
+
+때문에 가사아래에 일본어 번역 가사(KOKIA조어는 [[사람:아라이 아키노]]의 조어와 달리 번역이 쉽기 때문에)를 실어놓았으니 참고하도록 하자.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+  * ++ 오프닝 영상 | {{youtube>HfHPuoOtp8g?medium}} ++
+  * ++ 풀버전 영상 | {{youtube>8bwrvDayYTk?medium}} ++
+
+  REGNIH REGNIH CI AN ETTAM REGNIH ETTAM ETTAM
+  (待って　待って　因果　待って　ナイチンゲール)
+  기다려, 기다려 줘 인과여, 기다려 나이팅게일
+
+
+  ATTAMIJAHAHIRA TAGONOMARAKIKOTA
+  (時から物語は始まった)
+  시간으로부터 이야기는 시작되었다
+  
+  ATTAMIJAHAHIRA TAGONOMARAKIKOTA
+  (時から物語は始まった)
+  시간으로부터 이야기는 시작되었다
+  
+  ATTAMIJAHAHIRA TAGONOMARAKIKOTA
+  (時から物語は始まった)
+  시간으로부터 이야기는 시작되었다
+  
+  ATTAMIJAHAHIRA TAGONOMARAKIKOTA
+  (時から物語は始まった)
+  시간으로부터 이야기는 시작되었다
+  
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디뎌
+  
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디뎌
+  
+  TERIIMUH TERIIMUH IAM IAM
+  (今踏み入れて　踏み入れ)
+  바로 지금 발을 디디고, 발을 디딘
+  
+  ATTAMIJAHAHIRA TAGONOMARAKIKOTA
+  (時から物語は始まった)
+  이 순간으로부터 이야기는 시작되었다
+
+
+  どうしてここに生まれたんだろう?
+  어때서 여기에 태어난 걸까?
+  
+  今この時代に 
+  지금 이 시대에...
+  
+  何か意味があるはず 
+  무언가 의미가 있을터
+  
+  そう問いかけてみる
+  그렇게 자문을 해보네
+
+
+  ATTAMIJAHAHIRA TAGONOMARAKIKOTA
+  (時から物語は始まった)
+  시간으로부터 이야기는 시작되었다
+  
+  ATTAMIJAHAHIRA TAGONOMARAKIKOTA
+  (時から物語は始まった)
+  시간으로부터 이야기는 시작되었다
+  
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디뎌
+  
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디뎌
+  
+  TERIIMUH TERIIMUH IAM IAM
+  (今踏み入れて　踏み入れ)
+  바로 지금 발을 디디고, 발을 디딘
+  
+  ATTAMIJAHAHIRA TAGONOMARAKIKOTA
+  (時から物語は始まった)
+  이 순간으로부터 이야기는 시작되었다
+
+
+  きっとそうだと 聞こえたなら 
+  분명 그렇다고 들렸다면
+  
+  自分を信じて
+  스스로를 믿어요
+  
+  心の声に続け 
+  마음의 소리를 따라서 
+  
+  あの鳥の後へ
+  저 섬의 다음으로
+
+
+  REGNIH REGNIH CI AN ETTAM REGNIH ETTAM ETTAM
+  (待って　待って　因果　待って　ナイチンゲール)
+  기다려, 기다려 줘 인과여, 기다려 나이팅게일
+
+
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디딘
+  
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디딘
+  
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디딘
+  
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디딘
+  
+  TERIIMUH TERIIMUH IAM
+  (今踏み入れて　踏み入れ)
+  지금 발을 디디고, 발을 디딘
+  
+  TERIIMUH TERIIMUH IAM IAM
+  (今踏み入れて　踏み入れ)
+  바로 지금 발을 디디고, 발을 디딘
+  
+  ATERA REGANAHIAS IAM
+  (今　賽は投げられた)
+  지금, 주사위는 던져졌다
+
+  EKUDUS TINOTA IAM
+  (今　あとにつづけ)
+  자 나를 따르라!
+
+{{tag>가사 게임음악 테일즈_시리즈 테일즈_오브_이노센스 오프닝송 사와치카_타이스케 KOKIA 락}}

@@ -1,0 +1,4 @@
+====== ありがとう(고마워요) 곡 목록 ======
+ありがとう(고마워요) 제목을 가지는 노래 목록
+
+{{pagequery>음악:고마워요_ありがとう:;sort=ns,a,name;group;fullregex;proper=header;}}

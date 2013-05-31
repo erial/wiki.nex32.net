@@ -1,0 +1,4 @@
+====== Colorful days (컬러풀 데이즈) 곡목록 ======
+Colorful days (컬러풀 데이즈) 제목을 가지는 노래 목록
+
+{{pagequery>음악:colorful_days:;sort=ns,a,name;group;fullregex;proper=header;}}

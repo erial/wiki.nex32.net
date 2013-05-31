@@ -1,0 +1,4 @@
+====== Innocent Blue (이노센트 블루) 곡목록 ======
+Innocent Blue (이노센트 블루) 제목을 가지는 노래 목록
+
+{{pagequery>음악:이노센트_블루_イノセント_ブルー:;sort=ns,a,name;group;fullregex;proper=header;}}

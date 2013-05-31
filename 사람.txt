@@ -1,0 +1,7 @@
+====== 사람 (People) ======
+
+각종 분야에 속한 사람들에 대한 설명을 담는 공간입니다.
+
+게임 개발자, 애니 제작자, 가수, 아티스트 등등 여러 분야의 사람들을 정리하는 곳입니다. 태그로 분야를 잘 분류해서 찾아보기 좋게 잘 분류해봅시다.
+
+{{pagequery>사람:;sort=ns,a,name;layout=column;group;fullregex;proper;cols=3}}

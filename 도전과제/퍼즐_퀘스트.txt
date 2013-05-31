@@ -1,0 +1,30 @@
+====== 퍼즐 퀘스트 : 워로드의 도전(Puzzle Quest : Challenge of the Warlord) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:퍼즐_퀘스트:0ycligjhbc9ffquxxfjrfzk2l2fjac8wlzeaaaaa5_fn-swfjg_.jpg|}}|공개|Renowned Hero\\ 명성 있는 영웅|10 G|You have defeated 5 opponents\\ 5명의 상대를 물리쳤다|
+|{{:도전과제:퍼즐_퀘스트:1icligjhbc9cfquxxfjrfzk2l2fjac8wlzyaaaaa5_fn_2du3w_.jpg|}}|공개|Beast Tamer\\ 맹수 조련사|10 G|You have captured a mount\\ 탈 수 있는 몬스터를 포획했다|
+|{{:도전과제:퍼즐_퀘스트:1ycligjhbc9dfquxxfjrfzk2l2fjac8wlzcaaaaa5_fn_oewta_.jpg|}}|공개|Knowledgeable Hero\\ 박식한 영웅|10 G|You have researched a Spell\\ 포획한 몬스터에게서 주문을 익혔다|
+|{{:도전과제:퍼즐_퀘스트:1ocligjhbc9mfquxxfjrfzk2l2fjac8wlzgaaaaa5_fn_accqg_.jpg|}}|공개|Master Engineer\\ 최고의 기술자|10 G|You have completed your citadel\\ 자신의 요새를 지었다|
+|{{:도전과제:퍼즐_퀘스트:1ocligjhbc82fquxxfjrfzk2l2fjac8wl0iaaaaa5_fn_d_epq_.jpg|}}|공개|Warlord\\ 장군|10 G|You have won an Xbox LIVE match\\ Xbox LIVE 매치에서 승리했다|
+|{{:도전과제:퍼즐_퀘스트:14cligjhbc9nfquxxfjrfzk2l2fjac8wlzkaaaaa5_fn_eb60q_.jpg|}}|공개|Inspiring Leader\\ 뛰어난 리더|15 G|You have gained 5 companions\\ 5명의 동료를 모았다|
+|{{:도전과제:퍼즐_퀘스트:1icligjhbc81fquxxfjrfzk2l2fjac8wl0eaaaaa5_fn_-6xea_.jpg|}}|공개|Master Craftsman\\ 최고의 직공|15 G|You have forged a Godlike Item\\ 신급 아이템을 제작했다|
+|{{:도전과제:퍼즐_퀘스트:14cligjhbc83fquxxfjrfzk2l2fjac8wl0maaaaa5_fn_d9mng_.jpg|}}|공개|Legendary Hero\\ 전설의 영웅|25 G|You have reached Level 50\\ 레벨 50에 도달했다|
+|{{:도전과제:퍼즐_퀘스트:04cligjhbc9gfquxxfjrfzk2l2fjac8wlziaaaaa5_fn-osmkw_.jpg|}}|공개|Ogre Slayer\\ 오거 슬레이어|20 G|You have defeated Dugog\\ 듀고그를 쓰러뜨렸다|
+|{{:도전과제:퍼즐_퀘스트:0ocligjhbc9hfquxxfjrfzk2l2fjac8wlzmaaaaa5_fn-qr0aa_.jpg|}}|공개|Bull Slayer\\ 불 슬레이어|20 G|You have defeated the Mechataur\\ 메카타우르스를 쓰러뜨렸다|
+|{{:도전과제:퍼즐_퀘스트:14cligjhbc9afquxxfjrfzk2l2fjac8wlzqaaaaa5_fn_kaf_q_.jpg|}}|공개|God Raiser\\ 신 제조자|20 G|You have rebuilt Sartek\\ 사텍을 재구성했다|
+|{{:도전과제:퍼즐_퀘스트:1ocligjhbc9bfquxxfjrfzk2l2fjac8wlzuaaaaa5_fn_uznag_.jpg|}}|공개|Master of Death\\ 죽음의 지배자|35 G|You have defeated Lord Bane\\ 로드 베인을 쓰러뜨렸다|
+</sortable>
+
+===== 추가 DLC - 역병 군주의 복수(Revenge of the Plague Lord) =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:퍼즐_퀘스트:0ycligjhbc9mcxoig1ltwtk2l2fjac8wlze4aaaaaofn5-4pxaa_.jpg|}}|공개|Stormfriend\\ 폭풍우의 친구|10 G|You have gained the Stormfriend award\\ 폭풍우의 친구 칭호를 얻었다|
+|{{:도전과제:퍼즐_퀘스트:04cligjhbc9ccxoig1ltwtk2l2fjac8wlze2aaaaaofn5-zukt0_.jpg|}}|공개|Savior of Malbec\\ 말벡의 구세주|20 G|You have defeated Araveine\\ 아라베인을 쓰러뜨렸다|
+|{{:도전과제:퍼즐_퀘스트:0ycligjhbc9bcxoig1ltwtk2l2fjac8wlze1aaaaaofn5-7piig_.jpg|}}|공개|Master of Plague\\ 역병의 지배자|20 G|You have defeated Lord Antharg\\ 로드 안싸그를 쓰러뜨렸다|
+</sortable>
+
+{{tag>게임 도전과제 엑스박스360 엑스박스라이브 archivement xbox360 xboxlive 퍼즐퀘스트}}

@@ -1,0 +1,185 @@
+====== Song of mana (마나의 노래) ======
+===== 성검전설-마나의 전설 오프닝-엔딩 =====
+---- datatemplateentry music ----
+곡명			: Song of mana
+한국어명		: 마나의 노래
+수록작_titles		: 게임:성검전설-마나의 전설
+수록앨범_albums		: SSCX-10034 | 성검전설-마나의 전설 OST, SQEX-10036_7 | 성검전설-마나의 전설 OST 복각판
+발매일_dts		: 1999-07-15
+
+작사_peoples		: 시모무라 요코 | 원안-시모무라 요코(下村陽子), Carina | 번역-Carina
+작곡_peoples		: 시모무라 요코 | 시모무라 요코(下村陽子)
+편곡_peoples		: 카츠모리 오사무 | 카츠모리 오사무(勝守オサム)
+부른이			: 아니카 륭베르그(Annika Ljungberg)
+----
+
+===== 상세설명 =====
+PS1으로 발매된 [[게임:성검전설-마나의 전설]]의 오프닝이자 엔딩송. 오프닝에서는 짧게 나오고, 엔딩에서 풀버전이 나온다. 스웨덴어로 불리워져 신비한 느낌을 전해주는 곡이다. 
+
+보통 이런류의 마이너 국가 언어를 쓰는 경우엔 일본어 번역이 들어가는 경우가 많지만, 이곡은 그런 배려가 전혀 없어서 당시에 가사에 대해서 이래저래 말도 많고 탈도 많았다. 위키에 등재해두는 가사도 스웨덴어를 전혀 모르기 때문에 영문 번역본을 기준으로 번역했음을 밝혀둔다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 영상보기 | {{youtube>NXSuAPqmSbo?medium}} ++
+
+
+  Jag hörde
+  들려와요
+   
+  En nostalgisk sång
+  그리운 노랫소리가
+  
+  någonstans långt bort
+  아득히 저 멀리에서
+
+
+  Den rörde djupt I mitt hjärta
+  마음 속 깊숙한 곳을 흔드는
+  
+  En ung styrka
+  새로운 힘이 담긴
+  
+  Talade om livets sång
+  생명의 노래를 읊어봐요
+
+
+  Jag är född av dig
+  저는 당신에게서 태어나
+  
+  Och jag kom tillbaks
+  당신에게 되돌아 갑니다
+  
+  Sluten I en sång, både vänlig och grym
+  부드러움과 잔혹함이 모두 담긴 노래가
+  
+  Mitt liv tog en vändning
+  제 삶을 바꾸어 주었기에
+  
+  Jag är född på nytt
+  저는 다시 태어났답니다
+
+
+  Skyndar mig för att få vara dig nära
+  당신이 계신 곳으로 서둘러 가고 있어요
+  
+  Om och om igen, längtar jag efter dig
+  계속, 또 계속 그리던 당신에게
+  
+  Jag skyndar mig för att få vara dig nära
+  당신이 계신 곳으로 서둘러 가고 있어요
+  
+  Om och om igen, längtar jag efter dig
+  계속, 또 계속 그리던 당신에게
+
+
+  Min längtan ej nån diamant
+  이 마음은 다이아몬드는 아니겠지요
+  
+  (Bara en liten kristall)
+  (자그마한 유리조각일 뿐)
+  
+  Ett sandkorn i öknen,
+  사막의 모래 한 알,
+  
+  En droppe i havet
+  바다의 물 한방울일지라도
+  
+  Men med högmod, kommer jag
+  저는 긍지를 가지고 왔답니다
+
+
+
+  Årstider kommer och går
+  계절이 오고 가도
+  
+  Och jag följer i samma spår
+  저는 같은 길을 따라 걸어가요
+  
+  Allt jag vill är att sova,
+  Omfamnad i din sång
+  저의 소망은 당신의 노래에 
+  감싸여 잠드는 것이예요
+  
+  Allt jag vill är att vänta,
+  Kura ihop i en dröm
+  저의 소망은 꿈 속에서 
+  스러질때까지 머무는 것이예요
+  
+  Jag följer min längtan till dig
+  그리던 당신을 따라 가겠어요
+
+
+  Satt ridande på en vind
+  바람을 타고서
+  
+  Ekar långt din sång
+  저 멀리까지 울리는 당신의 노래
+  
+  Kastad av vågor, svallar jag mot dig
+  파도에 실려 당신에게 가겠어요
+
+  Ung energi (En nostalgisk sång)
+  새로운 에너지 (그리운 노래)
+  
+  Ditt leende jag håller så nära mitt hjärta
+  가슴에 당신의 미소를 품고서
+  
+  Och jag fortsätter min färd
+  저는 여행을 계속하겠어요
+
+
+  Det är ont om tid, 
+  시간은 항상 짧기에
+  
+  och jag måste skynda mig
+  저는 서둘러야 해요
+  
+  Trodde att jag var fri,
+  자유롭다고 생각했죠,
+  
+  Fri från det förflutna
+  과거로 부터 자유롭다고
+  
+  Men mångfärgade minnen
+  하지만 색색의 추억들이
+  
+  Blommar djupt i mig
+  제 안에서 싹을 틔웠답니다
+  
+  Äntligen, äntligen når jag dig
+  마침내, 마침내 당신께 왔답니다
+  
+  Hör min sanning och se min dröm
+  저의 진심을 듣고, 제 꿈을 봐주세요
+  
+  Min vackra dröm
+  저의 아름다운 꿈을요
+
+
+  Årstider kommer och går
+  계절이 오고 가도
+  
+  Och jag följer i samma spår
+  저는 같은 길을 따라 걸어가요
+  
+  Trodde att jag var fri,
+  자유롭다고 생각했죠,
+  
+  Fri från det förflutna
+  과거로 부터 자유롭다고
+  
+  Men mångfärgade minnen
+  하지만 색색의 추억들이
+  
+  Blommar djupt i mig
+  제 안에서 싹을 틔웠답니다
+  
+  Äntligen, äntligen
+  마침내, 마침내 
+  
+  Når jag
+  제가 왔답니다
+
+
+{{tag>가사 게임음악 성검전설 성검전설-마나의_전설 오프닝송 엔딩송 시모무라_요코 카츠모리_오사무 아니카_륭베르그 댄스}}

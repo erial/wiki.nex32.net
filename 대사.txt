@@ -1,0 +1,7 @@
+====== 대사 (Dialogue) ======
+
+각종 서브컬쳐의 명대사, 자주 인용되는 인용구, 특수한 언어유희 등을 정리하는 공간입니다.
+
+게임, 애니, 라이트 노블 등의 각종 분야의 명대사들을 정리해보도록 합시다.
+
+{{pagequery>대사:;sort=ns,a,name;layout=column;group;fullregex;proper;cols=3}}

@@ -1,0 +1,35 @@
+====== HE-SYSTEM ======
+[{{  :게임기:he-system.jpg?150|HE-SYSTEM 로고}}]
+HE-SYSTEM(에이치이시스템)은 [[NEC HE]]와 [[허드슨]]이 공동으로 제작한 멀티미디어 기기 표준을 가리킨다.
+
+**HE**는 **H**ome **E**ntertainment의 약자로, NEC HE의 Home Electronics의 약자나 Hudson Entertainment의 약자가 아니다. 
+
+간단하게 요약하면 PC엔진 관련 규약으로, PC엔진과 관련된 시스템에 및 소프트웨어에 공통적으로 표기되어있다.
+
+===== 관련기기 =====
+==== 거치형 게임기 ====
+    * [[게임기:PC엔진]]
+      * 게임기:PC엔진 셔틀
+      * 게임기:PC엔진 코어그래픽스
+      * PC엔진 코어그래픽스2
+      * PC엔진 슈퍼그래픽스
+
+    * CD-ROM<sup>2</sup>
+      * SUPER CD-ROM<sup>2</sup>
+
+    * [[게임기:PC엔진 듀오]]
+      * [[게임기:PC엔진 듀오#PC엔진 듀오R|PC엔진 듀오R]]
+      * [[게임기:PC엔진 듀오#PC엔진 듀오RX|PC엔진 듀오RX]]
+
+==== 휴대형 게임기 ====
+  * [[게임기:PC엔진 GT]]
+    * [[게임기:PC엔진 LT]]
+
+==== 멀티미디어계 장비 ====
+
+    * PC-KD863G PC - KD863G
+    * X1 twin X1 twin
+    * [[게임기:레이저 액티브]]
+      * PAC - N1 (PC엔진 팩)
+
+{{tag>게임기 cd-rom 4세대 nec 8비트 플랫폼 게임 걸게 허드슨}}

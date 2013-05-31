@@ -1,0 +1,65 @@
+====== A Deus (신이시여)======
+===== 그란디아2 삽입곡 =====
+---- datatemplateentry music ----
+곡명			: A Deus
+한국어명		: 신이시여
+수록작_titles		: 게임:그란디아2
+수록앨범_albums		: TRCD-10013 | 그란디아2 OST 데우스
+발매일_dts		: 2000-08-03
+
+작사_peoples		: 카와스미 카오리 | 카와스미 카오리(川澄歌織)
+작곡_peoples		: 이와타레 노리유키 | 이와타레 노리유키(岩垂徳行)
+편곡_peoples		: 이와타레 노리유키 | 이와타레 노리유키(岩垂徳行)
+부른이_peoples		: 카와스미 카오리 | 카와스미 카오리(川澄歌織)
+----
+
+===== 상세설명 =====
+그란디아2에 삽입된 찬송가. 작중에 신에게 감사기도로 사용되는 곡이다.
+
+특이하게도 가사가 포르투갈어로 되어있다. 단어 등이 일부 포르투갈어와 상이한 점 등이 보이는데, 가사가 전체적으로 어순에 맞춘 구성이 아니라 단어 나열식인 것으로 보아 일본어로 쓴 가사를 포르투갈어로 번역한 것으로 생각된다.
+
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 풀버전 영상 | {{youtube>Cghl8YstoFM?medium}} ++
+
+  Nascer do sol, palavras, milagre
+  일출과 함께, 말이 남쳐나고, 기적이 일어나요
+  
+  Agua pura uma lagrima
+  순수한 물, 단 한방울의 눈물
+  
+  Paz luz amor...
+  평화와 빛과 사랑...
+  
+  Fruto agreste respiração liberdade
+  자연의 과실은 자유를 숨쉬네
+  
+  Harmonia vento da bén ção
+  조화로운 세상에 축복의 바람이 부네
+  
+  Agradecimento...
+  감사드리옵니다
+  
+  Tempestade inquietação escuridão
+  폭풍과 어둠이 덮은 나날은 이윽고
+  
+  Luz do sol alegria graçãs a deus...
+  신의 가호로운 태양의 빛으로 덮이리라...
+
+
+  Tempestade inquietação escuridão
+  폭풍과 어둠이 덮은 나날은 이윽고
+  
+  Luz do sol alegria graçãs a deus...
+  신의 가호로운 태양의 빛으로 덮이리라...
+
+
+  Tempestade inquietação escuridão
+  폭풍과 어둠이 덮은 나날은 이윽고
+  
+  Luz do sol alegria graçãs a deus...
+  신의 가호로운 태양의 빛으로 덮이리라...
+
+{{tag>가사 게임음악 그란디아 그란디아2 삽입곡 카와스미_카오리 이와타레_노리유키 발라드 포크 성가 }}

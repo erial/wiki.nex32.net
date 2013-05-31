@@ -1,0 +1,5 @@
+====== 게임 (Games) ======
+각종 게임의 정보와 공략 등을 모으는 곳입니다. 
+
+
+{{pagequery>게임:;sort=ns,a,name;group;layout=column;fullregex;proper;cols=2}}

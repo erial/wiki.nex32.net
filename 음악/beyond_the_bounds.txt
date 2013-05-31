@@ -1,0 +1,231 @@
+====== Beyond the bounds (경계의 너머) ======
+===== 존 오브 엔더스 2nd 런너 테마송 =====
+---- datatemplateentry music ----
+곡명			: Beyond the bounds
+한국어명		: 경계의 너머
+수록작_title		: 게임:존 오브 엔더스2
+수록앨범_albums		: KOLA-027 | 아누비스 OST
+발매일_dts		: 2003-02-13
+
+작사_peoples		: 신타니 사나에|신타니 사나에(新谷早苗), 스콧 돌프|Scott Dolph (스콧 돌프)
+작곡_peoples		: 키리오카 마키|키리오카 마키(桐岡麻季)
+편곡_peoples		: 쿠메 타이사쿠|쿠메 타이사쿠(久米大作)
+부른이_peoples		: 키무라 마키|키무라 마키(木村真紀)
+----
+
+===== 상세설명 =====
+아누비스 - 유럽과 국내에는 '존 오브 엔더스 2nd 런너'의 이미지송. 핀란드어를 기반으로 변형한 언어를 가사로 삼고 있는 특이한 곡이다. 가사의 이미지 자체는 이집트의 죽음을 관장하는 신 아누비스가 심판을 내리는 순간을 거역하는 인간의 몸부림을 그리고 있다. 원래는 키무라 마키가 부른 곡이지만, 작사에 참여한 Sana가 부른 테크노 팝 버전 또한 나와있다. 참고로 동사 코나미의 음악게임 [[팝픈 뮤직]]8의 PS2 이식판에 수록되어있다. 
+
+명곡이라고 불릴 정도로 박력있고 빠른 비트가 매력적인 곡이다. 놓치지 말고 들어보도록 하자.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 오프닝 영상보기 | {{youtube>K_B1x8E_mJc?medium}} ++
+  * ++ 테크노팝 믹스 feat.Sana | {{youtube>8F0i35nxO44?medium}} ++
+
+  Ranar likul viernopal kar Ranar likul viernopal
+  (お前の心臓を私の手のひらにお乗せ)
+  너의 심장을 내 손 위에 올리고
+  
+  Lenar panar virakeral kar Lenar panar virakeral
+  (魂は樹の枝に)
+  혼은 나무 가지에
+  
+  Ehnar lakitu luyarpal kar Ehnar lakitu luyarpal
+  (身体は羽根の上に)
+  몸은 날개 위에
+  
+  Luyan henar terarkel kar Luyan henar terakeral llukaparsi
+  (両目のうち,右眼は焼いてつぶしなさい)
+  두 눈동자 중, 오른쪽은 태워버려라
+
+
+  Tiernopar ehlkdu rapardu
+  (東の船は出発を遅らせた)
+  동쪽의 배는 출발을 늦췄다 
+  
+  Lukarmisi porer tirer lupar
+  (私の羽根なら追いつける)
+  나의 날개라면 따라 잡을 수 있을터
+  
+  Vierllosa tularsi tumirpar
+  (冥界が口を開けて追ってくる)
+  저세상이 입을 벌리고 쫓아 온다 
+  
+  Ehkulur latu retie marar
+  (お前を欲しがり口を開けている)
+  너를 원하며 입을 벌리고 있다
+
+
+  Message of the blowing wind
+  (吹きすさぶ風のメッセージ)
+  휘몰아 치는 바람의 메시지
+  
+  Erasing memories
+  (記憶を消していく)
+  기억을 지워가누나
+  
+  Stars are the witnesses of our existence
+  (星は私たちの存在を見届ける生き証人)
+  별은 우리의 존재를 지켜보는 산증인
+  
+  
+  Change is what the world awaits
+  (世界は変化を待ち望んでいる)
+  세계는 변화를 바라며 기다리고 있다 
+  
+  Could that be peace or war?
+  (それは平和、それとも争い？)
+  그것은 평화,아니면 전쟁?
+  
+  The answer no one knows
+  (その答えは誰も知らない)
+  그 대답은 아무도 모르지만
+  
+  Trusting the break of dawn
+  (夜明けの瞬間に思いを託して)
+  여명의 순간 마음을 담고서
+  
+  The blue bird flies away
+  (青い鳥は飛んでいく)
+  푸른 새는 날아간다
+
+
+
+  Ranar likul viernopal kar Ranar likul viernopal
+  (王はひときわ喜び人々に滅亡を分け与える)
+  왕은 한때의 기쁨을 위해 사람들에게 죽음을 내리고
+  
+  Lenar panar virakerral kar Lenar panar virakerral
+  (忠実な犬は炎を操り)
+  충실한 개는 불꽃을 조종하여
+  
+  Ehnar lakitu luyarpal kar Ehnar lakitu luyarpal
+  (砂漠は溶けて海になる)
+  사막은 녹아서 바다가 된다 
+  
+  Luyan henar terarkel kar Luyan henar terarkel
+  (その海を渡れる者は眠りの旅から舞い戻る)
+  그 바다를 건너는 자는 잠의 여행으로부터 되돌아오리
+
+
+  Tiernopar ehlkdu rapardu Lukarmisi porer tirer lupar
+  (私の器をお前に空けた　来世の言葉を刻む柱が)
+  내 몸을 너에게 비워주리  내세의 말이 새겨진기둥이 
+  
+  Vierllosa tularsi tumirpar Ehkulur latu retie marar
+  (天空を支えているうちに　太陽の敵を斬り分けよ)
+  천공을 떠받치고 있는 동안 태양의 적을 베어라 
+
+
+
+  Travelling beyond the bounds
+  (境界線を越えて旅立つ)
+  경계선을 넘어 여행을 떠나리라
+  
+  We have to take that step
+  (その第一歩を踏まなければ)
+  그 첫 걸음을 떼지 않으면 안된다
+  
+  What are we waiting for? It's now or never
+  (何を躊躇しているの? 今行かねば永遠に行かれない)
+  무엇을 망설이나 지금이 아니면 영원히 갈수 없건만 
+  
+  
+  Fear to see "The World to Be"
+  (「その先の世界」を見るのが怖い)
+  '밖의 세계'를 보는 것이 무섭다 
+  
+  Is why we hesitate
+  (だからこそためらっている)
+  그렇기에 주저하면서
+  
+  Repeat the same mistake
+  (同じ過ちを繰り返す)
+  같은 과오를 되풀이한다
+  
+  Hoping to break new ground
+  (新しい大地に希望を抱いて)
+  새로운 대지에 희망을 품고 
+  
+  The blue bird flies away
+  (青い鳥は飛んでいく)
+  푸른 새는 날아간다 
+
+
+
+  Pa laktu vimaturesi
+  (我は時の主人)
+  나는 시간의 주인
+  
+  pasi lameta vimaturesi
+  (我は遠方のものを連れ戻すもの)
+  나는 저 너머의 존재을 데리고 돌아오는 자
+  
+  Lanasidu kisaturesi
+  (我は二人の戦士を分けるもの)
+  나는 두 사람의 전사를 가르는 자
+  
+  makipa sela nitaturesi
+  (争いの調停者)
+  전쟁의 조정자 
+  
+  
+  Pasira laktu vimaturesi
+  (我は天空の先触れ)
+  나는 천공의 선지자
+  
+  pasi lameta vimaturesi
+  (我は万物を弾き出すもの)
+  나는 만물을 튕겨내는 자
+  
+  Lanasidu kisaturesi
+  (我はマアトを書くもの)
+  나는 마아트(Ma'at)를 쓰는 자
+  
+  makipa sela nitaturesi
+  (我は殺戮の主人)
+  나는 살육의 주인
+  
+  Pasira
+  (我は)
+  나는 
+
+
+
+  Reaching out to catch the sun
+  (太陽をつかむために腕を伸ばす)
+  태양을 붙잡기 위해서 팔을 뻗어
+  
+  To hold it in our hands
+  (手の中に納める)
+  손 안에 거둬들인다
+  
+  Longing for something strong to hide our weakness
+  (自分たちの弱さを隠すために強いものに憧れる)
+  스스로의 나약함을 숨기기 위해 강한 것을 동경한다 
+  
+  
+  Soon the light may disappear
+  (そのうち光は消えるかも知れない)
+  어느 새 빛은 사라질지도 모르나
+  
+  Nothing is meant to last
+  (永遠なものなんて無いのだから)
+  영원한 것따위 있을리 없으므로
+  
+  Yet we believe our world
+  (それでも私たちはこの世界を信じる)
+  그럼에도 우리는 이 세계를 믿는다
+  
+  Searching for happiness
+  (幸せを求めて)
+  행복을 찾아서
+  
+  The blue bird flies away
+  (青い鳥は飛んでいく)
+  푸른 새는 날아간다 
+
+
+{{tag>가사 게임음악 존_오브_엔더스 존_오브_엔더스2 신타니_사나에 키리오카_마키 쿠메_다이사쿠, 스콧_돌프, 키무라_마키, 락}}

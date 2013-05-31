@@ -1,0 +1,113 @@
+====== My heart will go on (이 마음은 영원하리) ======
+===== 타이타닉 엔딩송 =====
+---- datatemplateentry music ----
+곡명			: My heart will go on
+한국어명		: 이 마음은 영원하리
+수록작_titles		: 영화:타이타닉
+수록앨범_albums		: 
+발매일_dts		: 1997-12-08
+
+작사_peoples		: 윌 제닝스 | 윌 제닝스(Will Jennings)
+작곡_peoples		: 제임스 호너 | 제임스 호너(James Horner)
+편곡_peoples		: 제임스 호너 | 제임스 호너(James Horner)
+부른이_peoples		: 셀린 디옹 | 셀린 디옹(Céline Dion)
+----
+
+===== 상세설명 =====
+[[영화:타이타닉]]의 주제가로, 떠나간 이를 영원히 잊지 않고 계속해서 그리겠다는 다짐을 담은 노래. 
+
+작중의 내용을 함축한듯한 가사가 인상적인 곡으로, 타이타닉 영화 내용마냥 가사는 그냥 흔한 러브송이지만, [[사람:셀린 디옹]]의 놀라운 가창력이 노래에 생명을 불어넣어 완전 다른 이미지를 주는 곡으로 완성되었다. 잘 만들어진 스코어와 오케스트라 연주도 멋지지만, 이 노래의 생명은 셀린 디옹의 목소리 그 자체다. 왠만한 실력으로는 노래방에서 이 노래 부르면 본전도 못뽑는 고난이도 곡이다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 타이타닉 뮤직비디오 | {{youtube>zmbw8OycJrE?medium}} ++
+  * ++ 셀링 디옹 라이브 | {{youtube>WNIPqafd4As?medium}} ++
+
+  Every night in my dreams 
+  매일 밤 꿈속에서
+  
+  I see you, I feel you, 
+  그대를 보고, 그대를 느껴요
+  
+  That is how I know you go on 
+  당신을 계속해서 기억하는 방법이죠
+
+
+  Far across the distance 
+  And spaces between us 
+  우리사이의 머나먼 거리와
+  공간을 가로질러
+  
+  You have come to show you go on 
+  당신은 계속 모습을 보여주러 와주었죠
+
+
+  Near, far, wherever you are 
+  가까이든, 멀리든, 그대 어디에 있던지
+  
+  I believe that the heart does go on 
+  마음은 변함이 없음을 믿어요
+  
+  Once more you open the door 
+  한번 더 그대는 내 마음의 문을 열어
+  
+  And you're here in my heart 
+  제 마음속에 자리하고 있지요
+  
+  And my heart will go on and on 
+  제 마음도 한결같이 변함이 없을거예요
+
+
+  Love can touch us one time 
+  사랑은 한번의 감동으로
+  
+  And last for a lifetime 
+  남은 평생동안 지속되지요
+  
+  And never let go till we're gone 
+  우리 생이 다할 때까지 사라지지 않아요
+
+
+  Love was when I loved you 
+  그대에게 바쳤던 사랑의 순간은
+  
+  One true time I hold to 
+  지금도 소중히 간직하는 진실한 순간이었죠
+  
+  In my life we'll always go on 
+  일생 동안 우리는 항상 함께 할거예요
+
+
+  Near, far, wherever you are 
+  가까이든, 멀리든, 그대 어디에 있던지
+  
+  I believe that the heart does go on 
+  마음은 변함이 없음을 믿어요
+  
+  Once more you open the door 
+  그대는 한번 더 제 마음의 문을 열어
+  
+  And you're here in my heart 
+  제 가슴속에 자리하고 있어요
+  
+  And my heart will go on and on 
+  제 마음도 한결같이 변함이 없을거예요
+
+
+  You're here, there's nothing I fear, 
+  그대가 여기 있으니 두려울 것이 없어요
+  
+  And I know that my heart will go on 
+  제 마음도 항상 변함이 없으리란걸 알아요
+  
+  We'll stay forever this way 
+  우리는 영원이 변함없이 이렇게 있겠죠
+  
+  You are safe in my heart 
+  그대는 제 가슴속에 살아있고 
+  
+  And my heart will go on and on 
+  제 마음도 한결같이 변함이 없을거예요
+
+{{tag>가사 영화음악 엔딩송 이미지송 타이타닉 윌_제닝스 제임스_호너 셀린_디옹 발라드}}

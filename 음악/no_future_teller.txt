@@ -1,0 +1,113 @@
+====== No fortune teller (노 포츈 텔러) ======
+===== 소서리언 삽입곡/이미지송 =====
+---- datatemplateentry music ----
+곡명			: No fortune teller
+한국어명		: 노 포츈 텔러
+수록작_titles		: 게임:소서리언
+수록앨범_albums		: K13X-23041_6 | FALCOM SPECIAL BOX '89 8cmCD (6discs), KIDA-5003 | VOCAL-FALCOM SPECIAL BOX '89, KICA-1042_3 | FALCOM VOCAL COLLECTION I, NW10102220 | FALCOM SPECIAL BOX '89(1) -FUSION + VOCAL + PLUS MIX-
+발매일_dts		: 1988-1205
+
+작사_peoples		: 필립 H 로즈 | 필립 H 로즈(Phillip H. Rose)
+작곡_peoples		: TeamJDK
+편곡_peoples		: 야노 타츠미 | 야노 타츠미(矢野立美)
+부른이_peoples		: 모리구치 히로코 | 모리구치 히로코(森口博子)
+----
+
+===== 상세설명 =====
+
+게임이 아니라 Sorcerian Utility Vol.1에 수록된 곡을 편곡한 곡으로, 괴상하게도 일본판 표기에는 No future teller 라고 되어있는데, 가사에는 엄연히 No fortune teller로 되어있고, 흐름상 보아도 No fortune teller 가 맞다. 그런고로 파일명은 no future teller로, 제목은 No fortune teller로 표기해둔다. 
+
+곡은 말 그대로 점따위 봐도 아무 도움도 안되니 뒤돌아보지 말고 앞으로 열심히 정진하라는 내용이다. 
+
+...근데 아무리 봐도 화자가 점쟁이인 것 같은데; 점쟁이가 점쟁이는 없다는 내용의 노래를 부르는 점이 아이러니하다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 매드무비 보기 | {{youtube>kRA-T2qqbsA?medium}} ++
+
+  Make your choice now
+  지금 선택하세요
+  
+  Life won't wait for you
+  삶은 당신을 기다려주지 않아요
+  
+  Never look back, that's the way it should be
+  절대 뒤돌아보지 말아요, 오직 하나뿐인 길이죠
+
+
+  Take some chances
+  기회를 붙잡은 순간부터
+  
+  Time is sliding by hesitate now
+  머뭇거리면 시간은 쏜살같이 흘러가요
+  
+  And you'll never be free
+  그리고 다시는 자유란 없겠죠
+
+
+  No fortune teller
+  점술사는 없어요
+  
+  Who'll give the answer
+  누가 해답을 내줄까요?
+  
+  You're on your own now forever and ever
+  당신의 해답은 당신만이 낼 수 있어요 영원히
+  
+  No one can help, here's a little hint to obey
+  누구도 도울 수 없어요, 작은 힌트만으로
+  
+  You got to find the way
+  당신은 길을 찾아내야해요
+
+
+  Words of wisdom come from friends around
+  주위의 친구들의 현명한 조언을 들어보세요
+  
+  They try to help but they cannot be you
+  그들은 당신을 돕겠지만, 당신이 되어줄 순 없어요
+
+
+  Find your own road
+  당신만의 길을 찾으세요
+  
+  Use no crystal ball
+  수정구슬에 의지하지 말고
+  
+  Life's an adventure, the journey's the key
+  인생은 모험이에요, 그게 바로 여행의 열쇠죠
+
+
+  You make the right choice
+  옳바른 선택을 하세요
+  
+  You'll get the answer
+  그러면 올바른 해답을 찾겠지요
+  
+  You're on your way now forever and ever
+  당신은 지금도, 앞으로도 당신의 길 위에 있어요
+  
+  No one can help, here's a little hint to obey
+  누구도 도울 수 없어요, 작은 힌트만으로
+  
+  You got to find the way
+  당신은 길을 찾아내야해요
+
+
+  No fortune teller
+  점술사는 없어요
+  
+  Who'll give the answer
+  누가 해답을 내줄까요?
+  
+  You're on your own now forever and ever
+  당신의 해답은 당신만이 낼 수 있어요 영원히
+  
+  No one can help, here's a little hint to obey
+  누구도 도울 수 없어요, 작은 힌트만으로
+  
+  You got to find the way
+  당신은 길을 찾아내야해요
+
+{{tag>가사 게임음악 팔콤 소서리언 삽입곡 이미지송 필립_H_로즈 TeamJDK 야노_타츠미 모리구치_히로코 발라드}}

@@ -1,0 +1,147 @@
+====== ANU ORTA VENIYA (夜が明けたら, 아침이 밝아오면) ======
+===== 팬져드래군 오르타 엔딩 =====
+---- datatemplateentry music ----
+곡명			: ANU ORTA VENIYA
+한국어명		: 아침이 밝아오면
+수록작_titles		: 게임:팬져드래군 오르타
+수록앨범_albums		: 앨범:MJCG-80116 | 팬져드래군 오르타 OST
+발매일_dts		: 2002-12-19
+
+작사_peoples		: 쿠리하라 시게루 | 쿠리하라 시게루
+작곡_peoples		: 코바야시 사오리 | 코바야시 사오리 (小林早織)
+편곡_peoples		: 마츠오 하야토 | 마츠오 하야토 (松尾早人)
+부른이_peoples		: 이토 에리 | 이토 에리 (伊東恵里)
+----
+
+===== 상세정보 =====
+[[게임:팬져드래군 오르타]]의 엔딩곡. 초대 작품부터 이어져 [[게임:팬져드래군 사가]]를 넘어 세대를 뛰어넘어서 영원의 길을 걷기 위한 그들의 여행을 찬양하는 노래이다. 
+
+일어로는 '밤이 밝아오면'이 맞지만 가사상 의미로 한국어에서는 '아침이 밝아오면'이 표현적으로 더 적절해 아침이 밝아오면으로 표현했으니 이해 바란다. 위의 가사가 팬져어 가사, 아래가 원 일본어 가사, 그 아래가 일본어 기준으로 번역한 가사임을 밝혀둔다. 팬져어를 직접 번역 하기에는 어려움이 따라 일어 번역을 하였으니 이해 바란다. 
+
+팬져어로 일부나마 번역을 해보려거든 [[용어:팬져어]] 항목을 참고해서 발음에 맞춰 들어보자. 의외로 듣다보면 알아들을 수 있게 된다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 영상보기 | {{youtube>GsxMBrXm7Ic?medium}} ++
+
+  ANU ORTA VENIYA SERERE KRYTHE
+  (夜が明けたら畑に麦を播こう)
+  아침이 밝아오면 밭에 보리를 뿌리자
+  
+  PRAIAR SOL TORRERE SOLUM
+  (日差しが土を焼く前に)
+  햇살이 땅을 태우기 전에
+  
+  ANU PLUVIA IRE SERERE KRYTHE
+  (雨がやんだら畑に種を播こう)
+  비가 그치면 밭에 씨를 뿌리자
+  
+  PRAIAR NEBULA TORRERE LAIMOS
+  (水銀の霧が私の喉を焼く前に)
+  수은의 안개가 내 목을 태우기 전에
+
+
+  ANU ORTA VENIYA SERERE KRYTHE
+  (夜が明けたら畑に麦を播こう)
+  아침이 밝아오면 밭에 보리를 뿌리자
+  
+  PRAIAR SOL TORRERE SOLUM
+  (日差しが土を焼く前に)
+  햇살이 땅을 태우기 전에
+  
+  ANU PLUVIA IRE SERERE KRYTHE
+  (雨がやんだら畑に種を播こう)
+  비가 그치면 밭에 씨를 뿌리자
+  
+  PRAIAR NEBULA TORRERE LAIMOS
+  (水銀の霧が私の喉を焼く前に)
+  수은의 안개가 내 목을 태우기 전에
+
+
+  TEXERE LINUM ALERE AMNOS
+  (亜麻の布を織り羊を追い)
+  아마의 천을 짜며 양을 쫓는
+  
+  INTER SKENE KATO UVA
+  (ぶどう棚の陰にある小さな家で)
+  포도 시렁 그늘에 있는 작은 집에서
+  
+  IN AMATUS EDE EVANESCERE
+  (ここにはもういない貴方と)
+  여기에는 이제 없는 당신과
+  
+  IN ADEIN IE TEMAR VIVIRE
+  (同じ歌口ずさみ生きていこう)
+  같은 노래를 흥얼거리며 살아가리
+
+
+  ANU ORTA VENIYA SERERE KRYTHE
+  (夜が明けたら畑に麦を播こう)
+  아침이 밝아오면 밭에 보리를 뿌리자
+  
+  PRAIAR VONT KRYSTALLOS SOLUM
+  (風が土を凍らせる前に)
+  바람이 땅을 얼려버리기 전에
+  
+  ANU PLUIVA IRE SERERE KRYTHE
+  (雨がやんだら畑に麦を播こう)
+  비가 그치면 밭에 씨를 뿌리자
+  
+  PRAIAR HALS KRYSTALLOS KORE NOSTER
+  (涙の塩が私の目を凍らせる前に)
+  눈물의 소금이 내 눈을 얼려버리기 전에
+
+
+  TEXERE LINUM ALERE AMNOS
+  (亜麻の布を織り羊を追い)
+  아마의 천을 짜며 양을 쫓는
+  
+  INTER SKENE KATO UVA
+  (ぶどう棚の陰にある小さな家で)
+  포도 시렁 아래의 작은 집에서
+  
+  IN AMATUS EDE EVANESCERE
+  (ここにはもういない貴方と)
+  여기에는 이제 없는 당신과
+  
+  IN ADEIN IE TEMAR VIVIRE
+  (同じ歌口ずさみ生きていこう)
+  같은 노래를 흥얼거리며 살아가리
+
+
+  ANU ORTA VENIYA SERERE KRYTHE
+  (夜が明けたら畑に麦を播こう)
+  아침이 밝아오면 밭에 보리를 뿌리자
+  
+  PRAIAR VONT KRYSTALLOS SOLUM
+  (風が土を凍らせる前に)
+  바람이 땅을 얼려버리기 전에
+  
+  ANU PLUIVA IRE SERERE KRYTHE
+  (雨がやんだら畑に麦を播こう)
+  비가 그치면 밭에 씨를 뿌리자
+  
+  PRAIAR HALS KRYSTALLOS KORE NOSTER
+  (涙の塩が私の目を凍らせる前に)
+  눈물의 소금이 내 눈을 얼려버리기 전에
+
+
+  ANU ORTA VENIYA SERERE KRYTHE
+  (夜が明けたら畑に麦を播こう)
+  아침이 밝아오면 밭에 보리를 뿌리자
+  
+  PRAIAR VONT KRYSTALLOS SOLUM
+  (風が土を凍らせる前に)
+  바람이 땅을 얼려버리기 전에
+  
+  ANU PLUIVA IRE SERERE KRYTHE
+  (雨がやんだら畑に麦を播こう)
+  비가 그치면 밭에 씨를 뿌리자
+  
+  PRAIAR HALS KRYSTALLOS KORE NOSTER
+  (涙の塩が私の目を凍らせる前に)
+  눈물의 소금이 내 눈을 얼려버리기 전에
+
+
+{{tag>가사 게임음악 엔딩송 팬져드래군_오르타 민속음악 쿠리하라_시게루 코바야시_사오리 마츠오_하야토 이토_에리 발라드}}

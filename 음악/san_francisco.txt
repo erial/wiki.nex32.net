@@ -1,0 +1,96 @@
+====== San Francisco(샌프란시스코) ======
+===== 스콧 맥켄지 1집 =====
+---- datatemplateentry music ----
+곡명			: San Francisco
+한국어명		: 샌프란시스코
+수록작_titles		: 영화:졸업, 영화:더 락, 영화:포레스트 검프
+수록앨범		: The Voice Of Scott McKenzie, San Francisco (Be Sure To Wear Some Flowers In Your Hair), San Francisco / Like An Old Time Movie
+발매일_dts		: 1967-05-13
+
+작사_peoples		: 존 필립스 | 존 필립스(John Phillips)
+작곡_peoples		: 존 필립스 | 존 필립스(John Phillips)
+편곡_peoples		: 존 필립스 | 존 필립스(John Phillips)
+부른이_peoples		: 스콧 맥켄지 | 스콧 맥켄지(Scott McKenzie)
+----
+
+===== 상세설명 =====
+1967년 5월, 몬터레이 팝 페스티벌에서 처음 공개된 이 곡은, 60년대를 대표하는 [[용어:히피]] 문화의 상징적인 곡 중 하나이다. 히피 문화의 중심지라고 할 수 있는 샌프란시스코를 향해 자유를 부르짖으며 모두들 이곳에 와서 자유를 만끽하라는 메시지를 담은 곡. 
+
+자유와 평화에 대한 갈망과 희망에대한 메시지를 담았던 초기 히피 운동을 있는 그대로 그린 듯한 곡이다. (후일 여러 탄압과 약물중독 등의 부작용으로 많은 안좋은 이미지가 생기긴 했지만, 히피 문화의 초기에는 기성세대와 지나치게 탐욕적으로 변질된 자본주의 중심 사회에 대한 저항과 극복 의지가 담겨 있었다)
+
+워낙 인상깊은 곡이다보니 여러 영화에도 삽입되었는데, 주요적으로 '졸업'에서 인상적으로 흘러나온 바 있으며, '더 락'에서는 숀 코넬리가 목욕도중 직접 흥얼거리기도 한다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 스콧 맥켄지 영상 | {{youtube>bch1_Ep5M1s?medium}} ++
+  * ++ 앨범버전 | {{youtube>eKeXkhxiq6I?medium}} ++
+
+  If you're going to San Francisco
+  혹시 샌프란시스코에 가시거든
+  
+  Be sure to wear some flowers in your hair
+  꼭 머리에 꽃을 꽂아주세요
+  
+  If you're going to San Francisco
+  혹시 샌프란시스코에 가시면
+  
+  You're gonna meet some gentle people there
+  친절한 사람들을 만나게 될거예요
+
+
+  For those who come to San Francisco
+  샌프란시스코에 오는 사람들에게
+  
+  Summer time will be a lovin' there
+  여름 날씨는 정말 화창할 거에요
+  
+  In the streets of San Francisco
+  샌프란시스코의 거리에서는
+  
+  Gentle people with flowers in their hair
+  친절한 사람들이 머리에 꽃을 꽂고 있어요
+
+
+  All across the nation
+  온 나라에 걸쳐서
+  
+  Such a strange vibration
+  어떤 신비한 떨림으로
+  
+  People in motion
+  사람들이 움직여요
+  
+  There's a whole generation
+  모든 세대가 함께
+  
+  With a new explanation
+  새로운 설명과 함께
+  
+  People in motion
+  사람들이 움직여요
+  
+  People in motion
+  사람들이 움직여요
+
+
+  For those who come to San Francisco
+  누군가 샌프란시스코에 오신다면
+  
+  Be sure to wear some flowers in your hair
+  꼭 머리에 꽃을 꽂아주세요
+  
+  If you come to San Francisco
+  혹시 샌프란시스코에 오시거든
+  
+  Summer time will be a lovin' there
+  여름 날씨는 정말 화창할 거에요
+
+
+  If you come to San Francisco
+  혹시 샌프란시스코에 오시거든
+  
+  Summer time will be a lovin' there
+  여름 날씨는 정말 화창할 거에요
+
+{{tag>가사 pop 영화음악 존_필립스 스콧_맥켄지 졸업 더_락 포레스트_검프 포크송 }}

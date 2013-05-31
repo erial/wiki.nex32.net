@@ -1,0 +1,59 @@
+====== All your base are belong to us ======
+===== 개요 =====
+[{{  :대사:aybabtu:allyourbase.jpg?300|전설의 시작}}]
+'All your base are belong to us'는 엉터리 영어 문장으로, 문법도, 정황상 쓰이는 표현도 잘못된 괴 문장의 대명사다. 그 괴상망측한 표현의 특성 때문에 2000년 부터 2002년 사이에 유튜브 등을 기반으로 전 세계의 인터넷 상에서 매우 큰 유행을 했다. 
+
+이 대사는 [[회사:토아플랜]]에서 제작한 '제로 윙'을 1991년 [[게임기:메가드라이브]]용으로 [[회사:세가]]에서 영문판으로 이식한 버전의 오프닝 컷신에서 나온 것으로, 해당 번역을 일본 쪽에서 날림으로 한 탓인지 대사가 대략 이해할 수 없는 방향으로 번역되어 나온 것이다. 줄여서 **All your base**, **AYBABTU**, **AYB**라고 표기하기도 한다.
+
+원문은 '君達の基地は、全てCATSがいただいた'로, '너희의 기지는 전부 CATS가 접수했다'인데, 이를 영어로 번역하면 원래는 'all of your bases have been taken over by CATS' 정도가 되어야 하는데 그냥 사전적으로 대충 끼워맞춘 탓인지 한 화면에 쓰는 글자 수 제한이 있기 때문에 억지로 끼워 맞춘 것인지는 모르겠지만 현재의 '**All your base are belong to us**'가 되어버렸다. 
+
+한글로 번역하면 '너네 기지 전부 우리에게 속한다'는 느낌인데, 이 대사가 패러디되어서 [[게임:스타크래프트2]]의 유닛인 밤까마귀의 대사로도 등장하는데, 한국어판에서는 '모든 너 기지 다 내꺼다요'로 번역되어있다.
+
+외계인이 어눌하게 지구말을 쓰면 저런 말투가 나온다는 식으로 받아들이면 적합하다.
+
+당연히 당시에도 이상하다고 생각했을만 하지만 당시에는 인터넷 등의 커뮤니케이션이 없어 크게 알려져 있지 않다가, 1998년 인터넷에서 이것에 대한 이야기가 시작되었고, 1998년 후반에 이 문장은 많은 인터넷 게시판에서 등장하였다. 2000년에는 한 인터넷 사이트에서 '[[http://www.overclocked.org/OCzerowing.htm|제로윙 녹음 기획]]'이란 것을 올리면서 광범위하게 알려지기 시작했고, 이것이 퍼지면서 플래쉬 무비나 애니GIF 등으로 만들어지면서 전 세계적인 센세이션을 불러 일으켰다. 
+
+[{{  :대사:aybabtu:all_base_tee_opt.jpg?300|T셔츠}}]
+
+2000년에는 캐나다 Gabber 음악 그룹 **The Laziest Men on Mars**가 'Invasion of the Gabber Robots'라는 곡에 [[사람:우에무라 다츠야]]가 작곡한 제로윙의 게임 음악과 도입부 대사들을 샘플로 사용하였다.
+
+2001년에는 관련 포럼에서 T셔츠를 판매하거나 해당 대사를 패러디한 문구가 새겨진 각종 상품이 쏟아져 나왔다. 이후에도 각종 패러디나 지면에 해당 문구를 새긴 영상이나 패러디 작품들이 쏟아져 나온 바 있다. 유튜브 등의 UCC 사이트가 생겨난 이후로는 각종 패러디에 활용되기도 했으며, [[회사:블리자드]]의 게임 [[게임:스타크래프트2]]에도 패러디되어 대사가 삽입되기도 했다.
+
+참고로 영어 번역이 이상한 것은 그렇다 치고서, 일본어 원문 쪽도 좀 이상하게 되어 있다. 초반 함장 대사의 '言んだ'라든가('言**う**んだ'라고 표기해야 한다), おっお라든가 ばっば 같은 의미를 알 수 없이 말을 더듬는 듯한 자막이 문제. 사실 내용 자체도 도대체 뭐가 어떻게 되어 초면의 외계인에게 '너는!'하고 놀라는 건지, '너희 연방 정부군의 협력'이 무엇인지 알 수 없는 등, 의미 불명 투성이다.
+
+===== 주요 대사 및 수정 =====
+^ 일본어 원문 ^ 영문판 삽입 대사 ^ 수정된 대사 ^ 한국어 번역 ^
+| 機関士：何者かによって、爆発物が仕掛けられたようです。 | Mechanic: Somebody set up us the bomb. | Engineer: An unknown assailant has planted an explosive device! | 기관 담당 : 누군가가 폭발물을 설치한 것 같습니다. |
+| 通信士：メインスクリーンにビジョンが来ます。 | Operator: Main screen turn on. | Radio Operator: Video being routed to the main screen. | 통신 담당 : 메인 스크린을 통해 영상이 전달되고 있습니다. |
+| CATS：連邦政府軍のご協力により、**君達の基地は、全てCATSがいただいた。** | CATS: **All your base are belong to us.** | CATS: With the help of Federation Forces, **all of your bases have been taken over by CATS.** | CATS : 연방 정부군의 협력으로, 너희의 기지는 전부 CATS가 접수했다. |
+| CATS：せいぜい残り少ない命を、大切にしたまえ・・・・。 | CATS: You have no chance to survive make your time. | CATS: Treasure what little remains of your lives. | CATS : 얼마 남지 않은 그 목숨을, 소중히 하기 바란다... |
+| 艦長：我々の未来に希望を・・・ | Captain: For great justice. | Captain: Let's hope for our future... | 함장 : 우리 미래에 희망이 있기를... |
+
+===== 전체 대사 =====
+^ 일본어 원문 ^ 영문판 삽입 대사 ^ 한국어 번역 ^
+|西歴2101年|In A.D. 2101|서기 2101년|
+|戦いは始まった。|War was beginning.|전쟁은 시작되었다.|
+|艦長 : 一体どうしたと言んだ!|Captain : What happen?|함장 : 도대체 무슨 일이냐!|
+|機関士 : 何者かによって、爆発物が仕掛けられたようです。|Mechanic : Somebody set up us the bomb.|기관 담당 : 누군가가 폭발물을 설치한 것 같습니다.|
+|通信士 : 艦長! 通信が入りました!|Operator : We get signal.|통신 담당 : 함장님! 통신이 들어오고 있습니다!|
+|艦長 : なにっ!|Captain : What!|함장 : 뭐라고!|
+|通信士 : メインスクリーンにビジョンが来ます。|Operator : Main screen turn on.|통신 담당 : 메인 스크린을 통해 영상이 전달되고 있습니다.|
+|艦長 : おっお前は!!|Captain : It's you!!|함장 : 너, 너는!!|
+|CATS : おいそがしそうだね、諸君。|CATS : How are you gentlemen!!|CATS : 바쁘신 모양이군, 제군.|
+|CATS : 連邦政府軍のご協力により、君達の基地は、全てCATSがいただいた。|CATS : All your base are belong to us.|CATS : 연방 정부군의 협력으로, 너희의 기지는 전부 CATS가 접수했다.|
+|CATS : 君達の艦も、そろそろ終わりだろう。|CATS : You are on the way to destruction.|CATS : 너희 전함도 이제 슬슬 끝이로군.|
+|艦長: ばっばかなっ…!|Captain : What you say!!|함장 : 바, 바보같은...!|
+|CATS : 君達のご協力には感謝する。せいぜい残り少ない命を、大切にしたまえ…。|CATS : You have no chance to survive make your time.|CATS : 너희의 협력에는 감사하네. 얼마 남지 않은 그 목숨을, 소중히 하기 바란다...|
+|CATS : ハッハッハッハッハッ…|CATS : HA HA HA HA ...|CATS : 하하하하하...|
+|通信士 : 艦長…。|Operator : Captain!!|통신 담당 : 함장님...|
+|艦長: ZIG 全機に発進命令!!|Captain : Take off every 'ZIG'!!|함장 : ZIG 전 기체에 발진 명령을 내려라!!|
+|艦長: もう彼らに託すしかない…。|Captain : You know what you doing.|함장 : 이제 그들에게 맡길 수밖에 없다...|
+|艦長: 我々の未来に希望を…|Captain : Move 'ZIG'.|함장 : 우리 미래에 희망이 있기를...|
+|艦長: たのむぞ。ZIG!!|Captain : For great justice.|함장 : 부탁한다. ZIG!!|
+
+++++ 관련 정리 영상보기 | {{youtube>qItugh-fFgg?medium}} ++++
+
+===== 연관 고리 =====
+  * 제로윙 더빙 프로젝트 페이지 : http://www.overclocked.org/OCzerowing.htm
+
+{{tag>대사 괴대사 외계어 AYBABTU All_your_base_are_belong_to_us 헬파이어}}

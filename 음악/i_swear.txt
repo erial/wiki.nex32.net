@@ -1,0 +1,4 @@
+====== I swear 곡 목록 ======
+I swear 제목을 가지는 곡 목록
+
+{{pagequery>음악:i_swear:;sort=ns,a,name;group;fullregex;proper=header;}}

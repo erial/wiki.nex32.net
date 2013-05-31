@@ -1,0 +1,27 @@
+====== 섀도우 컴플렉스(Shadow Complex) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:섀도우_컴플렉스:0ocligjhbc9cfquxxfjrf0y2l2fjac8wlzyaaaaa5_fn-afxgq_.jpg|}}|공개|검정새 죽이기|15 G|부통령을 공격하는 헬리콥터를 파괴하십시오.|
+|{{:도전과제:섀도우_컴플렉스:04cligjhbc9dfquxxfjrf0y2l2fjac8wlzcaaaaa5_fn-egjeg_.jpg|}}|공개|조심해!|5 G|경비 로봇을 이용해 적병을 제거하십시오.|
+|{{:도전과제:섀도우_컴플렉스:1ycligjhbc9gfquxxfjrf0y2l2fjac8wlziaaaaa5_fn_iktzq_.jpg|}}|공개|근접전 전문가|15 G|적병 5명에게 근접공격을 가하십시오.|
+|{{:도전과제:섀도우_컴플렉스:1icligjhbc9hfquxxfjrf0y2l2fjac8wlzmaaaaa5_fn_8jrxg_.jpg|}}|공개|폭파광|20 G|경비 로봇 20개를 발로 차서 폭파시키십시오.|
+|{{:도전과제:섀도우_컴플렉스:0icligjhbc9bfquxxfjrf0y2l2fjac8wlzuaaaaa5_fn-4b4na_.jpg|}}|공개|비명 제조기|20 G|병사 100명의 비명소리를 들으십시오.|
+|{{:도전과제:섀도우_컴플렉스:0icligjhbc9mfquxxfjrf0y2l2fjac8wlzgaaaaa5_fn-2adha_.jpg|}}|공개|물 위를 걷다|5 G|초고속 이동으로 호수 한쪽 끝에서 맞은편 끝까지 달리십시오.|
+|{{:도전과제:섀도우_컴플렉스:0ycligjhbc9afquxxfjrf0y2l2fjac8wlzqaaaaa5_fn-mcapw_.jpg|}}|공개|헤드샷 전문가|20 G|헤드샷을 50번 성공하십시오.|
+|{{:도전과제:섀도우_컴플렉스:0ocligjhbc81fquxxfjrf0y2l2fjac8wl0eaaaaa5_fn-tiitg_.jpg|}}|공개|완벽주의자|20 G|아이템을 모두 획득하고 게임을 완료하십시오.|
+|{{:도전과제:섀도우_컴플렉스:0ycligjhbc9nfquxxfjrf0y2l2fjac8wlzkaaaaa5_fn-ozljw_.jpg|}}|공개|영웅 탄생|50 G|난이도에 상관없이 게임을 완료하십시오.|
+|{{:도전과제:섀도우_컴플렉스:0ycligjhbc83fquxxfjrf0y2l2fjac8wl0maaaaa5_fn-vl5aa_.jpg|}}|공개|실험광|10 G|실험장에서 챌린지 팩 3개를 완료하십시오.|
+|{{:도전과제:섀도우_컴플렉스:0icligjhbc82fquxxfjrf0y2l2fjac8wl0iaaaaa5_fn-xmb_w_.jpg|}}|공개|최소주의자|10 G|아이템을 13% 이하로 획득하고 게임을 완료하십시오.|
+|{{:도전과제:섀도우_컴플렉스:1icligjhbc8wfquxxfjrf0y2l2fjac8wl0qaaaaa5_fn_1uskq_.jpg|}}|공개|극한의 전사|10 G|경험치 레벨을 50까지 올리십시오.|
+</sortable>
+
+==== 타임어택 공략 =====
+{{:도전과제:섀도우_컴플렉스:23kbyhe.png?300|}}
+{{:도전과제:섀도우_컴플렉스:34rzuk8.png?300|}}
+{{:도전과제:섀도우_컴플렉스:6i7l9i.png?300|}}
+{{:도전과제:섀도우_컴플렉스:jikzzm.png?300|}}
+
+{{tag>게임 도전과제 엑스박스라이브 엑스박스360 xbox360 xboxlive archivement 섀도우_컴플렉스 }}  

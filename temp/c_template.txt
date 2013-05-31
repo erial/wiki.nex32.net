@@ -1,0 +1,5 @@
+<hidden onVisible="**열려있을 때 제목**" onHidden="**닫혀있을 때 제목**" initialState="visible"><WRAP 100%>
+
+#본문 삽입
+
+</WRAP></hidden>

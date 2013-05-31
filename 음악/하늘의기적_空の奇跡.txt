@@ -1,0 +1,95 @@
+====== 空の奇跡 (하늘의 기적) ======
+===== 팬져드래군 OVA 이미지송 =====
+---- datatemplateentry music ----
+곡명			: 空の奇跡, Sora No Kiseki
+한국어명		: 하늘의 기적
+수록작_titles		: 애니:팬져드래군 OVA
+수록앨범_albums		: VPCG-84617 | 팬져드래군 OVA OST
+발매일_dts		: 1996-10-02
+
+작사_peoples		: 아라이 아키노
+작곡_peoples		: 아라이 아키노
+편곡_peoples		: 아라이 아키노
+부른이_peoples		: 시라토리 유리 | 시라토리 유리(白鳥由里)
+----
+
+===== 상세설명 =====
+
+게임으로 유명한 [[게임:팬져드래군]]의 애니메이션판...[[애니:팬져드래군 OVA]]의 이미지송. 애니메이션은 설정을 너무 날려먹고 이야기를 설명도 없이 그냥 대충 게임 흐름에 맞춰 끼워 맞춰 만든듯한 점, 뜬금없이 여자 캐릭터를 억지로 끼워넣는 등, 실제로 보면 정신이 멍해지게 되는 것이 특징이다. 제작진들이 [[회사:프로덕션IG]]와 휘황찬란한 것을 보고나면 다시한번 현기증이 일어나게 되는 것이 특징. 하지만 일단 일본 애니메이션 업계 최초의 풀디지털 작업된 셀애니메이션으로 기록되어있다. (...)
+
+이 노래는 이미지 보컬로 본편에는 삽입되어있지 않지만, 아라이 아키노가 작사, 작곡을 담당하고, 시라토리 유리가 불렀다. 단지 아쉬운 점은 노래 가사가 아무리봐도 [[용어:팬져어]]가 아니라는 것. 게다가 [[용어:OST]]에도 번역이 없다! 가사를 알아들을 수가 없어! 때문에 번역은 못싣고, 그냥 영문으로 표기된 곡의 가사에 독음만 실어둔다. 혹 이 비문을 해석할 수 있는 언어학자가 있다면 부디 번역을 부탁드린다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 노래듣기 | {{youtube>s8YOQcfyyS0?medium}} ++
+
+  Laqua la di isi canta
+  (라콰-라 디 이스 칸타)
+  
+  Lu canta io diri isita dirie
+  (루 칸타 이오 디리 이스타 디리에)
+  
+  Orf dana rf dana tilia
+  (오릎 다나 루프 다나 틸리아)
+
+
+  Non yf tira ti if dina i soi
+  (논 유프 티라, 티 잎 디나 이 스와)
+  
+  Yaies dena de nay landi
+  (야레스 데나 데 내 란티)
+
+
+  O tula dilie noztra ditue advri
+  (오 툴라 딜리에 노투라 디튜에 애듀리)
+  
+  Suri quanti hao duola risti nonti 
+  (수리 쿤티 하 둘라 리슈티 논티)
+
+
+  Laqua la di isi canta
+  (라콰-라 디 이스 칸타)
+  
+  Lucanta io diri isita didie
+  (루칸타 이오 디리 이슈타 디리에)
+  
+  Orf dana rf dana tilia
+  (오릎 다나 루프 다나 틸리아)
+
+
+  Sant ilia tura stia f soi
+  (산트 일리아 투라 슈티아 프 스와)
+  
+  Ant ilia son ma tia
+  (안트 일리아 슨 마 티아)
+
+
+  Otula dilie noztra ditue advri
+  (오툴라 디리아 노스투라 디투에 애듀리)
+  
+  Suri quanti hao duola risti nonti
+  (수리 콴티 하 둘라 리슈티 논티)
+
+
+  Laqua la lau fana
+  (라콰-라 라-우 파나)
+  
+  Sofina io lusi asita didie
+  (소피나 이오 루시 아시타 디티에)
+  
+  Santua landi tu landi dilia
+  (산투 란티 투 란티 틸리아)
+
+
+  Di isi canta
+  (디 이슈 칸타)
+  
+  Lu canta io diri isita dirie
+  (루 칸타 이오 디리 이슈칸타 디리에)
+  
+  Orf dana rf dana tilia
+  (오릎 다나 루프 다나 틸리아)
+
+
+{{tag>가사 애니음악 팬져드래군 팬져드래군_OVA 이미지송 시라토리_유리 아라이_아키노 발라드}}

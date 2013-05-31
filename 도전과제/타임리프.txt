@@ -1,0 +1,14 @@
+====== 타임 리프(タイムリープ) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:타임리프:14cligjhbc9cfqufxvdrgeqyl2fjac8wlzyaaaaa5_fn_hbslq_.jpg|}}|공개|プロローグクリア\\ 프롤로그 클리어|100 G|プロローグをクリアする\\ 프롤로그를 클리어 한다|
+|{{:도전과제:타임리프:0ocligjhbc9ffqufxvdrgeqyl2fjac8wlzeaaaaa5_fn-dqh1a_.jpg|}}|비밀|歩クリア\\ 아유무 클리어|180 G|歩シナリオをクリアする\\ 아유뮤 시나리오를 클리어 한다|
+|{{:도전과제:타임리프:0icligjhbc9gfqufxvdrgeqyl2fjac8wlziaaaaa5_fn--uoyq_.jpg|}}|비밀|あゆむクリア\\ 아유무2 클리어|180 G|あゆむシナリオをクリアする\\ 아유무2 시나리오를 클리어 한다|
+|{{:도전과제:타임리프:1ycligjhbc9bfqufxvdrgeqyl2fjac8wlzuaaaaa5_fn_lflma_.jpg|}}|비밀|悠クリア\\ 유우 클리어|180 G|悠シナリオをクリアする\\ 유우 시나리오를 클리어 한다|
+|{{:도전과제:타임리프:0ycligjhbc9hfqufxvdrgeqyl2fjac8wlzmaaaaa5_fn-hx28g_.jpg|}}|비밀|遥クリア\\ 하루카 클리어|180 G|遥シナリオをクリアする\\ 하루카 시나리오를 클리어 한다|
+|{{:도전과제:타임리프:1icligjhbc9afqufxvdrgeqyl2fjac8wlzqaaaaa5_fn_7cdcw_.jpg|}}|비밀|こももクリア\\ 코모모 클리어|180 G|こももシナリオをクリアする\\ 코모모 시나리오를 클리어 한다|
+</sortable>
+{{tag>걸게 게임 도전과제 xbox360}}

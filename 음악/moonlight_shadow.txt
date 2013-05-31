@@ -1,0 +1,134 @@
+====== Moonlight Shadow (문라이트 쉐도우) ======
+===== 마이크 올드필드 앨범 문라이트 쉐도우 수록곡 =====
+---- datatemplateentry music ----
+곡명			: Moonlight Shadow
+한국어명		: 문라이트 쉐도우
+수록작_titles		: 
+수록앨범_albums		: 
+발매일_dts		: 1983-05-06
+
+작사_peoples		: 마이크 올드필드 | 마이크 올드필드(Mike Oldfield)
+작곡_peoples		: 마이크 올드필드 | 마이크 올드필드(Mike Oldfield)
+편곡_peoples		: 마이크 올드필드 | 마이크 올드필드(Mike Oldfield)
+부른이			: 매기 레일리(Maggie Reilly)
+----
+
+===== 상세설명 ====
+
+[[사람:마이크 올드필드]]가 만든 너무나 유명한 곡. 가사있는 곡을 잘 안만드는 마이크 올드필드의 몇 안되는 가사있는 보컬곡으로, 여러 매체를 통해 널리 알려진 유명한 곡이다. 특히 이 노래가 존 레논의 사망과 관련해 많은 풍문이 돌아다니는 곡이기도 하다. 그에 대해서 마이크 올드필드 본인은 1996년 인터뷰에서 다음과 같이 말했다고 한다.
+
+<blockquote>"사실은 존 레논에 관한 게 아니예요… 아니, 아마도, 돌이켜 보자면 맞아요. 사실 전 존 레논이 총에 맞던 날의 무서운 저녁에 뉴욕에 도착했지요. 그리고, 페리가(街)에 있는 버진 레코드 하우스에 머물렀는데 그곳은 그 사건이 발생했던 다코타 빌딩으로부터 불과 몇 블럭 떨어진 곳이었지요. 그래서, 잠재의식 속으로 가라앉았을지도 몰라요. 사실은 제가 너무나 좋아하는 영화 <후디니> (Houdini)에서 영감을 얻었어요. 그 영화에는 토니 커티스가 주인공으로 출연했는데, 후디니가 죽고 난 이후 심령술을 통해 그에게 접근하려는 시도를 다룬 영화예요… 원래는 그 영화로부터 영향을 받은 거죠. 하지만 그 외에도 많은 것들이 저도 모르는 사이 얽혀있었음에 틀림없어요."</blockquote>
+
+달밤에 세상을 뜬 이를 그리워하는 마음이 담긴 잔잔한 포크송이다. 
+
+워낙 유명한 곳이다보니 커버해서 부른 가수 또한 매우 많은 곡으로, [[사람:KOKIA]]의 앨범에도 수록되어있다.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 영상보기 | {{youtube>e80qhyovOnA?medium}} ++
+  * ++ KOKIA 버전 | {{youtube>9eKqjl64M1U?medium}} ++
+
+  The last that ever she saw him,
+  그녀가 그를 마지막으로 본 건
+  
+  Carried away by a moonlight shadow.
+  달그림자에 홀린 모습이었죠
+  
+  He passed on worried and warning,
+  그는 걱정하고, 염려하면서도
+  
+  Carried away by a moonlight shadow.
+  달그림자에 홀리고 말았죠
+
+
+  Lost in a riddle that Saturday night,
+  토요일 밤의 수수께끼 같은 사건으로
+  
+  Far away on the other side.
+  그는 먼 저편으로 떠나고 말았죠
+  
+  He was caught in the middle of a desperate fight
+  그는 무모한 싸움에 말려들고 말았고
+  
+  And she couldn't find how to push through.
+  그녀는 어찌할 도리도 없었죠
+
+
+  The trees that whisper in the evening,
+  저녁 무렵 속삭이는 나무들은
+  
+  Carried away by a moonlight shadow.
+  달그림자에 홀려 있었죠
+  
+  Sing a song of sorrow and grieving,
+  슬픔과 탄식의 노래를 부르며
+  
+  Carried away by a moonlight shadow.
+  달그림자에 홀려 있었죠
+
+
+  All she saw was a silhouette of a gun,
+  그녀가 본 건 총 그림자 뿐이었고,
+  
+  Far away on the other side.
+  그걸로 그는 영영 떠나고 말았죠.
+  
+  He was shot six times by a man on the run
+  도망 중이던 사내에게 총을 여섯 발 맞고서...
+  
+  And she couldn't find how to push through.
+  그녀는 어찌할 도리도 없었죠.
+
+
+  I stay, I pray. See you in heaven far away.
+  여기서 전 기도해요, 당신을 머나먼 천국에서 다시 만나길
+  
+  I stay, I pray. See you in heaven one day.
+  여기서 전 기도해요, 당신을 언젠가 천국에서 다시 만나길
+
+
+  Four a.m. in the morning
+  아침 네 시
+  
+  Carried away by a moonlight shadow.
+  달그림자에 홀려 있었죠
+  
+  I looked your vision forming,
+  난 당신의 환상을 보았어요
+  
+  Carried away by a moonlight shadow.
+  달그림자에 홀린 것처럼
+
+
+  Stars roll slowly in a silvery night,
+  별은 천천히 은빛 밤하늘을 돌고 있었고
+  
+  Far away on the other side.
+  그는 영영 떠나고 말았죠.
+  
+  Will you come to terms with me this night,
+  오늘밤 나와 이야기하러 와 줄 수 있나요?
+  
+  And she couldn't find how to push through.
+  그녀는 어찌할 도리도 없었죠.
+
+
+  I stay, I pray. See you in heaven far away.
+  여기서 전 기도해요, 당신을 머나먼 천국에서 다시 만나길
+  
+  I stay, I pray. See you in heaven one day.
+  여기서 전 기도해요, 당신을 언젠가 천국에서 다시 만나길
+
+---
+
+  Caught in the middle of a hundred and five,
+  105명의 군중 속 한 가운데서...
+  
+  The night was heavy and the air was alive,
+  밤은 무겁고 공기는 생생했죠
+  
+  But she couldn't find how to push through..
+  하지만 그녀는 어찌할 도리도 없었죠...
+  
+{{tag>가사 POP Mike_Oldfield Maggie_Reilly 마이크_올드필드 발라드 포크송}}

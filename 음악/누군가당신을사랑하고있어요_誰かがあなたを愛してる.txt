@@ -1,0 +1,178 @@
+====== 誰かがあなたを愛してる (누군가 당신을 사랑하고 있어요) ======
+===== 포플메일 엔딩 =====
+---- datatemplateentry music ----
+곡명			: 誰かがあなたを愛してる
+한국어명		: 누군가 당신을 사랑하고 있어요
+수록작_title		: 게임:포플메일
+수록앨범_albums		: KIDS-102 | 미나미 쇼코 싱글, KICA-9012_5 | 팔콤 스페셜 박스 '93, KICA-1129 | 팔콤 보컬 콜렉션3, KICA-9020_2 | 팔콤 스페셜 박스 '94, KICS-238 | 미나미 쇼코 '피나', KICA-1148_9 | 포플메일 사운드박스 '94, YS-SCMS | 메모리얼 사운드-이스 스페셜 콜렉션
+발매일_dts		: 1992-08-21
+
+작사_peoples		: 안도 요시히코 | 안도 요시히코(安藤芳彦 for '92판), 나가오리 유카 | 나가오리 유카(長織有加 for 게임엔딩판)
+작곡_peoples		: TeamJDK
+편곡_peoples		: 테라시마 타미야 | 테라시마 타미야(寺嶋民哉 for 오케스트라버전),노부히코 카시와라 | 카시와라 노부히코(樫原伸彦 for 보컬버전)
+부른이_peoples		: 미나미 쇼코 | 미나미 쇼코(南翔子 for '92판), 나가오리 유카 | 나가오리 유카(長織有加 for 게임엔딩판)
+----
+
+===== 상세설명 =====
+[[게임:포플메일]]의 엔딩곡. 개그물에 삽입되기엔 너무 잔잔한 분위기가 아닌가 생각되는 곡. 
+
+PC88버전의 엔딩에서는 최종 보스 클리어 후에 이 음악이 나오다가 스탭롤에서는 다른 음악으로 교체된다. 슈퍼패미컴 버전에서는 엔딩 스탭롤까지 이 음악이 계속해서 흘러나온다. 
+
+[[게임기:pc엔진]]판과 [[게임기:메가시디]] 판의 엔딩에서는 나가오리 유카가 부른 보컬 버전이 흘러나온다. 
+
+보컬 버전은 두 버전이 존재하는데, 92년에 나온 '피나'앨범에 수록된 '미나미 쇼코'버전과 팔콤 스페셜 박스에 수록된 '나가오리 유카' 버전이 있는데, 가사는 동일하지만 편곡과 부른이가 다르다. 기본적으로는 게임에 수록된 나가오리 유카 버전이 메인이라고 생각하면 된다.
+
+94년에 발매된 포플메일 사운드 박스에는 나가오리 유카 버전의 리믹스 버전이 수록되어있는데, 편곡이 92년 판에 가깝게 변경되어있는 것이 특징.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 일본어판 ====
+
+  * ++ 메가시디 엔딩판 | {{youtube>bJIPqEQs9zE?medium}} ++
+
+  流れゆく　雲の彼方(かなた)へと
+  흘러가는 구름의 저편으로
+  
+  想い届くように　今も見つめている
+  마음을 전하듯 지금도 바라보고 있어요
+
+
+  蘇(よみがえ)る　力は再び
+  깨어나는 힘은 또다시
+  
+  穢(けが)れなき世界を　遠く導いてく
+  더럽힘 없는 세계를 저 멀리 끌고가요
+
+
+  信じあう心を　時には見失い
+  서로를 믿는 마음을 때로는 잃어버리고
+  
+  燃え尽きた昨日に　立ち止まるけれど
+  불태워버린 어제에 멈춰서버리곤 하지만
+
+
+  動き始めた　未来へと
+  움직이기 시작한 미래로
+  
+  夢よ　はばたいて
+  꿈이여 날개짓 해줘요
+  
+  いつもあなたを守ってる
+  언제나 당신을 지켜주는
+  
+  愛を忘れないで
+  사랑을 잊지 마세요
+
+
+  果てしない　戦いはいつか
+  끝없는 싸움은 언젠가
+  
+  永遠の平和へ　続く時の迷路
+  영원의 평화로 이어지는 시간의 미로
+
+
+  許しあう心で　明日に出会いたい
+  서로를 용서하는 마음으로 내일 만나고 싶어요
+  
+  この広い大地に　奇跡を起こして
+  이 넓은 대지에 기적을 일으켜주세요
+
+
+  動き始めた　未来へと
+  움직이기 시작한 미래로
+  
+  願いを抱きしめて
+  소원을 품어주세요
+  
+  ずっとあなたを待っている
+  항상 당신을 기다리고 있는
+  
+  愛を忘れないで
+  사랑을 잊지 마세요
+
+
+  夜明けの日まで　愛し続ける
+  새벽이 오는 날까지 계속해서 사랑할
+  
+  輝くその瞳に　夢映し出して
+  빛나는 눈동자에 꿈을 비춰주세요
+
+==== 영문판 ====
+
+기본적으로는 일어판의 번역가사. 하지만 표현이나 내용이 약간 달라져있다.
+
+^ 부른이 | Jennifer Stigile |
+
+  * ++ 영문판 메가시디 엔딩 | {{youtube>lxFVBWsZxho?medium}} ++
+
+  There's a land, beyond, 
+  the floating clouds, so very calm. 
+  If you wish upon the farthest star, 
+  In a flash, you'll find that you are there. 
+
+
+  The signs now, at hand 
+  bode war, throughout a peaceful land. 
+  Winds of change are blowing stronger now, 
+  Hold your ground, or you'll be swept away. 
+
+
+  Don't worry with strength, 
+  and dashes of luck, 
+  you'll get to that place 
+  within your dreams. 
+
+
+  Unlock the door and step outside. 
+  All restraint has been stripped away. 
+
+
+  With the courage, resolve, 
+  and love within your heart. 
+  You can be anything you dream. 
+  Um hmmmm.... 
+
+
+  It's the start of the end, 
+  and only you can see, 
+  all that you can be... 
+  go take the chance. 
+
+
+  The dream's now at hand. 
+  A battle rages for the land. 
+  Bonds forged in the fire of tempest 
+  will hold true, regardless of the pain. 
+
+
+  With dauntless resolve 
+  and strength of heart 
+  you'll make your advance 
+  toward destiny. 
+
+
+  Unlock the door,and step outside. 
+  All restraint has been stripped away. 
+
+
+  With the courage, resolve, 
+  and love within your heart. 
+  You will be anything you dream. 
+  Um hmmmm.... 
+
+
+  It's the start of the end, 
+  and only you can see, 
+  all that you will be... 
+  go take the chance. 
+
+
+  All you can dream, in your grasp. 
+  But the true choice, lies with you. 
+  There's only one, only one that can see 
+  what you dreamed, make it all 
+  come true.
+
+
+{{tag>가사 게임음악 팔콤 포플메일 엔딩송 TeamJDK 안도_요시히코 나가오리_유카 테라시마_타미야 노부히코_카시와라 미나미_쇼코 나가오리_유카 발라드}}

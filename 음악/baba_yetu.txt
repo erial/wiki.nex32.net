@@ -1,0 +1,229 @@
+====== Baba yetu (바바 예투, 아버지시여) ======
+===== 문명4 오프닝 =====
+---- datatemplateentry music ----
+곡명			: Baba yetu
+한국어명		: 아버지시여(바바예투)
+수록작_titles		: 게임:문명4
+수록앨범		: 크리스토퍼 틴 1집 'Calling All Dawns'
+발매일_dts		: 2005-10-25
+
+작사			: 예수
+작곡_peoples		: 크리스토퍼 틴
+편곡_peoples		: 크리스토퍼 틴
+부른이			: 소웨토 성가대
+----
+
+===== 상세설명 =====
+
+바바예투는 아프리카에서 사용되는 주기도문을 바탕으로 만들어진 곡으로, 즉 크리스트교의 주기도문을 스와힐리어로 표기한 내용을 바탕으로 음을 붙인 곡이다. 
+
+2005년 [[게임:문명4]]의 오프닝 곡으로 채택되면서 전 세계적으로 널리 알려지게 되었으며, 국내에는 문명4 때는 크게 알려지지 못하다가 [[게임:문명5]]와 더불어서 UCC를 통해 널리 알려져 상당히 때늦은 붐을 일으키기도 했다. 
+
+성가 특유의 웅장함과 스와힐리어 특유의 발음이 어우러져 신비감을 끌어올려 더할나위 없이 멋진 곡으로 완성되었다. 공개 이후 크리스토퍼 틴의 개인 앨범에도 수록되었으며, 각종 종교 행사에서 불려지고 연주된 곡이다. 
+
+그러한 인기에 힘입어 2011년 2월 23일 비디오게임 음악으로서는 최초로 [[용어:그래미상]]을 수상했다. 그런데 부끄럽게도 이 기사가 나간 이후 국내의 수많은 네티즌들이 작곡가인 크리스토퍼 틴에게 '이 음악 어디서 다운받느냐'는 메일을 보내서 크리스토퍼 틴이 '무슨내용인지 번역해달라'며 사람들에게 물어보는 해프닝을 일으키기도 했다. <del>개념없는 것도 정도가 있지.</del> 들어보려면 [[http://christophertin.com/|크리스토퍼 틴 홈페이지]]에 가면 앨범 전체가 전반부만이지만 올라와 있으니 참고하자.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+원래 가사에는 예수(uliye)에대한 직접 언급이 많이 있습니다. 특정 종교에대한 인상이 강한 곡이기 때문에 특정종교에 감정이 좋지 않으신 분에게 좋지 않은 감정이 생길 수 있는 여지가 있으나, 원래 가사가 주 기도문이기 때문에 있는 그대로 번역하였습니다. 이 점에 대해서 이해 바랍니다.
+
+  * ++ 문명4 공식 뮤직비디오 | {{youtube>IJiHDmyhE1A?medium}} ++
+  * ++ 풀버전 영상 | {{youtube>Tmut6FBx4xk?medium}} ++
+  * ++ 탄자니아 아동 성가대 | {{youtube>rFEx0jY5emc?medium}} ++
+  * ++ 뱅쿠버 오케스트라 | {{youtube>nrHSYJ9kCG0?medium}} ++
+  * ++ 게임 음악 공연 | {{youtube>boXguYT3TsM?medium}} ++
+
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Mbinguni yetu, yetu Amina!
+  (음빙구니 예투 예투 아미나)
+  하늘에 계신 분이여, 아멘!
+  
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Jina lako litukuzwe
+  (지나 라코 리투쿠즈웨)
+  그 이름 거룩히 빛나소서
+
+
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Mbinguni yetu, yetu Amina!
+  (음빙구니 예투 예투 아미나)
+  하늘에 계신 분이여, 아멘!
+  
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Jina lako litukuzwe
+  (지나 라코 리투쿠즈웨)
+  그 이름 거룩히 빛나소서
+
+
+
+  Utupe leo chakula chetu
+  (우투페 레오 차쿨라 체투)
+  오늘 저희에게 일용할 양식을 주시고
+  
+  Tunachohitaji utusamehe
+  (투나초히타지 우투사메헤)
+  저희를 용서하소서
+  
+  Makosa yetu, hey!
+  (마코사 예투 헤이)
+  저희의 죄로부터
+  
+  Kama nasi tunavyowasamehe
+  (카마 나시 투나비오와사메헤)
+  저희 또한 용서하오나이다
+  
+  Waliotukosea usitutie
+  (왈리오투코세아 우시투티에)
+  저희에게 죄지은자를
+  
+  Katika majaribu, lakini
+  (카티카 마자리부 라키니)
+  시험에 들지 않게 하시고, 그저
+  
+  Utokoe, na yule Mwovu, milele
+  (우투오코에 나 율레 무오부 밀렐레)
+  영원토록 악에서 구하소서
+
+
+
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Mbinguni yetu, yetu Amina!
+  (음빙구니 예투 예투 아미나)
+  하늘에 계신 분이여, 아멘!
+  
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Jina lako litukuzwe
+  (지나 라코 리투쿠즈웨)
+  그 이름 거룩히 빛나소서
+
+
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Mbinguni yetu, yetu Amina!
+  (음빙구니 예투 예투 아미나)
+  하늘에 계신 분이여, 아멘!
+  
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Jina lako litukuzwe
+  (지나 라코 리투쿠즈웨)
+  그 이름 거룩히 빛나소서
+
+
+
+  Ufalme wako ufike utakalo
+  (우팔메 와코 우피케 우타칼로)
+  당신의 나라가 지상에 임하시길
+  
+  Lifanyike duniani kama mbinguni, Amina.
+  (리파니케 두니아니 카마 음빙구니 아미나)
+  하늘에서와 같이 땅에서도, 아멘
+
+
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Mbinguni yetu, yetu Amina!
+  (음빙구니 예투 예투 아미나)
+  하늘에 계신 분이여, 아멘!
+  
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Jina lako litukuzwe
+  (지나 라코 리투쿠즈웨)
+  그 이름 거룩히 빛나소서
+
+
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Mbinguni yetu, yetu Amina!
+  (음빙구니 예투 예투 아미나)
+  하늘에 계신 분이여, 아멘!
+  
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Jina lako litukuzwe
+  (지나 라코 리투쿠즈웨)
+  그 이름 거룩히 빛나소서
+
+
+
+  Utupe leo chakula chetu
+  (우투페 레오 차쿨라 체투)
+  오늘 저희에게 일용할 양식을 주시고
+  
+  Tunachohitaji utusamehe
+  (투나초히타지 우투사메헤)
+  저희를 용서하소서
+  
+  Makosa yetu, hey!
+  (마코사 예투 헤이)
+  저희의 죄로부터
+  
+  Kama nasi tunavyowasamehe
+  (카마 나시 투나비오와사메헤)
+  저희 또한 용서하오나이다
+  
+  Waliotukosea usitutie
+  (왈리오투코세아 우시투티에)
+  저희에게 죄지은자를
+  
+  Katika majaribu, lakini
+  (카티카 마자리부 라키니)
+  시험에 들지 않게 하시고, 그저
+  
+  Utokoe, na yule Mwovu, milele
+  (우투오코에 나 율레 무오부 밀렐레)
+  영원토록 악에서 구하소서
+
+
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Jina lako litukuzwe
+  (지나 라코 리투쿠즈웨)
+  그 이름 거룩히 빛나소서
+
+
+  Baba yetu, yetu uliye
+  (바바 예투 예투 울리예)
+  우리의 아버지, 예수시여
+  
+  Jina lako litukuzwe
+  (지나 라코 리투쿠즈웨)
+  그 이름 거룩히 빛나소서
+
+
+
+{{tag>가사 게임음악 문명 문명4 바바예투 크리스토퍼_틴 소웨토_성가대 성가 갓스펠 포크}}

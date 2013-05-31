@@ -1,0 +1,34 @@
+====== 메모리즈 오프 6 NR 도전과제 ======
+
+===== 도전과제 정보 =====
+
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:메모리즈_오프_6_nr:14cligjhbc9mfqqzxvvrgeq2l2fjac8wlzgaaaaa5_fn_f794g_.jpg|}}|비밀|ん……ダメ……\\ 음... 안 돼...|10 G|りりすの寝相が悪いのを再認識した\\ 리리스의 잠버릇이 나쁘다는 걸 다시 확인했다|
+|{{:도전과제:메모리즈_오프_6_nr:0ocligjhbc9gfqqzxvvrgeq2l2fjac8wlziaaaaa5_fn-rrzmw_.jpg|}}|비밀|想いのかたち\\ 마음의 모양|30 G|りりすＡルートをクリア\\ 리리스 A루트 클리어|
+|{{:도전과제:메모리즈_오프_6_nr:1ocligjhbc9nfqqzxvvrgeq2l2fjac8wlzkaaaaa5_fn_b4fcq_.jpg|}}|비밀|私の隣には志雄がいる\\ 내 옆엔 시오가 있어|40 G|りりすの全イベントを見た\\ 리리스의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_nr:1ycligjhbc81fqqzxvvrgeq2l2fjac8wl0eaaaaa5_fn_gdosa_.jpg|}}|비밀|志雄く～ん！\\ 시오 구~운!|10 G|智紗が訪ねてきた\\ 치사가 찾아왔다|
+|{{:도전과제:메모리즈_오프_6_nr:0icligjhbc9ffqqzxvvrgeq2l2fjac8wlzeaaaaa5_fn-zv6hg_.jpg|}}|비밀|気持ちの歩幅\\ 마음의 보폭|30 G|智紗Ａルートをクリア\\ 치사 A루트 클리어|
+|{{:도전과제:메모리즈_오프_6_nr:14cligjhbc82fqqzxvvrgeq2l2fjac8wl0iaaaaa5_fn_chhbq_.jpg|}}|비밀|大好きだよ\\ 정말 좋아해|40 G|智紗の全イベントを見た\\ 치사의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_nr:1ocligjhbc83fqqzxvvrgeq2l2fjac8wl0maaaaa5_fn_cezlg_.jpg|}}|비밀|姉弟？恋人？夫婦？\\ 누나? 연인? 부부?|10 G|先輩とスーパーにいった\\ 선배와 함께 슈퍼에 갔다|
+|{{:도전과제:메모리즈_오프_6_nr:04cligjhbc9hfqqzxvvrgeq2l2fjac8wlzmaaaaa5_fn-poloa_.jpg|}}|비밀|心のマリアージュ\\ 마음의 마리아쥬|30 G|クロエルートをクリア\\ 크로에 루트 클리어|
+|{{:도전과제:메모리즈_오프_6_nr:04cligjhbc8wfqqzxvvrgeq2l2fjac8wl0qaaaaa5_fn-gpybw_.jpg|}}|비밀|私の居場所\\ 내가 있을 장소|40 G|先輩の全イベントを見た\\ 선배의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_nr:0ocligjhbc8xfqqzxvvrgeq2l2fjac8wl0uaaaaa5_fn-ymk-a_.jpg|}}|비밀|志雄はたまにズルイな\\ 시오는 가끔씩 짖궂네|10 G|鈴と一緒に料理をした\\ 스즈와 함께 요리를 했다|
+|{{:도전과제:메모리즈_오프_6_nr:1ocligjhbc9afqqzxvvrgeq2l2fjac8wlzqaaaaa5_fn_vjgwq_.jpg|}}|비밀|クォリファイ・ペリオッド\\ 퀄리파이 피리어드|30 G|鈴Aルートをクリア\\ 스즈 A루트 클리어|
+|{{:도전과제:메모리즈_오프_6_nr:0icligjhbc8yfqqzxvvrgeq2l2fjac8wl0yaaaaa5_fn-6idsq_.jpg|}}|비밀|よしっ、走ろう！\\ 좋아, 달리자!|40 G|鈴の全イベントを見た\\ 스즈의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_nr:0icligjhbc9ecxsggl5tvkq2l2fjac8wlzewaaaaaofn5-88eck_.jpg|}}|비밀|すごいすごい！\\ 대단해, 대단해요!|10 G|結乃と花火を見に行った\\ 유노와 불꽃놀이를 보러 갔다|
+|{{:도전과제:메모리즈_오프_6_nr:14cligjhbc9bfqqzxvvrgeq2l2fjac8wlzuaaaaa5_fn_lgyyg_.jpg|}}|비밀|想いは波に乗せて\\ 마음은 파도에 타고서|30 G|結乃ルートをクリア\\ 유노 루트 클리어|
+|{{:도전과제:메모리즈_오프_6_nr:1ycligjhbc9cfqqzxvvrgeq2l2fjac8wlzyaaaaa5_fn_pkrfw_.jpg|}}|비밀|想いを波に乗せて\\ 마음을 파도에 태워서|20 G|神奈ルートをクリア\\ 칸나 루트 클리어|
+|{{:도전과제:메모리즈_오프_6_nr:0ycligjhbc9fcxsggl5tvkq2l2fjac8wlzexaaaaaofn5-7c6lo_.jpg|}}|비밀|指切り、お願いします\\ 손깍지, 부탁드려요|40 G|結乃（と神奈）の全イベントを見た\\ 유노(와 칸나)의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_nr:1icligjhbc9dfqqzxvvrgeq2l2fjac8wlzcaaaaa5_fn_3np7a_.jpg|}}|비밀|オールルートクリア\\ 올 루트 클리어|50 G|全てのエンディングを体験した\\ 모든 엔딩을 체험했다|
+|{{:도전과제:메모리즈_오프_6_nr:1ocligjhbc82cxsggl5tvkq2l2fjac8wlzfcaaaaaofn5-ng8zk_.jpg|}}|비밀|メガネ＋ポニテ＝最強説\\ 안경 + 포니테일 = 최강전설|80 G|どうしてもメガネが良かった\\ 어쨌든 간에 안경이 좋았다|
+|{{:도전과제:메모리즈_오프_6_nr:1ycligjhbc9dcxsggl5tvkq2l2fjac8wlze3aaaaaofn5-qe_9a_.jpg|}}|공개|Extra Scenario\\ 엑스트라 시나리오|10 G|亨の孤独を知った\\ 토오루의 고독을 알았다|
+|{{:도전과제:메모리즈_오프_6_nr:1icligjhbc9ccxsggl5tvkq2l2fjac8wlze2aaaaaofn5-t_a0m_.jpg|}}|공개|Encyclopedia\\ 엔사이클로피디아|40 G|豆知識を全部知った\\ 팁을 모두 알게 되었다|
+|{{:도전과제:메모리즈_오프_6_nr:14cligjhbc9ncxsggl5tvkq2l2fjac8wlze5aaaaaofn5-hzf00_.jpg|}}|공개|Sound Track\\ 사운드 트랙|50 G|ＭＵＳＩＣコンプリート！\\ 뮤직 컴플릿!|
+|{{:도전과제:메모리즈_오프_6_nr:1icligjhbc81cxsggl5tvkq2l2fjac8wlzfbaaaaaofn5-vn_ow_.jpg|}}|공개|ずっと一緒に もっと遠くまで\\ 쭉 함께 더욱 멀리까지|50 G|シーンタイトルコンプリート！\\ 씬 타이틀 컴플릿!|
+|{{:도전과제:메모리즈_오프_6_nr:1ocligjhbc9mcxsggl5tvkq2l2fjac8wlze4aaaaaofn5-m5794_.jpg|}}|공개|Next Relation\\ 넥스트 릴레이션|50 G|ＣＧコンプリート！\\ CG 컴플릿!|
+|{{:도전과제:메모리즈_오프_6_nr:04cligjhbc9gcxsggl5tvkq2l2fjac8wlzeyaaaaaofn5-z94q8_.jpg|}}|공개|6NR 25%|25 G|25%読んだ\\ 25% 읽었다|
+|{{:도전과제:메모리즈_오프_6_nr:0ocligjhbc9hcxsggl5tvkq2l2fjac8wlzezaaaaaofn5-0dgzw_.jpg|}}|공개|6NR 50%|50 G|半分読んだ\\ 반을 읽었다|
+|{{:도전과제:메모리즈_오프_6_nr:14cligjhbc9acxsggl5tvkq2l2fjac8wlze0aaaaaofn5-i-8mu_.jpg|}}|공개|6NR 75%|75 G|大体読んだ\\ 대체로 읽었다|
+|{{:도전과제:메모리즈_오프_6_nr:1ocligjhbc9bcxsggl5tvkq2l2fjac8wlze1aaaaaofn5-lfcvy_.jpg|}}|공개|6NR perfect|100 G|全部読んだ\\ 전부 읽었다|
+
+{{tag>게임 도전과제 엑스박스360 xbox360 엑스박스라이브 xboxlive 걸게 노블 5pb}}

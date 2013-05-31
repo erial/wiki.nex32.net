@@ -1,0 +1,31 @@
+====== 클라나드 (CLANNAD) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:clannad:04cligjhbc9bcxoaglxtvkqxl2fjac8wlze1aaaaaofn5-x57rc_.jpg|}}|공개|長い坂道\\ 긴 고갯길|30 G|プロローグをクリアする\\ 프롤로그를 클리어한다.|
+|{{:도전과제:clannad:1ocligjhbc9gcxoaglxtvkqxl2fjac8wlzeyaaaaaofn5-nbbu4_.jpg|}}|비밀|最初の輝き\\ 최초의 반짝임|30 G|光の玉を入手する\\ 빛의 구슬을 입수한다.|
+|{{:도전과제:clannad:1ocligjhbc81fqufxvdrgeqxl2fjac8wl0eaaaaa5_fn_ywewa_.jpg|}}|비밀|どこまでもふたりで\\ 어디까지고 두 사람이서|50 G|古河渚のシナリオをクリアする\\ 후루카와 나기사 시나리오를 클리어한다.|
+|{{:도전과제:clannad:14cligjhbc9dfqufxvdrgeqxl2fjac8wlzcaaaaa5_fn_pufba_.jpg|}}|비밀|広いお庭\\ 넓은 정원|50 G|一ノ瀬ことみのシナリオをクリアする\\ 이치노세 코토미 시나리오를 클리어한다.|
+|{{:도전과제:clannad:0icligjhbc8wfqufxvdrgeqxl2fjac8wl0qaaaaa5_fn-_8ehw_.jpg|}}|비밀|満開の桜\\ 활짝 핀 벚꽃|50 G|坂上智代のシナリオをクリアする\\ 사카가미 토모요 시나리오를 클리어한다.|
+|{{:도전과제:clannad:1icligjhbc9bfqufxvdrgeqxl2fjac8wlzuaaaaa5_fn_ztuig_.jpg|}}|비밀|いつか来る日\\ 언젠가 올 날|50 G|伊吹風子のシナリオをクリアする\\ 이부키 후코 시나리오를 클리어한다.|
+|{{:도전과제:clannad:1icligjhbc9mfqufxvdrgeqxl2fjac8wlzgaaaaa5_fn_9ilcg_.jpg|}}|비밀|髪、また伸ばすね\\ 머리, 또 기를게|50 G|藤林杏のシナリオをクリアする\\ 후지바야시 쿄 시나리오를 클리어한다.|
+|{{:도전과제:clannad:1icligjhbc82fqufxvdrgeqxl2fjac8wl0iaaaaa5_fn_60x7q_.jpg|}}|비밀|これからの歩み\\ 이제부터 첫 발걸음|40 G|藤林椋のシナリオをクリアする\\ 후지바야시 료 시나리오를 클리어한다.|
+|{{:도전과제:clannad:04cligjhbc8yfqufxvdrgeqxl2fjac8wl0yaaaaa5_fn-c71oq_.jpg|}}|비밀|優しい風景\\ 상냥한 풍경|40 G|宮沢有紀寧のシナリオをクリアする\\ 미야자와 유키네 시나리오를 클리어한다.|
+|{{:도전과제:clannad:1ycligjhbc9nfqufxvdrgeqxl2fjac8wlzkaaaaa5_fn_jlzmq_.jpg|}}|비밀|ずっとそばに\\ 항상 옆에서|40 G|相楽美佐枝のシナリオをクリアする\\ 사가라 미사에 시나리오를 클리어한다.|
+|{{:도전과제:clannad:1ycligjhbc83fqufxvdrgeqxl2fjac8wl0maaaaa5_fn_k3vfg_.jpg|}}|비밀|楽しみを重ねて\\ 즐거움을 거듭하여|40 G|春原兄妹のシナリオをクリアする\\ 스노하라 오누이 시나리오를 클리어한다.|
+|{{:도전과제:clannad:0ycligjhbc8xfqufxvdrgeqxl2fjac8wl0uaaaaa5_fn-g-8fa_.jpg|}}|비밀|旅の終わりに\\ 여행의 끝에서|40 G|幸村俊夫のシナリオをクリアする\\ 코우무라 토시오 시나리오를 클리어한다.|
+|{{:도전과제:clannad:1ocligjhbc9cfqufxvdrgeqxl2fjac8wlzyaaaaa5_fn_rxnlw_.jpg|}}|비밀|二人だけの灯り\\ 두 사람만의 등불|40 G|柊勝平のシナリオをクリアする\\ 히이라기 캇페이 시나리오를 클리어한다.|
+|{{:도전과제:clannad:1ycligjhbc9afqufxvdrgeqxl2fjac8wlzqaaaaa5_fn_tqwsq_.jpg|}}|비밀|栄光の古河ベイカーズ！\\ 영광의 후루카와 베이커즈!|50 G|草野球のシナリオをクリアする\\ 동네야구 시나리오를 클리어한다.|
+|{{:도전과제:clannad:0ycligjhbc9ccxoaglxtvkqxl2fjac8wlze2aaaaaofn5-5y5wi_.jpg|}}|비밀|ひいいぃぃぃーーっ！\\ 히이이이이--익!|40 G|春原エンドを迎える\\ 스노하라 엔딩을 본다.|
+|{{:도전과제:clannad:14cligjhbc9hcxoaglxtvkqxl2fjac8wlzezaaaaaofn5-g7-d0_.jpg|}}|비밀|幻想世界\\ 환상세계|50 G|光の玉を全て入手する\\ 빛의 구슬을 모두 입수한다.|
+|{{:도전과제:clannad:0ycligjhbc9gfqufxvdrgeqxl2fjac8wlziaaaaa5_fn-pyf2w_.jpg|}}|비밀|小さなてのひら\\ 자그마한 손바닥|50 G|アフターストーリーでトゥルーエンドを迎える\\ 애프터 스토리에서 트루 엔딩을 본다.|
+|{{:도전과제:clannad:0icligjhbc9hfqufxvdrgeqxl2fjac8wlzmaaaaa5_fn-3b9sa_.jpg|}}|공개|CLANNAD\\ 클라나드|100 G|全てのシナリオをクリアする\\ 모든 시나리오를 클리어한다.|
+|{{:도전과제:clannad:1icligjhbc9fcxoaglxtvkqxl2fjac8wlzexaaaaaofn5-v6dps_.jpg|}}|비밀|こちらときめき☆学園\\ 여기는 두근세근☆학원|40 G|ゲームブック「こちら☆ときめき学園」をクリアする\\ 게임북 「여기는☆두근세근 학원」을 클리어한다.|
+|{{:도전과제:clannad:04cligjhbc9ffqufxvdrgeqxl2fjac8wlzeaaaaa5_fn-lcmbg_.jpg|}}|비밀|智代最終兵器\\ 토모요 최종병기|40 G|智代のコンボで64ヒットを達成する\\ 토모요의 콤보로 64히트를 달성한다.|
+|{{:도전과제:clannad:1ycligjhbc9ecxoaglxtvkqxl2fjac8wlzewaaaaaofn5-oa9gg_.jpg|}}|비밀|風子マスター！\\ 후코 마스터!|40 G|風子マスターにクラスチェンジする\\ 후코 마스터로 클래스체인지 한다.|
+|{{:도전과제:clannad:0ocligjhbc9acxoaglxtvkqxl2fjac8wlze0aaaaaofn5-2zfiq_.jpg|}}|비밀|ジェット斉藤出現！\\ 제트 사이토 출현!|40 G|ジェット斉藤を出現させる\\ 제트 사이토를 출현시킨다.|
+</sortable>
+
+{{tag>걸게 게임 도전과제 xbox360 클라나드 CLANNAD}}

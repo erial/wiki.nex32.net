@@ -1,0 +1,41 @@
+====== 메모리즈 오프 6 T-Wave 도전과제 ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:메모리즈_오프_6_t-wave:04cligjhbc8xfqqzxvvrgeq1l2fjac8wl0uaaaaa5_fn-oabrg_.jpg|}}|비밀|1stアタック\\ 1st 어택|10 G|りりすに枕を投げつけられた\\ 리리스가 던진 베개에 맞았다|
+|{{:도전과제:메모리즈_오프_6_t-wave:14cligjhbc9nfqqzxvvrgeq1l2fjac8wlzkaaaaa5_fn_n0oyw_.jpg|}}|비밀|オモイ\\ 마음|20 G|りりすルートに入った\\ 리리스 루트에 들어갔다|
+|{{:도전과제:메모리즈_오프_6_t-wave:04cligjhbc9gfqqzxvvrgeq1l2fjac8wlziaaaaa5_fn-hn4iq_.jpg|}}|비밀|Candy Love\\ 캔디 러브|20 G|りりすルートをクリアした……けど？\\ 리리스 루트를 클리어 했는... 데?|
+|{{:도전과제:메모리즈_오프_6_t-wave:0ocligjhbc9hfqqzxvvrgeq1l2fjac8wlzmaaaaa5_fn-zkagg_.jpg|}}|비밀|ZUTTO ふたりで\\ ZOOK 둘이서|20 G|Triangleルート りりすをクリアした\\ Triangle 루트 리리스를 클리어 했다|
+|{{:도전과제:메모리즈_오프_6_t-wave:0ycligjhbc8yfqqzxvvrgeq1l2fjac8wl0yaaaaa5_fn-sei8w_.jpg|}}|비밀|りりすと一緒に\\ 리리스와 함께|40 G|りりすの全イベントを見た\\ 리리스의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_t-wave:14cligjhbc9ecxsggl5tvkq1l2fjac8wlzewaaaaaofn5-jvumm_.jpg|}}|비밀|いいかな？\\ 괜찮겠어요?|10 G|智紗に告白された\\ 치사에게 고백을 받았다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1icligjhbc81fqqzxvvrgeq1l2fjac8wl0eaaaaa5_fn_2pjcg_.jpg|}}|비밀|ふたりの呼び方\\ 두 사람의 호칭|20 G|智紗ルートに入った\\ 치사 루트에 들어갔다|
+|{{:도전과제:메모리즈_오프_6_t-wave:0ycligjhbc9ffqqzxvvrgeq1l2fjac8wlzeaaaaa5_fn-ljxpa_.jpg|}}|비밀|Mind Loop\\ 마인드 루프|20 G|智紗ルートをクリアした……けど？\\ 치사 루트를 클리어 했는... 데?|
+|{{:도전과제:메모리즈_오프_6_t-wave:14cligjhbc9afqqzxvvrgeq1l2fjac8wlzqaaaaa5_fn_dvr4w_.jpg|}}|비밀|ハッピーバースデー\\ 해피 버스데이|20 G|Triangleルート智紗をクリアした\\ Triangle 루트 치사를 클리어 했다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ocligjhbc9fcxsggl5tvkq1l2fjac8wlzexaaaaaofn5-k1qva_.jpg|}}|비밀|智紗は眼鏡のほうが……\\ 치사는 안경 쪽이...|40 G|智紗の全イベントを見た\\ 치사의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1icligjhbc9gcxsggl5tvkq1l2fjac8wlzeyaaaaaofn5-sus0u_.jpg|}}|비밀|澄空の女帝\\ 스미소라의 여제|10 G|クロエの姿を思い浮かべた\\ 크로에의 모습을 떠올렸다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ocligjhbc82fqqzxvvrgeq1l2fjac8wl0iaaaaa5_fn_ulqvw_.jpg|}}|비밀|同棲生活！？\\ 동거생활!?|20 G|クロエルートに入った\\ 크로에 루트에 들어갔다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ocligjhbc9bfqqzxvvrgeq1l2fjac8wlzuaaaaa5_fn_dstca_.jpg|}}|비밀|Blue Moon\\ 블루 문|20 G|クロエルートをクリアした\\ 크로에 루트를 클리어 했다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ycligjhbc9hcxsggl5tvkq1l2fjac8wlzezaaaaaofn5-r0s9y_.jpg|}}|비밀|先輩最高です\\ 선배님은 최고에요|40 G|クロエの全イベントを見た\\ 크로에의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_t-wave:04cligjhbc9ccxsggl5tvkq1l2fjac8wlze2aaaaaofn5-yxqqk_.jpg|}}|비밀|黎音登場\\ 레인 등장|10 G|黎音さんを拾った\\ 레인씨를 만났다|
+|{{:도전과제:메모리즈_오프_6_t-wave:0ocligjhbc8wfqqzxvvrgeq1l2fjac8wl0qaaaaa5_fn-qd51q_.jpg|}}|비밀|ライターライダー\\ 라이터 라이더|20 G|黎音ルートに入った\\ 레인 루트에 들어갔다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ycligjhbc9dfqqzxvvrgeq1l2fjac8wlzcaaaaa5_fn_hrivg_.jpg|}}|비밀|Rainbow Highway\\ 레인보우 하이웨이|20 G|鈴ルートをクリアした\\ 스즈 루트를 클리어 했다|
+|{{:도전과제:메모리즈_오프_6_t-wave:0ocligjhbc9dcxsggl5tvkq1l2fjac8wlze3aaaaaofn5-13uzo_.jpg|}}|비밀|年の差なんて！\\ 나이 차이 따윈!|40 G|鈴の全イベントを見た\\ 스즈의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_t-wave:0icligjhbc9acxsggl5tvkq1l2fjac8wlze0aaaaaofn5-9wwc8_.jpg|}}|비밀|屋上で聞こえる歌\\ 옥상에서 들려오는 노래|10 G|結乃の鼻歌を聞いた\\ 유노의 콧노래를 들었다|
+|{{:도전과제:메모리즈_오프_6_t-wave:14cligjhbc83fqqzxvvrgeq1l2fjac8wl0maaaaa5_fn_kisla_.jpg|}}|비밀|歌声\\ 노랫소리|20 G|結乃ルートに入った\\ 유노 루트에 들어갔다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1icligjhbc9cfqqzxvvrgeq1l2fjac8wlzyaaaaa5_fn_-oaxq_.jpg|}}|비밀|ハルカ カナタ\\ 머나먼 저편|20 G|結乃ルートをクリアした\\ 유노 루트를 클리어 했다|
+|{{:도전과제:메모리즈_오프_6_t-wave:0ycligjhbc9bcxsggl5tvkq1l2fjac8wlze1aaaaaofn5-62olw_.jpg|}}|비밀|T-waveリスナー\\ T-wave 리스너|40 G|結乃の全イベントを見た\\ 유노의 모든 이벤트를 봤다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ocligjhbc9mfqqzxvvrgeq1l2fjac8wlzgaaaaa5_fn_t32wa_.jpg|}}|비밀|プリミディア\\ 프리미디어|50 G|全てのエンディングを体験した\\ 모든 엔딩을 체험했다|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ycligjhbc8wcxsggl5tvkq1l2fjac8wlzfeaaaaaofn5-ptshk_.jpg|}}|공개|Extra Scenario\\ 엑스트라 시나리오|20 G|亨の見せ場はここだ！\\ 토오루의 활약은 여기서 보라!|
+|{{:도전과제:메모리즈_오프_6_t-wave:0icligjhbc83cxsggl5tvkq1l2fjac8wlzfdaaaaaofn5--poea_.jpg|}}|공개|Encyclopedia\\ 엔사이클로피디아|40 G|エンサイクロペディア読破\\ 엔사이클로피디아 독파|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ocligjhbc8ycxsggl5tvkq1l2fjac8wlzfgaaaaaofn5-msuz8_.jpg|}}|공개|Sound Track\\ 사운드 트랙|50 G|MUSICモードComplete\\ 뮤직 모드 컴플릿|
+|{{:도전과제:메모리즈_오프_6_t-wave:1icligjhbc8xcxsggl5tvkq1l2fjac8wlzffaaaaaofn5-unsoo_.jpg|}}|공개|Triangle Wave\\ 트라이앵글 웨이브|50 G|アルバムモードcomplete\\ 앨범 모드 컴플릿|
+|{{:도전과제:메모리즈_오프_6_t-wave:1ycligjhbc9ecbsggl5tvkq1l2fjac8wlziwaaaaaofn5-rhiso_.jpg|}}|공개|Memories Off\\ 메모리즈 오프|50 G|シーンタイトルComplete\\ 씬 타이틀 컴플릿|
+|{{:도전과제:메모리즈_오프_6_t-wave:0ycligjhbc9mcxsggl5tvkq1l2fjac8wlze4aaaaaofn5-5qrzq_.jpg|}}|공개|メモオフ6 25%\\ 메모오프6 25%|25 G|シナリオ既読率25％　まだまだ序盤です\\ 시나리오 완독률 25% 아직 서반입니다|
+|{{:도전과제:메모리즈_오프_6_t-wave:0icligjhbc9ncxsggl5tvkq1l2fjac8wlze5aaaaaofn5-_wvqc_.jpg|}}|공개|メモオフ6 50%\\ 메모오프6 50%|50 G|シナリオ既読率50％　半分きましたよ\\ 시나리오 완독률 50% 반쯤 왔군요|
+|{{:도전과제:메모리즈_오프_6_t-wave:04cligjhbc81cxsggl5tvkq1l2fjac8wlzfbaaaaaofn5-woumy_.jpg|}}|공개|メモオフ6 75%\\ 메모오프6 75%|75 G|シナリオ既読率75％達成！　ここからが正念場！？\\ 시나리오 완독률 75% 달성! 여기가 고비!?|
+|{{:도전과제:메모리즈_오프_6_t-wave:0ycligjhbc82cxsggl5tvkq1l2fjac8wlzfcaaaaaofn5-4vwxm_.jpg|}}|공개|メモオフ6 perfect\\ 메모오프6 퍼펙트|100 G|シナリオ既読率100％達成！ PERFECT！\\ 시나리오 완독률 100% 달성! 퍼펙트!|
+</sortable>
+
+{{tag>게임 도전과제 엑스박스360 xbox360 엑스박스라이브 xboxlive 걸게 노블 5pb}}

@@ -1,0 +1,4 @@
+====== Karma (カルマ, 카르마) 곡 목록 ======
+Karma (カルマ, 카르마) 제목을 가지는 노래 목록
+
+{{pagequery>음악:karma:;sort=ns,a,name;group;fullregex;proper=header;}}

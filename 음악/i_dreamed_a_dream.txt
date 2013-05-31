@@ -1,0 +1,311 @@
+====== I dreamed a dream (난 꿈을 꾸었죠) ======
+===== 레 미제라블 삽입곡 =====
+---- datatemplateentry music ----
+곡명			: I dreamed a dream
+한국어명		: 난 꿈을 꾸었죠
+수록작_titles		: 공연:레 미제라블
+수록앨범_albums		: 
+발매일_dts		: 1980
+
+작사_peoples		: 알랭 부브릴 | 알랭 부브릴(Alain Boublil:프랑스어 원곡), 허버트 크레츠머 | 허버트 크레츠머(Herbert Kretzmer:영문판)
+작곡_peoples		: 클로드 미셸 쉥베르그 | 클로드 미셸 쉥베르그(Claude-Michel Schönberg) 
+편곡_peoples		: 클로드 미셸 쉥베르그 | 클로드 미셸 쉥베르그(Claude-Michel Schönberg) 
+부른이_character		: 팡티느
+----
+
+===== 상세설명 =====
+[[사람:빅토르 위고]]의 명작소설 [[책:레 미제라블]]의 [[용어:뮤지컬]]판에 삽입된 곡으로, 미혼모의 몸으로 어떻게든 아이를 돌보기위해 고생하다 몸이 망가져가는 코제트의 어머니 팡티느가 인생과 세상에 한탄을 담아 부르는 노래다. 원곡은 1980년에 프랑스에서 발매된 컨셉앨범에 수록된 J'aivais Rêvé d'Une Autre Vie (난 다른 삶을 꿈 꾸었죠)로, 이곡을 영문으로 바꾸고 약간 편곡한 것이 1985년 런던 캐스트에서 공연된 뮤지컬 레 미제라블에 수록되면서 현재에 이르고 있다. (따로 소개하긴 힘들듯하여 원곡 가사도 아래에 추가해두니 프랑스어가 되는 분은 가사번역을 부탁드리는 바이다) 프랑스어판을 처음 불렀던 것은 로즈 로렌(Rose Laurens), 영문판을 초연한 것은 패티 루폰(Patti LuPone)
+
+한국어로 공연되는 뮤지컬 레 미제라블 한국어판에는 '지난날의 꿈들'이라는 곡으로 개사되어 수록되고 있다. 
+
+어느 나라 버전이고간에 노래로 부를때는 보통 첫 소절의 '남자들은~' 부분이 빠진다. 이건 뮤지컬 요소로 내용설명을 위해 필요해 들어가는 요소인지라...노래로서는 불필요한 부분이라 보통 노래 버전에선 빠진다. 버전에 따라서 일부 변경이 있긴 하지만 기본적으론 그 외에는 거의 모든 버전이 동일하다.
+
+어린시절의 꿈많고 희망에 차있던 순진했던 시절과 달리, 나이를 먹어 어른이되어 부대끼는 세상은 부조리와 잔혹함으로 가득하여 살아가기 위하여 꿈도, 희망도 모두 버리고 살아가기 위해서만 몸부림쳐도 벗어날 수 없는 늪속에서 울부짓는 느낌으로 눈물지으며 부르는 곡으로, 작품 레 미제라블의 이름그대로 '불행한 이들'을 그대로 함축한 듯한 곡이다. 때문에 뮤지컬 [[공연:레 미제라블]]을 이야기하면 이 곡을 떠올리는 사람도 적지 않을 것이다.
+
+뮤지컬로서의 레 미제라블의 인기는 한결같았기 때문에 이 곡의 유명세는 식지 않았으나, 이 곡을 한번 더 유명하게 만든것은 2009년 영국의 탤런트 발굴 프로그램인 '브리튼스 갓 탤런트'의 출연자 중 하나인 [[사람:수잔 보일]]이 이 노래를 부르며 유명세를 떨쳤기 때문이다. 부모가 47세 나이에 노산으로 낳아 학습부진 등으로 고생했고, 자신도 나이 47세에 브리튼스 갓 탤런트에 출연해 '가수가 되어 사람들 앞에서 노래하는 것이 꿈'이라고 밝힌 그녀가 이 노래를 불러 심사위원과 관중을 압도한 영상은 화제의 중심이 되었고, 그녀의 앨범은 미국에서 240만장 이상, 영국에서 130만장 이상이 판매되는 기염을 토했을 정도였다.
+
+또한 2012년말에는 완전 뮤지컬영화(이전 영화버전은 완전 뮤지컬이 아니었다)로 제작된 레 미제라블이 개봉되어 화제가 되었는데, 여기서는 앤 해서웨이가 팡티느 역을 맡아 다시 한번 유명세를 떨치게 되었다.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 영문버전 ====
+가장 유명한 버전에 해당하는 영문판. 런던캐스트에서 초연시 공연된 내용이 베이스가 된다. 원곡을 더 나중에 소개하는건 관리자가 프랑스어를 개뿔도 모르기 때문에;;; 프랑스 원곡을 사랑하시는 분들께는 죄송할 따름.
+
+  * ++ 1985년, 뮤지컬 레 미제라블 삽입판 | {{youtube>3uFww9a3D4E?medium}} ++
+  * ++ 2009년, 수잔 보일 브리튼 갓 탤런트(노래는 1:40부터) | {{youtube>8OcQ9A-5noM?medium}} ++
+  * ++ 2012년, 영화판 레 미제라블 앤 해서웨이 판 | {{youtube>F2AE2aL0-6Y?medium}} ++
+
+> 
+  There was a time when men were kind
+  남자들이 상냥했던 때도 있었죠
+  
+  When their voices were soft
+  그들의 목소리는 부드러웠고
+  
+  And their words inviting.
+  언제나 저를 꼬드겼었죠
+  
+  There was a time when love was blind
+  사랑에 눈이 멀었던 때도 있었죠
+  
+  And the world was a song
+  세상은 노래로 이루어져 있고
+  
+  And the song was exciting.
+  그 노래는 너무나 흥겨웠었죠
+  
+  There was a time …then it all went wrong…
+  그런때가 있었죠...이젠 모든게 변해버렸죠
+
+
+  I dreamed a dream in time gone by
+  난 꿈을 꾸었죠 멀리 사라져버린 시절에
+  
+  When hope was high
+  희망에 가득차 있고
+  
+  And life worth living
+  삶의 가치가 살아 숨쉬었을 적에
+  
+  I dreamed that love would never die
+  난 꿈을 꾸었죠, 사랑이 영원히 죽지 않는 꿈을
+  
+  I dreamed that God would be forgiving
+  난 꿈을 꾸었죠, 신께서 날 용서하는 꿈을
+
+
+  Then I was young and unafraid
+  그 땐 난 어리고 겁도 없었죠
+  
+  And dreams were made and used and wasted
+  그래서 꿈을 꾸었다가 쉽게 버렸죠
+  
+  There was no ransom to be paid
+  그땐 갚아야 할 빚도 없었답니다
+  
+  No song unsung, no wine untasted
+  못부를 노래도, 못마실 와인도 없었죠
+
+
+  But the tigers come at night
+  하지만 한밤중에 호랑이떼 나타났지요
+  
+  With their voices soft as thunder
+  그들은 천둥같이 부드러운 목소리로
+  
+  As they tear your hope apart
+  당신의 희망을 갈갈이 찢어놓았고
+  
+  And they turn your dream to shame
+  당신의 꿈을 부끄러움으로 바꿔놓았어요
+
+> 
+  He slept a summer by my side
+  그는 여름에 내 옆에 잠들어 있었죠
+  
+  He filled my days with endless wonder
+  그는 나를 끝없는 신비함으로 채워주었답니다
+  
+  He took my childhood in his stride
+  그는 아이와 함께 산책을 가주기도 했지요
+  
+  But he was gone when autumn came
+  하지만 그는 가을이 되자 떠나갔지요
+
+
+  And still I dream he'll come to me
+  그런데도 난 꿈을 꾸어요, 그가 돌아오는 꿈을
+  
+  That we will live the years together
+  그리고 언제까지고 함께 살아가는 꿈을요
+  
+  But there are dreams that cannot be
+  하지만 그것은 이뤄질 수 없는 꿈이고
+  
+  And there are storms we cannot weather
+  예측할 수 없는 태풍만이 몰아쳐 오네요
+
+
+  I had a dream my life would be
+  난 꿈을 꾸었죠 내 삶의 미래를
+  
+  So different from this hell I'm living
+  지금의 이 지옥과는 너무나 다른 미래를
+  
+  So different now from what it seemed
+  내가 보아온 현실과는 너무 다른 미래를...
+  
+  Now life has killed the dream I dreamed.
+  이제 내 삶이 꿈을 죽여요...내 꿈을...
+
+==== 프랑스어판 원곡 J'aivais Rêvé d'Une Autre Vie ====
+원곡에 해당하는 곡으로, 프랑스에서 1980년에 만든 컨셉앨범에 첫 수록되었다. 이 곡을 영어로 개사하고 일부 재편곡한 것이 영문판에 해당한다.
+
+가사만 놓고봐도 이쪽이 좀 더 애절하고 잔혹한 현실에대한 통탄을 직접적으로 담고 있는 곡이다.
+
+  * ++ 원곡 J'aivais Rêvé d'Une Autre Vie | {{youtube>lCLbbm0ZG7E?medium}} ++
+
+  J'avais rêvé d'une autre vie
+  Mais la vie a tué mes rêves
+  Comme on étouffe les derniers cris
+  D'un animal que l'on achève
+
+  J'avais rêvé d'un coeur si grand
+  Que le mien puisse y trouver place
+  Mais mon premier prince charmant
+  Fut l'assassin de mon enfance
+
+  J'ai payé de toutes mes larmes
+  La rançon d'un petit bonheur
+  À une société qui désarme
+  La victime, et pas le voleur
+
+  J'avais rêvé d'un seul amour
+  Durant jusqu'à la fin du monde
+  Dont on ne fait jamais le tour
+  Aussi vrai que la terre est ronde
+
+  J'avais rêvé d'une autre vie
+  Mais la vie a tué mes rêves
+  À peine commencée, elle finit
+  Comme un court printemps qui s'achève
+
+  La nuit, la nuit, je sombre en mon corps
+  Et je m'abandonne à des sinistres corps à corps
+  La nuit, la nuit, pour deux pièces d'or
+  Quand ils font jaillir en moi leur pitoyable effort
+  Ils ne savent pas qu'ils font l'amour avec la mort !
+
+==== 일본어판 夢やぶれて(꿈은 깨어지고) ====
+일본어판 레 미제라블에 사용된 곡. 기본적으로 한국어판보다 먼저나왔고, 우리나라판의 베이스가 된 버전으로 생각하면 적당하다.
+
+  * ++ 일본어판 이와사키 히로미판 | {{youtube>wnLRonN3xSs?medium}} ++
+
+> 
+  昔は男も　甘い言葉ささやいたわ
+  예전엔 남자들도 달콤한 말을 속삭였죠
+  
+  恋に酔いしれてた
+  사랑에 취해있었죠
+  
+  世界は歌　歌にときめいた
+  세상은 노래, 노래에 두근거렸죠
+  
+  夢だわ　もう今は
+  꿈같네요 지금에 와선...
+
+
+  夢を見ていたわ
+  꿈을 꾸었답니다
+  
+  望み高く生きて
+  희망차게 살아가는
+  
+  愛がすべてだと
+  사랑이 전부라고
+  
+  神は許し給うと
+  신은 용서하실거라고
+
+
+  若く勇気溢れ
+  젊고 용기가 넘치던
+  
+  夢は輝いてた
+  꿈은 빛나고 있었죠
+  
+  自由にはばたき
+  자유롭게 날개짓하며
+  
+  歓び追いかけた
+  즐거이 쫓아갔었죠
+
+
+  夢は悪夢に
+  꿈은 악몽으로...
+  
+  狼の牙が
+  늑대의 이빨이
+  
+  望み引き裂き　
+  희망을 찢어발겨 
+  
+  夢喰いちぎり
+  꿈을 물어뜯었죠
+
+
+  夏　あの人来て
+  여름, 그 사람이 와서
+  
+  喜びに　あふれた
+  행복이 넘쳐흘렀던
+  
+  私抱いたけど
+  저를 안아주었지만
+  
+  秋にはもういない
+  가을이 되니 사라졌죠
+
+
+  待ち続けてるわ
+  계속해서 기다렸어요
+  
+  あの人の帰りを
+  그 사람이 돌아오길
+  
+  愚かな幻
+  어리석은 환상
+  
+  木枯らしが吹き消し
+  찬바람이 날려버리네요
+
+
+  夢見た人生
+  꿈꾸었던 인생
+  
+  今地獄に
+  지금은 지옥으로
+  
+  落ちて二度と私には
+  떨어져 두번다시 저는
+  
+  夢は　かえらない
+  꿈으로는 돌아갈 수 없어요
+
+
+==== 한국어판 '지난날의 꿈' ====
+한국어 공연에서 사용되는 버전으로, 기본적으로 '일본어판'을 번역한 것으로 보이는 영향이 많이 남아있다.
+
+  * ++ 한국어판 '지난날의 꿈' | {{youtube>hv6P47hQ-O0?medium}} ++
+
+> 
+  남자들은 친절했지 
+  말씨도 고왔고 
+  과연 한때였어 
+  사랑에 눈이 멀 때엔 모두 아름답죠 
+  세상에 버려진 몸 사라져요 나의 꿈들이 
+
+
+  한때는 꿈이 있었지 가슴에 묻어 왔던 꿈이 
+  사랑은 영원하다고 철없이 믿어 왔던 날들 
+  하지만 그 꿈은 잠시 한순간 사라져 버렸네 
+
+
+  그 누가 갚아 주리요 그 옛날 나의 고운 꿈을 
+  부드러운 목소리 나의 혼을 앗아갔지 
+  아름다운 꿈이여 떠나가야만 하나 
+
+
+  그 짧은 기억 속에서 난 헛된 꿈을 꾸었나요 
+  기나긴 한숨 남긴 채 사라진 나의 꿈이여 
+
+
+  그 누가 대신 하리요 버릴 수 없는 미련이여 
+  이룰 수 없는 꿈이여 버릴 수 없는 미련이여 
+  그래도 나는 믿지요 
+  이 지옥 세상에 살면서도 또 한번 꿈을 꾸지요 
+  이제는 영원히 사라진 꿈을
+
+
+{{tag>가사 공연음악 뮤지컬 레_미제라블 삽입곡 알랭_부브릴 클로드_미셸_쉥베르그 허버트_크레츠머 로즈_로렌 패티_루폰 팡티느 발라드}}

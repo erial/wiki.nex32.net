@@ -1,0 +1,37 @@
+====== 메모리즈 오프 손가락약속의 기억 도전과제 ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ycligjhbc83cxsggl5tvkrel2fjac8wlzfdaaaaaofn5-4zgi4_.jpg|}}|공개|記憶の設定\\ 기억의 설정|10 G|オプションモードを使用した。\\ 옵션 모드를 사용했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1ycligjhbc9hfqqzxvvrgerel2fjac8wlzmaaaaa5_fn_sh1ea_.jpg|}}|공개|記憶の扉\\ 기억의 문|10 G|バックログ画面を開いた。\\ 백 로그 화면을 열었다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0icligjhbc9afqqzxvvrgerel2fjac8wlzqaaaaa5_fn-2me6q_.jpg|}}|공개|記憶のリピート\\ 기억의 리피트|10 G|バックログ画面で音声を再生させた。\\ 백 로그 화면에서 음성을 재생했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1ocligjhbc9ffqqzxvvrgerel2fjac8wlzeaaaaa5_fn_qaeng_.jpg|}}|공개|記憶の自動送り\\ 기억의 자동재생|10 G|オートモードを使用した。\\ 오토 모드를 사용했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1icligjhbc9gfqqzxvvrgerel2fjac8wlziaaaaa5_fn_yengw_.jpg|}}|공개|記憶の暴走\\ 기억의 폭주|10 G|スキップモードを使用した。\\ 스킵 모드를 사용했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ycligjhbc9bfqqzxvvrgerel2fjac8wlzuaaaaa5_fn-opmeg_.jpg|}}|공개|記憶の反芻\\ 기억의 되새김|10 G|セーブ・ロード画面を開いた。\\ 세이브/로드 화면을 열었다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:04cligjhbc9cfqqzxvvrgerel2fjac8wlzyaaaaa5_fn-klvzw_.jpg|}}|공개|記憶の再生\\ 기억의 재생|10 G|クイックロードを使用した。\\ 퀵 로드를 사용했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:04cligjhbc81fqqzxvvrgerel2fjac8wl0eaaaaa5_fn-dswaa_.jpg|}}|비밀|はじめてのゆびきり\\ 첫 번째 손가락약속|5 G|勇気を出してゆびきりをしてみよう。\\ 용기를 내어 손가락약속을 해 보자.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ycligjhbc82fqqzxvvrgerel2fjac8wl0iaaaaa5_fn-hoftq_.jpg|}}|비밀|記念のゆびきり\\ 기념할 손가락약속|50 G|ゆびきりを5箇所で行った。\\ 손가락약속을 다섯 군데에서 했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0icligjhbc83fqqzxvvrgerel2fjac8wl0maaaaa5_fn--rnjg_.jpg|}}|비밀|甘美なるゆびきり\\ 감미로운 손가락약속|50 G|ゆびきりを15箇所で行った。\\ 손가락약속을 열 다섯 군데에서 했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1ycligjhbc8wfqqzxvvrgerel2fjac8wl0qaaaaa5_fn_lgm3w_.jpg|}}|비밀|背徳のゆびきり\\ 배덕의 손가락약속|100 G|ゆびきりを全箇所で行った。\\ 손가락약속을 모든 상황에서 했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0icligjhbc82cxsggl5tvkrel2fjac8wlzfcaaaaaofn5--5eb0_.jpg|}}|공개|ゆびきりの末路\\ 손가락약속의 말로|5 G|大切な人以外とのゆびきりはもっと自重しよう。\\ 소중한 사람 이외 사람하고의 손가락약속은 좀 더 자중합시다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ocligjhbc9ccxsggl5tvkrel2fjac8wlze2aaaaaofn5-1bigc_.jpg|}}|공개|ハッピーバースデーちなつ\\ 해피 버스데이 치나츠|3 G|ちなつの誕生日にゲームをした。\\ 치나츠의 생일에 게임을 했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:04cligjhbc9dcxsggl5tvkrel2fjac8wlze3aaaaaofn5-yhcpq_.jpg|}}|공개|ハッピーバースデー霞\\ 해피 버스데이 카스미|3 G|霞の誕生日にゲームをした。\\ 카스미의 생일에 게임을 했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0icligjhbc9mcxsggl5tvkrel2fjac8wlze4aaaaaofn5-_gzpo_.jpg|}}|공개|ハッピーバースデー織姫\\ 해피 버스데이 오리히메|3 G|織姫の誕生日にゲームをした。\\ 오리히메의 생일에 게임을 했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ocligjhbc81cxsggl5tvkrel2fjac8wlzfbaaaaaofn5-3ycag_.jpg|}}|공개|ハッピーバースデー詩名\\ 해피 버스데이 시이나|3 G|詩名の誕生日にゲームをした。\\ 시이나의 생일에 게임을 했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ycligjhbc9ncxsggl5tvkrel2fjac8wlze5aaaaaofn5-5mngk_.jpg|}}|공개|ハッピーバースデーリサ\\ 해피 버스데이 리사|3 G|リサの誕生日にゲームをした。\\ 리사의 생일에 게임을 했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ycligjhbc9mfqqzxvvrgerel2fjac8wlzgaaaaa5_fn-mudug_.jpg|}}|비밀|はじまりの記憶\\ 첫 번째 기억|25 G|オープニングムービーを鑑賞した。\\ 오프닝 무비를 감상했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ocligjhbc9dfqqzxvvrgerel2fjac8wlzcaaaaa5_fn-uixxa_.jpg|}}|비밀|記憶のロック解除\\ 기억의 잠금 해제|50 G|ちなつ・霞ルートに到達可能になった。\\ 치나츠/카스미 루트에 도달할 수 있게 되었다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0icligjhbc9bcxsggl5tvkrel2fjac8wlze1aaaaaofn5-9ggdi_.jpg|}}|비밀|秘密の記憶\\ 비밀의 기억|5 G|霞の着替えシーンを3種類目撃した。\\ 카스미가 옷을 갈아입는 장면을 3종류 목격했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0icligjhbc9nfqqzxvvrgerel2fjac8wlzkaaaaa5_fn-4x7wq_.jpg|}}|비밀|新たなる記憶\\ 새로운 기억|25 G|セカンドオープニングムービーを鑑賞した。\\ 세컨드 오프닝 무비를 감상했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1ocligjhbc9ecxsggl5tvkrel2fjac8wlzewaaaaaofn5-kdmw0_.jpg|}}|비밀|禁断のゆびきり\\ 금단의 손가락약속|80 G|織姫ルートのハッピーエンドをクリアした。\\ 오리히메 루트의 해피 엔딩을 클리어했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1ycligjhbc9gcxsggl5tvkrel2fjac8wlzeyaaaaaofn5-rcais_.jpg|}}|비밀|勇気のゆびきり\\ 용기의 손가락약속|80 G|詩名ルートのハッピーエンドをクリアした。\\ 시이나 루트의 해피 엔딩을 클리어했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:14cligjhbc9fcxsggl5tvkrel2fjac8wlzexaaaaaofn5-jjy54_.jpg|}}|비밀|再会のゆびきり\\ 재회의 손가락약속|80 G|リサルートのハッピーエンドをクリアした。\\ 리사 루트의 해피 엔딩을 클리어했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1ocligjhbc8yfqqzxvvrgerel2fjac8wl0yaaaaa5_fn_zn9_q_.jpg|}}|비밀|永遠のゆびきり\\ 영원의 손가락약속|80 G|霞ルートのハッピーエンドをクリアした。\\ 카스미 루트의 해피 엔딩을 클리어했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1icligjhbc8xfqqzxvvrgerel2fjac8wl0uaaaaa5_fn_7j0ta_.jpg|}}|비밀|約束のゆびきり\\ 약속의 손가락걸기|80 G|ちなつルートのハッピーエンドをクリアした。\\ 치나츠 루트의 해피 엔딩을 클리어했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:1icligjhbc9hcxsggl5tvkrel2fjac8wlzezaaaaaofn5-sikrg_.jpg|}}|비밀|ゆびきりの記憶\\ 손가락약속의 기억|100 G|すべてのエンディングをクリアした。\\ 모든 엔딩을 클리어했다.|
+|{{:도전과제:메모리즈_오프_손가락약속의_기억:0ycligjhbc9acxsggl5tvkrel2fjac8wlze0aaaaaofn5-6aeue_.jpg|}}|비밀|ゆびきりの約束\\ 손가락걸기의 약속|100 G|CG回収率が100%に達成した。\\ CG 회수율을 100% 달성했다.|
+</sortable>
+
+{{tag>게임 도전과제 엑스박스360 xbox360 엑스박스라이브 xboxlive 걸게 노블 5pb}}

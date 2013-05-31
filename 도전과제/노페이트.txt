@@ -1,0 +1,32 @@
+====== 노페이트! -온리 더 파워 오브 윌-(No Fate! -only the power of will-) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:노페이트:0ycligjhbc9ffqqexcjrgeqxl2fjac8wlzeaaaaa5_fn-hq8lw_.jpg|}}|비밀|晴れ、ときどき、女の子\\ 맑음, 때때로 여자아이|30 G|オープニングムービーを見ました\\ 오프닝 무비를 봤습니다|
+|{{:도전과제:노페이트:04cligjhbc9gfqqexcjrgeqxl2fjac8wlziaaaaa5_fn-du1ig_.jpg|}}|비밀|転校生１人目\\ 전학생 한 명째|30 G|メイベルが転校してきました\\ 메이벨이 전학해 왔습니다|
+|{{:도전과제:노페이트:0ocligjhbc9hfqqexcjrgeqxl2fjac8wlzmaaaaa5_fn-dxnsq_.jpg|}}|비밀|転校生２人目\\ 전학생 두 명째|30 G|盾子が転校してきました\\ 준코가 전학해 왔습니다|
+|{{:도전과제:노페이트:14cligjhbc9afqqexcjrgeqxl2fjac8wlzqaaaaa5_fn_hcmsa_.jpg|}}|비밀|転校生３人目\\ 전학생 세 명째|30 G|槍子が転校してきました\\ 소우코가 전학해 왔습니다|
+|{{:도전과제:노페이트:1ocligjhbc9bfqqexcjrgeqxl2fjac8wlzuaaaaa5_fn_zfe2w_.jpg|}}|비밀|女装デビュー\\ 여장 데뷔|30 G|貴也が女装しました\\ 타카야가 여장했습니다|
+|{{:도전과제:노페이트:1icligjhbc9cfqqexcjrgeqxl2fjac8wlzyaaaaa5_fn_7bxbg_.jpg|}}|비밀|犬ルート\\ 개 루트|30 G|犬ルートに入りました\\ 개 루트에 들어갔습니다|
+|{{:도전과제:노페이트:1ycligjhbc9dfqqexcjrgeqxl2fjac8wlzcaaaaa5_fn_lyv-q_.jpg|}}|비밀|猫ルート\\ 고양이 루트|30 G|猫ルートに入りました\\ 고양이 루트에 들어갔습니다|
+|{{:도전과제:노페이트:1icligjhbc81fqqexcjrgeqxl2fjac8wl0eaaaaa5_fn_y8uoq_.jpg|}}|비밀|希咲ルート\\ 미사키 루트|30 G|希咲ルートに入りました\\ 미사키 루트에 들어갔습니다|
+|{{:도전과제:노페이트:04cligjhbc8xfqqexcjrgeqxl2fjac8wl0uaaaaa5_fn-kzm7q_.jpg|}}|비밀|今年もよろしく\\ 올해도 잘 부탁해|100 G|希咲ルートをクリアしました\\ 미사키 루트를 클리어 했습니다|
+|{{:도전과제:노페이트:1ocligjhbc82fqqexcjrgeqxl2fjac8wl0iaaaaa5_fn_q4nfa_.jpg|}}|비밀|盾子ルート\\ 준코 루트|30 G|盾子ルートに入りました\\ 준코 루트에 들어갔습니다|
+|{{:도전과제:노페이트:0ycligjhbc8yfqqexcjrgeqxl2fjac8wl0yaaaaa5_fn-o3fwa_.jpg|}}|비밀|僕たちの暮らす惑星（ほし）\\ 우리가 사는 별|100 G|盾子ルートをクリアしました\\ 준코 루트를 클리어 했습니다|
+|{{:도전과제:노페이트:14cligjhbc9nfqqexcjrgeqxl2fjac8wlzkaaaaa5_fn_jhdya_.jpg|}}|비밀|理瀬ルート\\ 리세 루트|30 G|理瀬ルートに入りました\\ 리세 루트에 들어갔습니다|
+|{{:도전과제:노페이트:0ocligjhbc8wfqqexcjrgeqxl2fjac8wl0qaaaaa5_fn-uw0fg_.jpg|}}|비밀|毎日が特別な日々\\ 매일이 특별한 나날|100 G|理瀬ルートをクリアしました\\ 리세 루트를 클리어 했습니다|
+|{{:도전과제:노페이트:1ocligjhbc9mfqqexcjrgeqxl2fjac8wlzgaaaaa5_fn_xe78w_.jpg|}}|비밀|メイベルルート\\ 메이벨 루트|30 G|メイベルルートに入りました\\ 메이벨 루트에 들어갔습니다|
+|{{:도전과제:노페이트:14cligjhbc83fqqexcjrgeqxl2fjac8wl0maaaaa5_fn_o7fhw_.jpg|}}|비밀|なべて世は事もなく\\ 이 세상은 별 일도 없이|100 G|メイベルルートをクリアしました\\ 메이벨 루트를 클리어 했습니다|
+|{{:도전과제:노페이트:0ycligjhbc9bcxsbgyltvkqxl2fjac8wlze1aaaaaofn5-7vd3w_.jpg|}}|공개|WORDS 25%|30 G|WORDSの完成率が25%を超えました\\ WORDS의 완성률이 25%를 넘었습니다|
+|{{:도전과제:노페이트:04cligjhbc9ccxsbgyltvkqxl2fjac8wlze2aaaaaofn5-z0fsk_.jpg|}}|공개|WORDS 50%|30 G|WORDSの完成率が50%を超えました\\ WORDS의 완성률이 50%를 넘었습니다|
+|{{:도전과제:노페이트:0ocligjhbc9dcxsbgyltvkqxl2fjac8wlze3aaaaaofn5-0uhlo_.jpg|}}|공개|WORDS 75%|30 G|WORDSの完成率が75%を超えました\\ WORDS의 완성률이 75%를 넘었습니다|
+|{{:도전과제:노페이트:0ycligjhbc9mcxsbgyltvkqxl2fjac8wlze4aaaaaofn5-4zklq_.jpg|}}|공개|WORDS 100%|30 G|WORDSをコンプリートしました\\ WORDS를 컴플릿 했습니다|
+|{{:도전과제:노페이트:0icligjhbc9acxsbgyltvkqxl2fjac8wlze0aaaaaofn5-81j_8_.jpg|}}|공개|MUSICモード 100%\\ 뮤직 모드 100%|30 G|MUSICモードの曲をコンプリートしました\\ 뮤직 모드의 곡을 컴플릿 했습니다|
+|{{:도전과제:노페이트:14cligjhbc9ecxsbgyltvkqxl2fjac8wlzewaaaaaofn5-i2bam_.jpg|}}|공개|CGモード 25%\\ CG모드 25%|30 G|CGモードの達成率が25%を超えました\\ CG모드의 달성률이 25%를 넘었습니다|
+|{{:도전과제:노페이트:1ocligjhbc9fcxsbgyltvkqxl2fjac8wlzexaaaaaofn5-lwlta_.jpg|}}|공개|CGモード 50%\\ CG모드 50%|30 G|CGモードの達成率が50%を超えました\\ CG모드의 달성률이 50%를 넘었습니다|
+|{{:도전과제:노페이트:1icligjhbc9gcxsbgyltvkqxl2fjac8wlzeyaaaaaofn5-t3niu_.jpg|}}|공개|CGモード 75%\\ CG모드 75%|30 G|CGモードの達成率が75%を超えました\\ CG모드의 달성률이 75%를 넘었습니다|
+|{{:도전과제:노페이트:1ycligjhbc9hcxsbgyltvkqxl2fjac8wlzezaaaaaofn5-qxzby_.jpg|}}|공개|CGモード 100%\\ CG모드 100%|30 G|CGモードをコンプリートしました\\ CG모드를 컴플릿 했습니다|
+</sortable>
+{{tag>걸게 게임 도전과제 엑스박스360 xbox360 archivement}}

@@ -1,0 +1,41 @@
+====== 11아이즈 크로스오버(11eyes CrossOver) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:11아이즈_크로스오버:1ocligjhbc9ffqqzxvvrgeq0l2fjac8wlzeaaaaa5_fn_fgejw_.jpg|}}|공개|炎のはじまり\\ 불꽃의 시작|10 G|プロローグをみた。\\ 프롤로그를 봤다.|
+|{{:도전과제:11아이즈_크로스오버:1icligjhbc9gfqqzxvvrgeq0l2fjac8wlziaaaaa5_fn_9kxog_.jpg|}}|비밀|赤い夜\\ 붉은 밤|10 G|初めての「赤い夜」を無事に切り抜けた。\\ 최초의 「붉은 밤」을 무사히 빠져나왔다.|
+|{{:도전과제:11아이즈_크로스오버:1ycligjhbc9hfqqzxvvrgeq0l2fjac8wlzmaaaaa5_fn_jnvqq_.jpg|}}|비밀|黒騎士登場\\ 흑기사 등장|10 G|赤い夜の中に、黒騎士たちが現れた。\\ 붉은 밤 속에서 흑기사들이 나타났다.|
+|{{:도전과제:11아이즈_크로스오버:0icligjhbc9afqqzxvvrgeq0l2fjac8wlzqaaaaa5_fn-5seua_.jpg|}}|비밀|グラ撃破\\ 그라 격파|10 G|黒騎士「グラ」をなんとか倒した。\\ 흑기사 「그라」를 어떻게 쓰러뜨렸다.|
+|{{:도전과제:11아이즈_크로스오버:0ycligjhbc9bfqqzxvvrgeq0l2fjac8wlzuaaaaa5_fn-nv8ww_.jpg|}}|비밀|閉じられた世界\\ 닫힌 세계|10 G|街の外に出られない事実を知った。\\ 시내 밖으로 나갈 수 없다는 사실을 알았다.|
+|{{:도전과제:11아이즈_크로스오버:04cligjhbc9cfqqzxvvrgeq0l2fjac8wlzyaaaaa5_fn-fr1dg_.jpg|}}|비밀|イラ＆インウィディア撃退\\ 이라&인비디아 격퇴|10 G|「イラ」と「インウィディア」の二人の黒騎士に、傷を負わせ、退かせることが出来た。\\ 「이라」와 「인비디아」라는 두 흑기사에게 대미지를 주고, 격퇴했다.|
+|{{:도전과제:11아이즈_크로스오버:0ocligjhbc9dfqqzxvvrgeq0l2fjac8wlzcaaaaa5_fn-bon5q_.jpg|}}|비밀|アケディア撃退\\ 아케디아 격퇴|10 G|黒騎士「アケディア」を辛うじて撃退した。\\ 흑기사 「아케디아」를 간신히 격퇴했다.|
+|{{:도전과제:11아이즈_크로스오버:0ycligjhbc9mfqqzxvvrgeq0l2fjac8wlzgaaaaa5_fn-p0z6w_.jpg|}}|비밀|覚醒めの片鱗\\ 각성의 편린|10 G|駆を助けるのに、ゆかが能力の片鱗を見せた。\\ 카케루를 구하는 와중에 유카가 능력의 편린을 보여줬다.|
+|{{:도전과제:11아이즈_크로스오버:0icligjhbc9nfqqzxvvrgeq0l2fjac8wlzkaaaaa5_fn-33hea_.jpg|}}|비밀|死\\ 죽음|10 G|彩子と賢久が死んでしまった。\\ 사이코와 타카히사가 죽어 버렸다.|
+|{{:도전과제:11아이즈_크로스오버:04cligjhbc81fqqzxvvrgeq0l2fjac8wl0eaaaaa5_fn-mmmuq_.jpg|}}|비밀|虚無の欠片の真実\\ 허무의 조각에 대한 진실|10 G|自分たちの秘密と現状を、草壁操から知らされた。\\ 자신들의 비밀과 현재 상태를, 쿠사카베 미사오가 알려 주었다.|
+|{{:도전과제:11아이즈_크로스오버:0ycligjhbc82fqqzxvvrgeq0l2fjac8wl0iaaaaa5_fn-uifda_.jpg|}}|비밀|魔女の最期\\ 마녀의 최후|10 G|不死の魔女「リーゼロッテ」を倒した。\\ 불사의 마녀 「리젤로테」를 쓰러뜨렸다.|
+|{{:도전과제:11아이즈_크로스오버:04cligjhbc9fcxsggl5tvkq0l2fjac8wlzexaaaaaofn5-zsmhm_.jpg|}}|비밀|かけがえのない日常\\ 가장 소중한 일상|50 G|ゆかのエンディングをみた。\\ 유카의 엔딩을 봤다.|
+|{{:도전과제:11아이즈_크로스오버:0icligjhbc9hcxsggl5tvkq0l2fjac8wlzezaaaaaofn5-8twzu_.jpg|}}|비밀|世界中を敵に回しても\\ 온 세상을 적으로 돌려도|50 G|雪子のエンディングをみた。\\ 유키코의 엔딩을 봤다.|
+|{{:도전과제:11아이즈_크로스오버:0ycligjhbc9gcxsggl5tvkq0l2fjac8wlzeyaaaaaofn5-7no6y_.jpg|}}|비밀|血の絆\\ 피의 결속|50 G|美鈴のエンディングをみた。\\ 미스즈의 엔딩을 봤다.|
+|{{:도전과제:11아이즈_크로스오버:1ycligjhbc9acxsggl5tvkq0l2fjac8wlze0aaaaaofn5-qpkmw_.jpg|}}|비밀|取り戻した言葉\\ 되찾은 말|50 G|菊理のエンディングをみた。\\ 쿠쿠리의 엔딩을 봤다.|
+|{{:도전과제:11아이즈_크로스오버:1ycligjhbc9ncxsggl5tvkq0l2fjac8wlze5aaaaaofn5-ppzeq_.jpg|}}|공개|友と、明日のために\\ 친구와, 내일을 위해|60 G|『罪と罰と贖いの少女』編のグッドエンディングを全てみた。\\ 『죄와 벌과 속죄의 소녀』 편의 굿 엔딩을 모두 봤다.|
+|{{:도전과제:11아이즈_크로스오버:0icligjhbc8wcxsggl5tvkq0l2fjac8wlzfeaaaaaofn5-_0ovo_.jpg|}}|공개|Food Fighter\\ 푸드 파이터|30 G|賢久が１１種類全ての食べ物を制した。\\ 타카히사가 11종류의 모든 음식을 제패했다.|
+|{{:도전과제:11아이즈_크로스오버:1icligjhbc82cxsggl5tvkq0l2fjac8wlzfcaaaaaofn5-v2kza_.jpg|}}|공개|１１の“ｅｙｅ”\\ 11의 "eye"|60 G|全てのクロスビジョンシナリオをみた。\\ 모든 크로스 비전 시나리오를 봤다.|
+|{{:도전과제:11아이즈_크로스오버:0icligjhbc83fqqzxvvrgeq0l2fjac8wl0maaaaa5_fn-wl9nw_.jpg|}}|비밀|ドッペルゲンガーの噂\\ 도펠겡어의 소문|10 G|匡から、香央里が自分のドッペルゲンガーを見た、という話を聞いた。\\ 타다시한테서, 카오리가 자신의 도펠겡어를 봤다, 라는 이야기를 들었다.|
+|{{:도전과제:11아이즈_크로스오버:1ycligjhbc8wfqqzxvvrgeq0l2fjac8wl0qaaaaa5_fn_qawzg_.jpg|}}|비밀|魔術師たちの共同\\ 마술사들의 공동전선|10 G|修、栞、澪の３人の魔術師が、とりあえずだが協力態勢になった。\\ 슈우, 시오리, 미오 3인의 마술사가 일단은 협력 태세를 취하게 되었다.|
+|{{:도전과제:11아이즈_크로스오버:1icligjhbc8xfqqzxvvrgeq0l2fjac8wl0uaaaaa5_fn_0du9q_.jpg|}}|비밀|ガラテイアの最期\\ 가라테이아의 최후|10 G|ガラテイアを倒して、汐音を救出したが、謎はまだ残ったままだった。\\ 가라테이아를 쓰러뜨리고 시오네를 구출했지만, 수수께끼는 아직 남아 있었다.|
+|{{:도전과제:11아이즈_크로스오버:1ocligjhbc8yfqqzxvvrgeq0l2fjac8wl0yaaaaa5_fn_whnqa_.jpg|}}|비밀|トゥーレへの誘い\\ 투레에의 권유|10 G|黒羊歯鼎から新生「トゥーレ」への加入を要請された。\\ 쿠로시다 카나에가 신생 「투레」에 가입하라는 요청을 했다.|
+|{{:도전과제:11아이즈_크로스오버:0ocligjhbc9ecxsggl5tvkq0l2fjac8wlzewaaaaaofn5-0myoa_.jpg|}}|비밀|砕け散った鏡\\ 산산조각난 거울|10 G|黒羊歯鼎の野望を阻止した。\\ 쿠로시다 카나에의 야망을 저지했다.|
+|{{:도전과제:11아이즈_크로스오버:14cligjhbc9dcxsggl5tvkq0l2fjac8wlze3aaaaaofn5-iuixk_.jpg|}}|비밀|夕陽に染まる世界\\ 석양에 물든 세계|50 G|汐音のエンディングをみた。\\ 시오네의 엔딩을 봤다.|
+|{{:도전과제:11아이즈_크로스오버:1ocligjhbc9ccxsggl5tvkq0l2fjac8wlze2aaaaaofn5-lo2eo_.jpg|}}|비밀|現代魔術師の夢見る未来\\ 현대마술사가 꿈꾸는 미래|50 G|澪のエンディングをみた。\\ 미오의 엔딩을 봤다.|
+|{{:도전과제:11아이즈_크로스오버:1icligjhbc9bcxsggl5tvkq0l2fjac8wlze1aaaaaofn5-tv0f8_.jpg|}}|비밀|神々の戯れ\\ 신들의 유희|50 G|栞のエンディングをみた。\\ 시오리의 엔딩을 봤다.|
+|{{:도전과제:11아이즈_크로스오버:1icligjhbc9mcxsggl5tvkq0l2fjac8wlze4aaaaaofn5-ujnxc_.jpg|}}|비밀|恋に落ちた明日\\ 사랑에 빠진 내일|50 G|香央里のエンディングをみた。\\ 카오리의 엔딩을 봤다.|
+|{{:도전과제:11아이즈_크로스오버:1ocligjhbc81cxsggl5tvkq0l2fjac8wlzfbaaaaaofn5-nxicu_.jpg|}}|공개|美しき新しい世界\\ 아름답고 새로운 세계|60 G|『虚ろなる鏡界』編のグッドエンディングを全てみた。\\ 『거짓된 거울 세계』 편의 굿 엔딩을 모두 봤다.|
+|{{:도전과제:11아이즈_크로스오버:0ycligjhbc8xcxsggl5tvkq0l2fjac8wlzffaaaaaofn5-5uwmk_.jpg|}}|공개|11eyes 25％|20 G|シナリオ既読率25％達成！　まだまだこれからです。\\ 시나리오 완독률 25% 달성! 아직 많이 남았습니다.|
+|{{:도전과제:11아이즈_크로스오버:04cligjhbc8ycxsggl5tvkq0l2fjac8wlzfgaaaaaofn5-x1y9w_.jpg|}}|공개|11eyes 50％|20 G|シナリオ既読率50％達成！　ようやく折り返し地点。\\ 시나리오 완독률 50% 달성! 이제야 반환점이군요.|
+|{{:도전과제:11아이즈_크로스오버:0icligjhbc9ecbsggl5tvkq0l2fjac8wlziwaaaaaofn5-8e_ik_.jpg|}}|공개|11eyes 75％|20 G|シナリオ既読率75％達成！　コンプリートまであと少し！\\ 시나리오 완독률 75% 달성! 컴플릿까지 얼마 안 남았습니다!|
+|{{:도전과제:11아이즈_크로스오버:0ycligjhbc9fcbsggl5tvkq0l2fjac8wlzixaaaaaofn5-7_aro_.jpg|}}|공개|11eyes Complete|110 G|シナリオ既読率100％達成！　あなたはすごいです♪\\ 시나리오 완독률 100% 달성! 당신은 대단하군요♪|
+|{{:도전과제:11아이즈_크로스오버:1ycligjhbc83cxsggl5tvkq0l2fjac8wlzfdaaaaaofn5-ow0qm_.jpg|}}|공개|Visual Complete|60 G|全てのイベントグラフィックを閲覧した。\\ 모든 이벤트 그래픽을 열람했다.|
+</sortable>
+{{tag>걸게 게임 도전과제 엑스박스360 xbox360 11아이즈 11아이즈_크로스오버}}

@@ -1,0 +1,94 @@
+====== Road to glory for dragon nest ======
+===== 드래곤 네스트 이미지송 =====
+---- datatemplateentry music ----
+곡명			: Road to glory for dragon nest
+한국어명		: 드래곤 네스트를 향한 영광의 길
+수록작_titles		: 게임:드래곤 네스트
+수록앨범_albums		: VICL-63552 | KOKIA 컴필레이션 앨범 'REAL WORLD', VAH-0086 | KOKIA 미수록 게임보컬앨범 'Road to Glory~long journey~', LACA-15141 | KOKIA outwork collection pieces
+발매일_dts		: 2010-03-31
+
+작사_peoples		: KOKIA
+작곡_peoples		: KOKIA
+편곡_peoples		: 이토 마스미 | 이토 마스미(伊藤真澄)
+부른이_peoples		: KOKIA
+----
+
+===== 상세설명 =====
+
+국내 제작사인 [[회사:아이덴티티 게임]]에서 개발한 온라인 MORPG게임 [[게임:드래곤 네스트]]의 이미지송. 게임 속에는 등장하지 않고 PV에 첨부하기 위해 일본 배급사인 일본 NHN에서 의뢰한 곡이다.
+
+당연히 국내판에는 들어있지 않으며, 이 작품에 나오는 프롤로그도 게임 속에서 등장하지 않는다. 아무리 외국 판매에 더 중점을 두었다고는 해도 이정도 되면 완전 국내 게이머를 물로 보는 처사가 아닌가에 대해서 심히 생각해보지 않을 수가 없다.
+
+참고로 이 앨범에는 [[음악:for_little_tail|For Little tail]]이 정식으로 수록된 앨범으로, 정규 앨범에 수록되지 못한 코키아의 노래들이 수록되어있으므로 참고하도록 하자.
+
+===== 가사 =====
+
+  * ++ 드래곤네스트 PV보기 | {{youtube>E_b54TA2UAg?medium}} ++
+  * ++ 풀버전 영상보기 | {{youtube>PIs6uN1HGvQ?medium}} ++
+
+  Sakkati busueiwou
+  Krazare immunerume
+  Chutturin konineotay yuni oi
+  
+  風が誘う　未来へと續く旅へ
+  바람이 유혹하는 미래로 이어지는 여행으로
+  
+  世界は兩腕を廣げて　待っている
+  세계는 양팔을 벌리고 기다리고 있어
+  
+  心の目で　感じる大きな力
+  마음의 눈으로 느끼는 커다란 힘
+  
+  沸き上がるこの気持ち信じて　步き出そう
+  끓어오르는 이 마음을 믿으며 걸어 나가자
+
+  果てしない物語の中へ　
+  끝없는 이야기 속으로
+  
+  望んだ以上の出逢いが待って…　今
+  바라던 이상의 기다려, 바로 지금
+
+  Sakkati busueiwou 英雄へと續く道
+  영웅으로 향하는 길
+  
+  Krazare immunerume 今　開かれる
+  지금 펼쳐지리라
+  
+  Sakkati busueiwou 真實へと續く道
+  질실로 향하는 길
+  
+  Krazare immunerume 今　開かれる
+  지금 펼쳐지리라
+
+
+  共に行こう　信じて進む場所ヘ
+  함께 가자 믿으며 나아갈 곳으로
+  
+  力を合わせれば　葉わぬことなどない
+  힘을 합치면 이루지 못할 것은 없으리
+  
+  今こそ　さぁ　絆を結ぶために
+  지금이야말로 인연을 잇기 위해서
+  
+  新しい扉を開いて　突き進もう
+  새로운 문을 열고서 앞으로 나아가자
+  
+  たった1度の人生の中で　
+  단 한번의 인생에서
+  
+  今　何を選ぶべきなんだろう　Oh
+  지금 무엇을 선택해야 할것인지 오
+
+  Sakkati busueiwou 英雄へと續く道
+  영웅으로 향하는 길
+  
+  Krazare immunerume 今　開かれる
+  지금 펼쳐지리라
+  
+  Sakkati busueiwou 榮光へと續く道
+  영광으로 향하는 길
+  
+  Krazare immunerume 今　開かれる
+  지금 펼쳐지리라
+
+{{tag>가사 게임음악 드래곤_네스트 이미지송 KOKIA 코키아 이토_마스미 발라드}}

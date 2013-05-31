@@ -1,0 +1,102 @@
+====== Josephine (죠세핀) ======
+===== 소서리언 삽입곡/이미지송 =====
+---- datatemplateentry music ----
+곡명			: Josephine
+한국어명		: 죠세핀
+수록작_titles		: 게임:소서리언
+수록앨범_albums		: K13X-23041_6 | FALCOM SPECIAL BOX '89 8cmCD (6discs), KIDA-5003 | VOCAL-FALCOM SPECIAL BOX '89, KICA-1042_3 | FALCOM VOCAL COLLECTION I, KICS-220 | 모리구치 히로코 앨범 'ETERNAL SONGS II', NW10102220 | FALCOM SPECIAL BOX '89(1) -FUSION + VOCAL + PLUS MIX-, NW10102960 | VOCAL1&2&3 세트
+발매일_dts		: 1988-12-05
+
+작사_peoples		: 필립 H 로즈 | 필립 H 로즈(Phillip H. Rose)
+작곡_peoples		: TeamJDK
+편곡_peoples		: 야노 타츠미 | 야노 타츠미(矢野立美)
+부른이_peoples		: 모리구치 히로코 | 모리구치 히로코(森口博子)
+----
+
+===== 상세설명 =====
+
+소서리언 추가 시나리오인 'Sorcerian Additional Scenarios Vol. 1 - Dear Josephine'의 곡에 가사를 추가한 버전. 가사가 영어라는 점이 이색적이다. 
+
+1988년 12월, 팔콤 스페셜박스 '89에 처음 수록되었으며 이후 다수의 앨범에 수록될 정도로 사랑받은 곡. 멋진 편곡으로 소서리언 특유의 방랑과 회한의 분위기를 잘 담아낸 명곡.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ PC-8801 버전 오리지널 PSG 음원 | {{youtube>k8hNCzZ-sqs?medium}} ++
+  * ++ 보컬버전 보기 | {{youtube>B96NMqS8Mi4?medium}} ++
+
+  My heart and soul
+  내 혼과 영혼이
+  
+  They cry for Josephine
+  죠세핀을 위해 울고 있소
+  
+  I miss her so
+  그녀가 그립다오
+  
+  Where is my Josephine
+  어디에 있소, 죠세핀
+
+
+  What star in the sky shines down on you
+  그대, 저 하늘에 반짝이는 어느 별 아래에 있소
+  
+  Can it be one I can see
+  부디 내게 가르쳐주오
+
+
+  And so I wait
+  난 그저 기다린다오
+  
+  Wait for my Josephine
+  나의 죠세핀을 기다린다오
+  
+  Wait for the day I see my Josephine
+  죠세핀을 만날 그날을 기다릴 뿐이오
+
+
+  A part of my heart has gone with you
+  내 심장의 일부는 그대와 사라졌소
+  
+  Don't hide from me, don't run away.
+  내게서 숨지마오, 도망치지 마오
+
+
+
+  And though I know
+  사실은 나도 알고 있소
+  
+  You may be far away
+  당신은 멀리 떠났단 걸
+  
+  I dream you'll come
+  그대가 돌아오길 꿈꾸오
+  
+  Just like a fairy tale
+  동화속 이야기처럼 말이오
+  
+  The moon never lies, he said to me
+  달은 거짓을 말하지 않소, 그가 내게 말하길
+  
+  "Believe your heart. She's coming back."
+  "당신의 마음을 믿어요, 그녀는 돌아올거예요"
+
+
+  And so I wait
+  그렇기에 난 기다린다오
+  
+  Wait for my Josephine
+  나의 죠세핀을 기다린다오
+  
+  Wait for the day I see my Josephine
+  죠세핀을 만날 그날을 기다릴 뿐이오
+
+
+  A part of my heart has gone with you
+  내 심장의 일부는 그대와 사라졌소
+  
+  Don't hide from me, don't run away.
+  내게서 숨지마오, 도망치지 마오
+
+
+{{tag>가사 게임음악 팔콤 소서리언 삽입곡 이미지송 필립_H_로즈 TeamJDK 야노_타츠미 모리구치_히로코 발라드}}

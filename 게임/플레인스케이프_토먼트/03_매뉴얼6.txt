@@ -1,0 +1,71 @@
+====== 플레인스케이프 토먼트 매뉴얼(6) ======
+<blockquote>
+<fs large>**목차**</fs>
+  - [[게임:플레인스케이프_토먼트:03_매뉴얼1#소개 (Introduction)]]
+  - [[게임:플레인스케이프_토먼트:03_매뉴얼1#무명인 만들기 (Creating a new Nameless One)]]
+  - [[게임:플레인스케이프_토먼트:03_매뉴얼2#NPC 들 (NPC's)]]
+  - [[게임:플레인스케이프_토먼트:03_매뉴얼3#주문 (Spells)]]
+  - [[게임:플레인스케이프_토먼트:03_매뉴얼4#당파 (Factions)]]
+  - [[게임:플레인스케이프_토먼트:03_매뉴얼5#성향 (Alignment)]]
+  - [[게임:플레인스케이프_토먼트:03_매뉴얼6#문신 (Tatoos)]]
+</blockquote>
+
+====== 문신 (Tatoos) ======
+당신도 알다시피, 토먼트에는 엄청난 양의 문신들이 있다. 이것들은 당신이 대화를 하거나 특수한 상황을 겪으면서 어떠한 조건을 만족하게 되면 나타나게 된다. (당신은 이것들을 살 수 있다.) 그래서, 당신이 이러한 조건을 만족시키지 못한다면, 볼 수도 없을 뿐만 아니라 얻을 수도 없다.
+
+===== 존재하는 문신들 (조건 없음) =====
+^  문신 명칭  ^
+| 행동/뛰어난 행동의 문신(Tattoo of Action/of Greater Action) |
+| 힘/강력한 힘의 문신(Tattoo of Might/of Greater Might) |
+| 건강/탁월한 건강의 문신(Tattoo of Health/of Greater Health) |
+| 보호/강력한 보호의 문신(Tattoo of Warding/of Greater Warding) |
+| 존재/강렬한 존재의 문신(Tattoo of Presence/of Greater Presence) |
+| 통찰력/뛰어난 통찰력의 문신(Tattoo of Insight/of Revelation) |
+| 정신/영혼의 문신(Tattoo of the Spirit/of the Soul) |
+| 인내/강렬한 인내의 문신(Tattoo of Enduring/of Greater Enduring) |
+| 정확성의 문신(Tattoo of Accuracy) |
+| 유혈의 문신(Tattoo of Bloodletting) |
+
+===== 조건이 있는 문신들 =====
+^ 문신 명칭 ^ 획득조건 ^
+^ 잃어버린 화신의 문신 \\ (Tattoo of the Lost Incarnation) | 사지가 절단된 무덤(눈물을 흘리는 돌 지하 묘지)에서 당신의 잘라진 팔을 찾아내면 된다. 그러면, 휄에게서 구할 수 있다. |
+^ 황폐한 암흑의 문신 \\ (Tattoo of Wasting Darkness) | 사지가 절단된 무덤에서 당신의 잘라진 팔을 찾아내면 된다. |
+^ 눈물을 흘리는 돌의 문신 \\ (Tattoo of the Weeping Stones) | 사지가 절단된 무덤에서 당신의 잘라진 팔을 찾아내면 된다. |
+^ 조용한 동전의 문신 \\ (Tattoo of Silent Coins) | 사지가 절단된 무덤에서 당신의 잘라진 팔을 찾아내면 된다. |
+^ 레이져 엔젤 잉크 \\ (Razor Angel Ink) | 위험한 모서리의 골목에서 레이져 엔젤을 도와주면 된다. |
+^ 그로숙의 사망의 문신 \\ (Tattoo of Grosuk's Demise) | 그로숙을 죽여라. 하지만, "세바스챤의 종말의 문신"은 얻을 수 없다. |
+^ 세바스챤의 종말의 문신 \\ (Tattoo of Sebastion's End) | 그로숙에게 세바스챤이 그의 죽음을 원한다고 말해라. 하지만, "그로숙의 사망의 문신"은 얻을 수 없다. |
+^ 정의의 눈의 문신 \\ (Tattoo of Justice's Eye) | (퀘스트) 바이런 픽잇의 체포, 트리스트의 자유 |
+^ 아나키스트의 문신 \\ (Tattoo of Anarchist) | 아나키스트에 가입하라. |
+^ 센세이션의 문신 \\ (Tattoo of Sensation) | 센세이트에 가입하라. |
+^ 안식을 취하지 못하는 사자의 문신 \\ (Tattoo of the Restless Dead) | (퀘스트) 하이브에 있는 영묘의 네크로멘서, 스트라한 룬셰도우를 죽여라. 그러면, 안식을 취하지 못하는 사자들이 평안을 얻을 것이다. |
+^ 에스 안논의 무덤의 문신 \\ (Tattoo of Graves of Es-Annon) | (퀘스트) 하이브에서 에스 안논의 통곡자를 위해 묘비을 찾아라. |
+^ 쿠 인의 수 \\ (Number of Ku'u Yin) | (퀘스트) 매장된 마을에서 쿠 인에게 숫자를 돌려주어라. |
+^ 뼈를 노래하는 자의 문신 \\ (Tattoo of the Bonesinger) | 죽은 자의 왕국에서 썩은 메리에게 "뼈들이 해주는 이야기"능력을 배운다. |
+^ 전사의 문신 \\ (Tattoo of the Warrior) | 전사 클래스로 7레벨에서 전문화 보너스를 받으면 된다. |
+^ 절정의 전사의 문신 \\ (Tattoo of the Supreme Warrior) | 전사 클래스로 7레벨과 12레벨 전문화 보너스를 받으면 된다. |
+^ 마법의 문신 \\ (Tattoo of the Art) | 메이지 클래스로 7레벨에서 전문화 보너스를 받으면 된다. |
+^ 마기의 문신 \\ (Tattoo of the Magi) | 메이지 클래스로 7레벨과 12레벨 전문화 보너스를 받으면 된다. |
+^ 도둑의 문신 \\ (Tattoo of the Thief) | 도둑 클래스로 7레벨에서 전문화 보너스를 받으면 된다. |
+^ 마스터 도둑의 문신 \\ (Tattoo of the Master Thief) | 도둑 클래스로 7레벨과 12레벨 전문화 보너스를 받으면 된다. |
+^ 해골의 문신 \\ (Tattoo of the Skull [AKA Tattoo of Morte]) | 모트를 당신의 파티에 넣어다. |
+^ 안나의 문신 \\ (Tattoo of Annah) \\ [AKA Tattoo of Annah-of-the-Shadows] | 안나를 당신의 파티에 넣어다. |
+^ 아파트 그림자의 문신 \\ (Tattoo of Tenement Shadows) | (퀘스트) 휄의 상점 바로 옆에 있는, 굶주린 개 갱단의 아파트에서  \\ (시빌과 함께든지, 아니든지)탈출하면 된다. |
+^ 근원의 문신 \\ (Tattoo of the Source) | 가즈멘에 가입하라. |
+^ 융합의 문신 \\ (Tattoo of the Joining) | 카리나와 코버스를 맺어주어라 - 코버스에게 카리나가 외로워한다고 말하라. 하지만, 악의의 문신은 얻을 수 없다. |
+^ 악의의 문신 \\ (Tattoo of Spite) | 코버스에게 카리나가 그녀의 시간 대부분을 그녀의 소송인과 보낸다고, 일부러 말하라. 하지만, 융합의 문신은 얻을 수 없다. |
+^ 삶 속에서 죽음의 문신 \\ (Tattoo of Death-in-Life) | (퀘스트) 딤트리에게 두 번째 죽음을 맞는 것을 들어주어 그의 좀비 "노예"로부터 자유로워지도록 하라. |
+^ 그레이스 장점의 문신 \\ (Tattoo of Saving Grace) | 폴 프롬 그레이스를 당신의 파티에 넣어라. |
+^ 깨어지지 않는 원의 문신 \\ (Tattoo of the Unbroken Circle) | 다콘에게서 모든 스펠을 배워라. |
+^ 이그너스의 문신 \\ (Tattoo of Ignus) | 이그너스를 당신의 파티에 넣어라. |
+^ 구원자의 문신 \\ (Tattoo of the Redeemer) | (퀘스트) 카르세리에서 배신자 트리아스를 구하라. \\ "어퍼 플레인은 정의, 아름다움, 선함의 집과도 같소. 집으로 가시오. 당신의 잘못과 당신이 용서를 비는 것을 모두 받아들일 것이오."라고 말하라. \\ 이렇게 했지만, 베일러가 그를 죽인다면 이것을 얻지 못한다. 대신 "배신자의 문신"을 얻을 수 있다. |
+^ 배신자의 문신 \\ (Tattoo of the Betrayer) | (퀘스트) 트리아스를 죽여라. \\ 하지만, 구원자의 문신은 얻을 수 없다. |
+^ 아버누스의 문신 \\ (Tattoo of Avernus) | (퀘스트) 바아토르에 있는 해골의 기둥과 말하라. |
+^ 레벨의 문신 \\ (Tattoo of Ravel) | (퀘스트) 검은 가시의 미궁에서 레벨을 만나라. \\ (대화를 통해서 레벨이 이 문신을 통해 당신을 구속하도록 하라) |
+^ 레벨의 키스의 문신 \\ (Tattoo of Ravel's Kiss) | (퀘스트) 레벨에게서 키스를 받아라. |
+^ 달변의 문신 \\ (Tattoo of the Silver Tongue) | (퀘스트) 레벨에게 **매우 많이** 아부하라. |
+^ 검은 가시 부름/미궁의 문신 \\ (Tattoo of the Black Barbed Call/Maze) | (퀘스트) 레벨의 미궁을 찾아가라. 메이지 전용. |
+^ 논리 입방체의 문신 \\ (Tattoo of Logic Cubed) | 노르돔을 당신의 파티에 넣어라. |
+^ 이야기꾼의 문신 \\ (Tattoo of the Tale-Weaver) | 매음굴에서 이브즈에게 모든 이야기를 들어라. \\ (물론, 그녀가 해주는 당신 파티 멤버들의 이야기도 포함해서 그녀의 이야기를 전부 들어라) |
+
+{{tag>플레인스케이프_토먼트}}

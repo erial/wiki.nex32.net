@@ -1,0 +1,21 @@
+====== 원숭이섬의 비밀 : SE(Monkey Island : SE) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:원숭이섬의_비밀_se:1icligjhbc9nfquxxfjrfjk1l2fjac8wlzkaaaaa5_fn_-gpoa_.jpg|}}|공개|Old School\\ 옛 시절|5 G|Experienced the original, classic adventure game, as it was in the early 90s.\\ 원조이자 고전인 어드벤처 게임을 체험했다. 90년대 초반은 좋은 시절이었지.|
+|{{:도전과제:원숭이섬의_비밀_se:0ycligjhbc9hfquxxfjrfjk1l2fjac8wlzmaaaaa5_fn-rwbcq_.jpg|}}|공개|The Three Trials\\ 세 가지 시험|25 G|Completed Part One: The Three Trials. Guybrush proved himself worthy to be a pirate.\\ 1장: 세 가지 시험을 완료했다. 가이브러시는 해적이 될 자격이 있다는 걸 증명했다.|
+|{{:도전과제:원숭이섬의_비밀_se:1icligjhbc9afquxxfjrfjk1l2fjac8wlzqaaaaa5_fn_xdqia_.jpg|}}|공개|The Journey\\ 항해|25 G|Complete Part Two: The Journey. Guybrush used a voodoo spell to travel to Monkey Island™.\\ 2장: 항해를 완료했다. 가이브러시는 원숭이섬으로 가기 위하여 부두교 주문을 사용했다.|
+|{{:도전과제:원숭이섬의_비밀_se:1ycligjhbc9bfquxxfjrfjk1l2fjac8wlzuaaaaa5_fn_vesgw_.jpg|}}|공개|Under Monkey Island\\ 원숭이섬의 지하|25 G|Completed Part Three: Under Monkey Island. Guybrush traveled into the Monkey Head and got the root.\\ 3장: 원숭이섬의 지하를 완료했다. 가이브러시는 원숭이 머리 속으로 들어가서 뿌리를 찾았다.|
+|{{:도전과제:원숭이섬의_비밀_se:14cligjhbc9cfquxxfjrfjk1l2fjac8wlzyaaaaa5_fn_nabrg_.jpg|}}|공개|Guybrush Kicks Butt\\ 가이브러시의 승리|45 G|Completed Last Part: Guybrush Kicks Butt. Guybrush stopped LeChuck from marrying Elaine Marley.\\ 최종장: 가이브러시의 승리를 완료했다. 가이브러시는 엘레인 말리와 결혼하려 하던 리척을 저지했다.|
+|{{:도전과제:원숭이섬의_비밀_se:14cligjhbc81fquxxfjrfjk1l2fjac8wl0eaaaaa5_fn_e9iyq_.jpg|}}|공개|Ten Minutes Later...\\ 10분 후...|10 G|Guybrush can hold his breath for 10 minutes, but not any longer than that.\\ 가이브러시는 10분 동안 숨을 참을 수 있다. 하지만 그 이상은 참지 못한다.|
+|{{:도전과제:원숭이섬의_비밀_se:1ycligjhbc82fquxxfjrfjk1l2fjac8wl0iaaaaa5_fn_m5r1a_.jpg|}}|공개|Sharp Tongue\\ 달변가|15 G|Guybrush learned all of the insults, and is the wittiest/deadliest pirate what ever swung a sword.\\ 가이브러시는 모든 욕설을 익혔다. 그리고 그것은 검을 휘두른 적이 있는 해적 중에서 가장 재치있고 치명적인 해적이 되었다는 것을 의미한다.|
+|{{:도전과제:원숭이섬의_비밀_se:1icligjhbc83fquxxfjrfjk1l2fjac8wl0maaaaa5_fn_46trw_.jpg|}}|공개|Recordkeeper\\ 기록 보존가|10 G|Collected all of the notes and memos sent between Herman Toothrot, LeChuck and the Cannibals.\\ 허만 투스롯, 리척과 식인종들 사이에서 오간 모든 편지와 메모를 수집했다.|
+|{{:도전과제:원숭이섬의_비밀_se:0icligjhbc9gfquxxfjrfjk1l2fjac8wlziaaaaa5_fn-1v54g_.jpg|}}|공개|Escape Artist\\ 탈출의 예술가|10 G|Escaped from the Monkey Island™ Cannibals' hut 5 times.\\ 원숭이섬의 식인종 오두막에서 5번 탈출했다.|
+|{{:도전과제:원숭이섬의_비밀_se:0ocligjhbc9ffquxxfjrfjk1l2fjac8wlzeaaaaa5_fn-xrwvw_.jpg|}}|공개|Marooned Everyone\\ 전원 고립|10 G|Re-marooned Herman Toothrot and marooned Carla, Otis and Meathook on Monkey Island™.\\ 허만 투스롯과 카를라, 오티스와 미트훅을 원숭이섬에 남겨둔 채로 게임을 끝냈다.|
+|{{:도전과제:원숭이섬의_비밀_se:1ycligjhbc9mfquxxfjrfjk1l2fjac8wlzgaaaaa5_fn_hf3mw_.jpg|}}|공개|Determined\\ 원숭이섬 종결자|10 G|Completed the game without using any hints.\\ 한 번도 힌트를 사용하지 않고 게임을 완료했다.|
+|{{:도전과제:원숭이섬의_비밀_se:1ocligjhbc9dfquxxfjrfjk1l2fjac8wlzcaaaaa5_fn_tzjpq_.jpg|}}|공개|Human Cannonball\\ 인간 포탄|10 G|Finished the entire game in record time. We hope you were wearing a helmet!\\ 기록적인 시간으로 전체 게임을 끝냈다. 헬멧을 착용하고 플레이하셨길 바랍니다!|
+</sortable>
+
+{{tag>도전과제 엑스박스360 엑스박스라이브 archivement xbox360 xboxlive 원숭이섬의_비밀}}

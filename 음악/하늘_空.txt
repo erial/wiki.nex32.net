@@ -1,0 +1,4 @@
+====== 空(하늘) 곡리스트 ======
+제목이 空(하늘)인 곡의 리스트입니다.
+
+{{pagequery>음악:하늘_空: ;sort=ns,a,name;group;fullregex;proper;cols=1;}}

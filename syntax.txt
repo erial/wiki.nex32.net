@@ -1,0 +1,519 @@
+====== 위키 문법 ======
+
+===== 기본적인 텍스트 포맷 =====
+[[Dokuwiki]]는 **굵은 글씨**、 //이탤릭//、 __밑줄__ 、''고정폭''을 지원하며, 
+물론 **__//''조합''//__** 과 같이 여러 서식들의 조합도 가능합니다.
+
+  [[Dokuwiki]]는 **굵은 글씨**、 //이탤릭//、 __밑줄__ 、''고정폭''을 지원하며, 
+  물론 **__//''조합''//__** 과 같이 여러 서식들의 조합도 가능합니다.
+
+
+<sub>아랫 첨자</sub> 와 <sup>윗 첨자</sup> 역시 사용할 수 있습니다.
+  <sub>아랫 첨자</sub> 와 <sup>윗 첨자</sup> 역시 사용할 수 있습니다.
+
+
+더 나아가 <del>취소선</del>를 이용할 수 있습니다.
+
+  더 나아가 <del>취소선</del>를 이용할 수 있습니다.
+
+중간에 빈 행을 만들면,**단락(절)** 구분이 됩니다.
+단락(절) 구분을 않고 **강제로 새 행을 만들기**를 원한다면, 2개의 backslash(한국어 환경에서는 역슬레시 기호\)
+문자 다음에 공백 문자(tab이나 space)를 사용하거나 새로운 행을 만듭니다.
+
+이 텍스트는 여러 행으로 이루어져 있습니다.\\ 2개의 backslash는 
+단지 뒤에 공백문자가 오거나 새로운 행을 만든 경우에만\\
+처리되는 것을 \\주의하시기 바랍니다. 
+
+  이 텍스트는 여러 행으로 이루어져 있습니다.\\ 2개의 backslash는 
+  단지 뒤에 공백문자가 오거나 새로운 행을 만든 경우에만\\
+  처리되는 것을 \\주의하시기 바랍니다. 
+
+
+위키는 여러 환경에서 글을 볼 경우를 상정해야하기 때문에 특정 길이에서 텍스트를 끊는 것은 적절하지 않습니다. 정말 필요한 경우에만 강제로 새 행 만들기를 사용하기 바랍니다.
+
+==== BBCODE(비비코드) ====
+이식성을 고려하여 [[용어:BBcode]]를 일부 지원합니다. 기본적으로 지원되는 요소들은 위키문법을 이용해주시고, 지원되지 않는 요소 등에 한해서 사용을 권장합니다. 사이즈, 색상은 BB코드를 이용해주시고, 그외의 코드도 사용은 해도 됩니다만, 가급적이면 위키 문법에 맞춰 작성을 부탁드립니다.
+
+=== 위키에 없는 기능 ===
+  ; 색있는 글자 
+    : 태그 - <nowiki>[color] [/color] </nowiki>
+    : 예제 - [color=#123456]색깔있는 글자[/color]
+  ; 글자크기 변경
+    : 태그 - <nowiki>[size=2em] [/size]</nowiki>
+    : 예제 - [size=2em]큰 글자[/size]
+
+=== 위키에 있지만 대체기능 ===
+  ; 기타 코드 
+    : <nowiki>[b]진한 글씨[/b]</nowiki> - [b]진한 글씨[/b]
+    : <nowiki>[i]기울임 글씨[/i]</nowiki> - [i]기울임 글씨[/i]
+    : <nowiki>[u]밑줄 글씨[/u]</nowiki> - [u]밑줄 글씨[/u]
+    : <nowiki>[s]가로줄 글씨[/s]</nowiki> - [s]가로줄 글씨[/s]
+    : <nowiki>[quote="인용대상"]인용 구문[/quote]</nowiki> - [quote]인용 구문[/quote]
+    : <nowiki>[code]코드 구문[/code]</nowiki> - [code]코드 구문[/code]
+
+
+==== 키보드 표시 ====
+컴퓨터와 관련된 기능 설명을 할 때 키보드 표시를 넣음으로서 설명을 용이하게 할 때 사용한다. 사용법은 다음과 같다.
+
+  <key>Key</key> or <key>C-x</key>
+
+사용되는 키 중 중요한 것은 정의가 되어있으며, 동시에 눌러야 하는 키는 '-' 표시로 이어주면 된다. 정의 되지 않은 키는 따옴표 사이에 넣어서 표현하면 된다. 대신 - 키는 minus로 표시한다. 키는 아래 예시를 참고하자.
+
+** 예제 **
+
+  * <key>C-A-del</key> 를 누르면 리부팅 된다. (''%%<key>C-A-del</key>%%'')
+  * <key>C - c</key> 를 누르면 선택된 내용이 메모리에 복사된다. (''%%<key>C - c</key>%%'')
+  * <key>C-x</key> 를 누르면 선택된 내용이 잘라져 메모리로 이동된다. (''%%<key>C-x</key>%%'')
+  * <key>C-v</key> 를 누르면 메모리에 복사된 내용을 붙여넣는다. (''%%<key>C-v</key>%%'')
+  * <key>C-enter</key> 를 누르면 워드에서 작업 페이지를 넘긴다. (''%%<key>C-enter</key>%%'')
+  * <key>C-S-Right</key> 를 누르면 현재 위치에서 다음 단락직전까지 선택한다. (''%%<key>C-S-Right</key>%%'')
+  * <key>C-S-Left</key> 를 누르면 현재 위치에서 단락 처음까지 선택한다. (''%%<key>C-S-Left</key>%%'')
+  * <key>C-PageUp</key> 를 누르면 한 이전 탭으로 이동한다. (''%%<key>C-PageUp</key>%%'')
+  * <key>C-Minus</key> (''%%<key>C-Minus</key>%%'')
+  * <key>Option-Command-W</key> to close all windows. (''%%<key>Option-Command-W</key>%%'') 
+  * <key>C-Command-Eject</key> (''%%<key>C-Command-Eject</key>%%'') ((currently only available in the [[http://git.foosel.org/?p=foosel/dokuwiki/keyboard.git;a=summary|development version]]))
+  * <key>'any key'</key> 아무키나 누르시오. (''%%<key>'any key'</key>%%'')
+
+===== 링크 =====
+
+[[Dokuwiki]]는 링크를 생성하는 여러가지 방법을 지원합니다.
+
+
+==== 외부 링크 ====
+
+http://www.google.com 나, 더 간단한 www.google.com 같은 외부 링크는 자동으로 인식됩니다. 
+[[http://www.google.com|google에 연결]]처럼 연결 이름을 설정할 수도 있으며,
+<test@splitbrain.org> 형식의 email 주소 역시 자동으로 인식됩니다.
+
+  http://www.google.com 나, 더 간단한 www.google.com 같은 외부 링크는 자동으로 인식됩니다. 
+  [[http://www.google.com|google에 연결]]처럼 연결 이름을 설정할 수도 있으며,
+  <test@splitbrain.org> 형식의 email 주소 역시 자동으로 인식됩니다.
+
+==== 내부 링크 ====
+
+내부 링크는 중첩된 대괄호 문자들을 사용해서 만들수 있습니다.
+[[pagename]]처럼 페이지 이름을 그대로 사용하거나 
+[[pagename| 페이지 이름]] 처럼 페이지 이름을 직접 설정할 수도 있습니다.
+
+  [[doku>wiki:pagename]]처럼 페이지 이름을 그대로 사용하거나 
+  [[doku>wiki:pagename| 페이지 이름]] 처럼 페이지 이름을 직접 설정할 수도 있습니다.
+
+페이지 이름에 콜론 문자를 사용하여 [[namespaces|네임스페이스(이름 공간)]]를 사용할 수 있습니다.
+
+  페이지 이름에 콜론 문자를 사용하여 [[wiki:namespaces]](이름 공간)를 사용할 수 있습니다.
+
+자세한 부분들은 [[namespaces]]를 보기 바랍니다.
+
+페이지 내의 특정 섹션에 링크하는 하려면 해쉬 기호(#)에 이어 섹션명을 기술합니다.
+[[pc엔진#내부 링크|이 섹션]]로 연결됬습니다.
+
+  [[pc엔진#내부 링크|이 섹션]]로 연결됬습니다.
+
+주석:
+
+  * [[pc엔진|기존 페이지]]와 링크하는 것과 [[wiki:존재하지 않는 페이지]]와 링크하는 것은 표시되는 모습이 다릅니다..
+  * 기본적으로 자동적으로 링크를 만들기 위한 [[wp>CamelCase]]를 사용하지 않지만, [[wiki:config]]파일에서 변경할 수 있습니다. 만일 DokuWiki가 링크가 되어 있으면 사용이 가능한 상태입니다.
+  * 섹션의 이름이 바뀐다면, 링크 이름 역시 바뀌게 됩니다. 섹션으로의 링크는 너무 많이 사용하지 않도록 하기 바랍니다.
+
+
+==== Interwiki ====
+
+Dokuwiki는 [[interwiki|Interwiki]]링크를 사용할 수 있습니다.
+InterWiki는 다른 Wiki에 대한 간편한 링크 방법입니다. 
+예를 들어 [[wp>Wiki]]는 Wikipedia 페이지에 대한 링크입니다.
+
+  Dokuwiki는 [[doku>wiki:interwiki|Interwiki]]링크를 사용할 수 있습니다.
+  InterWiki는 다른 Wiki에 대한 간편한 링크 방법입니다. 
+  예를 들어 [[wp>Wiki]]는 Wikipedia 페이지에 대한 링크입니다.
+
+==== 그림 링크 ====
+
+다음과 같이 링크에 관련된 문법과 [[#그림과 그 외의 파일들|그림]] (아래 참조)을 조합하면,  
+내부링크와 외부 링크에 대해 이미지를 이용할 수 있습니다.
+
+  [[http://www.php.net|{{wiki:dokuwiki-128.png}}]]
+
+[[http://www.php.net|{{wiki:dokuwiki-128.png}}]]
+
+주의: 링크 이름에서만 문법 서식이 사용가능 합니다.
+[[#그림과 그 외의 파일들|그림]]과 [[#링크|링크]] 문법은 모두 사용 가능합니다.
+(그림 크기 변경,내부 그림, 외부 그림, URL, interwiki 링크 포함)
+
+
+===== 그림과 그 외의 파일들 =====
+
+중괄호를 사용하여 위키 외부[[doku>images|그림]]과 위키 내의[[doku>images|그림]]을 포함할 수 있습니다.
+옵션으로 그림 크기를 지정할 수 있습니다.
+
+실제 크기:          {{wiki:dokuwiki-128.png}}
+
+폭 변경:            {{wiki:dokuwiki-128.png?50}}
+
+폭과 높이 변경:      {{wiki:dokuwiki-128.png?200x50}}
+
+외부 그림 크기 변경:  {{http://de3.php.net/images/php.gif?200x50}}
+
+  실제 크기:          {{wiki:dokuwiki-128.png}}
+  폭 변경:            {{wiki:dokuwiki-128.png?50}}
+  폭과 높이 변경:      {{wiki:dokuwiki-128.png?200x50}}
+  외부 그림 크기 변경:  {{http://de3.php.net/images/php.gif?200x50}}
+
+좌,우측에 공백 문자를 사용하여 정렬 위치를 선택할 수 있습니다.
+
+{{ wiki:dokuwiki-128.png}}
+
+{{wiki:dokuwiki-128.png }}
+
+{{ wiki:dokuwiki-128.png }}
+
+  {{ wiki:dokuwiki-128.png}}
+  {{wiki:dokuwiki-128.png }}
+  {{ wiki:dokuwiki-128.png }}
+
+물론 그림 이름 역시 추가할 수 있습니다.(대부분의 브라우저에서 툴 팁으로 보여집니다)
+
+===== 위키피디아 형식으로 그림 보이기 =====
+위키피디아처럼 설명을 글 아래에 보여줄 수 있습니다. 정렬 등의 요소는 위와 같은 방법으로 사용할 수 있으며, 중괄호를 그림 입력 명령어 앞뒤에 씌워주기만 하면 적용됩니다.
+
+[{{wiki:dokuwiki-128.png|설명을 써줍니다.}}]
+  [{{ wiki:dokuwiki-128.png|설명을 써줍니다.}}]
+
+===== 기호 =====
+
+DokuWiki는 간단한 문자들을 대응하는 기호로 바꿀 수 있습니다. 자동으로 처리되는 문자들의 예들입니다.
+
+-> <- <-> => <= <=> >> << -- --- 640x480 (c) (tm) (r)
+"He thought 'It's a man's world'..."
+
+<code>
+-> <- <-> => <= <=> >> << -- --- 640x480 (c) (tm) (r)
+"He thought 'It's a man's world'..."
+</code>
+
+주의： [[config#typography|설정 옵션]]과 [[entities|패턴 파일]]의 설정을 바꾸면, 자동 변환을 막을 수 있습니다.
+
+===== 목록 표시 ====
+list를 표시하는 기능. 주의할 점은 이 기능은 앞에 두 칸을 띄우고 쓰는 기능이라서 앞줄 두칸 띄우고 쓰는 걸로는 주석처리가 되지 않는다. 코드 명령으로 주석처리를 하도록 하자.
+
+==== 점목록 ====
+html태그에서 UL에 해당하는 기능. 앞에 두 칸의 빈 칸을 넣고 '***(곱셈기호)**'를 넣으면 적용된다. 서브 목록은 1차 목록보다 빈칸을 두 번 넣으면 자동으로 2차 목록으로 들어가진다.
+
+
+<code>
+  * 1차 목록
+    * 2차 목록
+</code>
+
+  * 1차 목록
+    * 2차 목록
+
+==== 순번목록 ====
+html태그에서 OL에 해당하는 기능. 앞에 두 칸의 빈 칸을 넣고 '**-(뺄셈기호)**'를 넣으면 적용된다. 서브 목록은 1차 목록보다 빈칸을 두 번 넣으면 자동으로 2차 목록으로 들어가진다.
+
+<code>
+  - 1차 목록
+    - 2차 목록
+</code>
+
+  - 1차 목록
+    - 2차 목록
+
+==== 정의된 목록 ====
+html태그에서 DL에 해당하는 기능. 앞에 두 칸의 빈 칸을 넣고 '**;(세미콜론)**'를 넣으면 적용된다. 서브 목록은 '**:(콜론)**'을 넣으면 자동으로 2차 목록으로 들어가진다.
+
+<code>
+  ; 정의된 제목1 : 제목아래에 포함되는 서브항목1
+  ; 정의된 제목2
+    : 서브목록2
+    : 서브목록3
+</code>
+
+  ; 정의된 제목1 : 제목아래에 포함되는 서브항목1
+  ; 정의된 제목2
+    : 서브목록2
+    : 서브목록3
+
+===== 표 =====
+
+간단한 문법으로 표(테이블)을 작성할 수 있습니다.
+
+^ 이름 1       ^ 이름 2        ^ 이름 3                 ^
+| 행 1 열 1    | 행 1 열 2     | 행 1 열 3              |
+| 행 2 열 1    | 열의 결합 (주의: 파이프 문자가 2개 연속) ||
+| 행 3 열 1    | 행 2 열 2     | 행 2 열 3              |
+
+표의 일반적인 행들은 시작과 끝에 ''|'' (파이프 문자)로 있어야 하고 이름 항목은 ''^'' (꺽쇠 기호)를 사용합니다.
+
+  ^ 이름 1       ^ 이름 2        ^ 이름 3                 ^
+  | 행 1 열 1    | 행 1 열 2     | 행 1 열 3              |
+  | 행 2 열 1    | 열 결합 (주의: 파이프 문자가 2개 연속)   ||
+  | 행 3 열 1    | 행 2 열 2     | 행 2 열 3              |
+
+표의 항목들을 가로질러 결합하려면 위에서 보여지듯이 다음 항목의 내용을 전부 비워둡니다.
+언제나 같은 수만큼의 항목 분리자들이 있도록 주의하기 바랍니다.
+
+행 이름도 역시 가능합니다.
+
+|          ^ 이름 1               ^ 이름 2         ^
+^ 이름 3    | 행 1 열 2            | 행 1 열 3       |
+^ 이름 4    | 열 결합은 없음        |                |
+^ 이름 5    | 행 2 열 2            | 행 2 열 3       |
+
+보다시피, 포맷팅 하기전에 항목 앞에 항목 분리자 문자가 항목 앞에 오게됩니다.
+
+  |             ^ 이름 1             ^ 이름 2         ^
+  ^ 이름 3    | 행 1 열 2            | 행 1 열 3       |
+  ^ 이름 4    | 열 결합은 없음        |                |
+  ^ 이름 5    | 행 2 열 2            | 행 2 열 3       |
+
+주석: 세로 방향 결합(행 결합)은 할 수 없습니다.
+
+항목 내용 역시 정렬방법을 설정할 수 있습니다. 최소한 2개의 공백문자를 텍스트의 반대쪽에 추가하면 됩니다.
+오른쪽으로 정렬하려면 왼쪽으로 스페이스 2개를, 왼쪽으로 정렬하려면 오른쪽으로 스페이스 2개를 추가합니다.
+가운데로 정렬하려면 텍스트의 양쪽 끝에 스페이스 2개를 둡니다.
+
+^                  정렬된 표                ^^^
+|         오른쪽|    가운데    |왼쪽           |
+|왼쪽           |        오른쪽|    가운데     |
+| xxxxxxxxxxxx | xxxxxxxxxxxx | xxxxxxxxxxxx |
+
+소스에서는 다음과 같이 보입니다.
+
+  ^                  정렬된 표                ^^^
+  |         오른쪽|    가운데    |왼쪽           |
+  |왼쪽           |        오른쪽|    가운데     |
+  | xxxxxxxxxxxx | xxxxxxxxxxxx | xxxxxxxxxxxx |
+
+
+
+
+===== 표 추가기능 =====
+==== Sortable, 정렬가능한 표 ====
+자바스크립트로 구현된 기능으로, 표의 가장 위 쪽의 항목을 누르면 자동 정렬이 됨. 옵션 등이 없어서 그냥 정렬만 되므로 필요할 때만 쓰자;
+
+<sortable>
+^Col1^Col3^Col3^
+|1|one|25/12/2008|
+|2|two|10/12/2008|
+</sortable>
+
+  <sortable>
+  ^Col1^Col3^Col3^
+  |1|one|25/12/2008|
+  |2|two|10/12/2008|
+  </sortable>
+
+==== Searchtable, 표 내부 검색 ====
+<searchtable>
+^Col1^Col3^Col3^
+|1|one|25/12/2008|
+|2|two|10/12/2008|
+</searchtable>
+
+  <searchtable>
+  ^Col1^Col3^Col3^
+  |1|one|25/12/2008|
+  |2|two|10/12/2008|
+  </searchtable>
+
+Searchtable과 Sortable은 함께 쓸 수 있다.
+
+  <sortable>
+  <searchtable>
+  ^Col1^Col3^Col3^
+  |1|one|25/12/2008|
+  |2|two|10/12/2008|
+  </searchtable>
+  </sortable>
+
+===== Blockquote, 인용 상자 =====
+
+<blockquote>
+인용문을 표현할 때 사용하는 박스. 표와 달리 내부에 목록을 비롯한 다른 명령어 사용이 가능하다. 
+  * 예를 들면 목록이나 **글자속성** 같은 것들이 //가능하다//
+</blockquote>
+
+  <blockquote>
+  인용문을 표현할 때 사용하는 박스. 표와 달리 내부에 목록을 비롯한 다른 명령어 사용이 가능하다. 
+    * 예를 들면 목록이나 **글자속성** 같은 것들이 //가능하다//
+  </blockquote>
+
+===== BOX, 꾸민 상자 넣기 기능 =====
+
+간단한 박스 :
+
+  <box> 박스 속 컨텐츠 </box>
+
+<box> 박스 속 컨텐츠 </box>
+
+좀 더 복잡한 설정을 입힌 상자 :
+
+  <box 80% round orange|묶음제목>상자 속 컨텐츠</box>
+  <box 50% left blue>상자 속 컨텐츠</box|하단 자막>
+  <box 60% round #f99 #fc9 #fcc #f60|묶음제목>상자 속 컨텐츠</box|하단 자막>
+  
+<box 80% round orange|묶음제목>상자 속 컨텐츠</box>
+<box 50% left blue>상자 속 컨텐츠</box|하단 자막>
+<box 60% round #f99 #fc9 #fcc #f60|묶음제목>상자 속 컨텐츠</box|하단 자막>
+
+전체 문법 :
+
+''**<box** //width// //classes// //colours// **|** title text**>** contents text **</box>**''
+
+  * //width// --- 넓이. CSS 형식 값
+  * //classes// --- any number of classes which use the styles in your template or the plugin's own stylesheet to determine the look of the box. The box plugins comes with the following classes already defined:
+    * //round// --- 모서리를 둥글게 처리해주는 기능
+    * //blue// --- 파랑색 테마셋
+    * //red// --- 빨강색 테마셋
+    * //green// --- 풀색 테마셋
+    * //orange// --- 노랑색 테마셋
+    * //left// --- 상자의 float속성을 좌측 정렬시킴
+    * //right// --- 상자의 float속성을 우측 정렬시킴
+
+속성을 지정하지 않으면 기본 속성을 적용함.
+
+  * //colours// --- 1-4 colours in CSS hex or RGB notation, e.g. ''#F00 #fcab94 rgb(255,255,0)''.  The colours are applied in order to:
+    - content background
+    - title background
+    - outer box background
+    - borders
+if less than four colours are specified, the first colour is used for the missing colours. 
+
+  * //title text// --- text (including DokuWiki markup) displayed above the box contents, with distinct style.
+  * //caption text// --- text (no markup allowed) displayed below the box contents, with distinct style.
+
+The opening ''**<box ... >**'' including the title must all appear on one line.  The box contents can appear over as many lines as are needed.
+
+
+See the plugin in action [[http://wiki.jalakai.co.uk/dokuwiki/doku.php/test/boxes|here]]. The sample page shows all the styles available with the plugin.
+
+
+===== Include, 타 부문 섹션 불러넣기 =====
+
+타 페이지의 페이지나 섹션을 불러서 문서에 삽입할 수 있다. 단, 캐쉬에서 불러오는 방식이므로 원문이 변경된다고 실시간으로 반영되지는 않는다.
+
+  {{page>[id]#[section]&[flags]}}
+  {{section>[id]#[section]&[flags]}}
+  {{namespace>[namespace]&[flags]}}
+
+^ [id] | 불러올 페이지 이름. 정확한 페이지 위치와 명칭(**용어:고기** 식으로)이 들어가야한다 | 필수사항 |
+^ [section] | 지정한 페이지 안의 특정 섹션을 지정해서 불러온다. 섹션은 H1, H2 등의 속성으로 구분한 것만 가능하다 | 선택사항, 없으면 페이지 전체를 불러옴 |
+^ [flags] | 플래그 분야는 안써도된다. 사용하려면 [[http://www.dokuwiki.org/plugin:include#flags]]를 참조 | 선택사항 |
+
+The plugin offers three syntaxes, ''%%{{page>...}}%%'' and ''%%{{section>...}}%%'' and ''%%{{namespace>...}}%%''.
+
+Section is aimed more at including sections, page at including whole pages and namespace at including whole namespaces((This syntax is considered experimental!)).
+
+===== 내용 접기 =====
+=== 폴딩 ===
+내용을 접어서 클릭해야 보이게 만든다. 내용 누설 등의 우려가 있을 때 사용하면 편리하다. 표나 include 등의 다양한 기능을 안쪽에 넣을 수 있으므로 확장성이 매우매우 우수하다. 엔터 등도 허용된다. 
+
+++++ 접혀있을 때 보일 문장 | 여기서 부터는 접힌 것을 풀어야만 보인다. ++++
+
+  ++++ 접혀있을 때 보일 문장 | 여기서 부터는 접힌 것을 풀어야만 보인다. ++++
+
+=== 히든 ===
+div 명령어로 접힌 박스를 만든다. 집어넣을 내용이 복잡할 경우에 사용한다.
+
+<hidden 숨긴상태에서 보일글> 여기서 부터는 접힌 것을 풀어야만 보인다. </hidden>
+
+  <hidden 숨긴상태에서 보일글> 여기서 부터는 접힌 것을 풀어야만 보인다. </hidden>
+
+===== Page Redirect, Goto 페이지 다른 곳으로 보내기 =====
+
+특정 페이지를 특정한 위치에 만든 다음, 비슷한, 혹은 헛갈리기 쉬운 단어를 한개의 페이지로 연결하는 기능. 관리자용의 404매니저 기능은 일반 사용자가 사용할 수 없으며, 해당 플러그인에 이상이 생길 시 사용하기 힘들기 때문에 아래와 같은 구문을 각 페이지 생성 후 입력해서 연결해주는 일을 하게 한다.
+
+  ~~REDIRECT>namespace:page~~
+ 
+즉 'PC엔진' 과 'PC 엔진'은 같은 것이지만 띄어쓰기 하나로 완전 다른 문장이 되므로 해당 페이지를 각각 제작하여 'PC엔진'은 본문을 작성하고, 'PC 엔진'은 위의 문장을 집어넣어 'PC엔진' 문서로 리다이렉트를 시켜준다. 이 경우에는 검색에 REDIRECT가 있는 문서는 제목도 검색이 되지 않는다. 때문에 확실히 있는 이름일 경우에만 작동한다. 그러므로 문서의 위치를 옮기거나 한 경우에 해당 문서로 링크된 문서를 링크백으로 일일이 찾아 수정하기에 앞서서 중계 이동 시키는 용도로 사용하면 된다.
+
+  ~~GOTO>namespace:page~~
+
+앞서의 REDIRECT가 검색도 되지 않고 이동함으로서 '직접 연결'이라는 느낌을 준다면 GOTO명령어는 다른 이름이 같은 것을 지칭할 경우에 사용한다. 예를 들어서 '청금석'과 '라피즈라즐리'는 같은 것을 지칭하는 명칭이다. 이 경우에는 검색에서 라피즈라즐리를 검색하게 해줘야 해당 문건을 찾는 사람이 쉽게 문서를 인지할 수 있다. 때문에 GOTO로 리다이렉트 한 문서는 검색엔진에 걸리게되며 클릭시 이동할 문서를 5초간 확인시켜주고 자동 이동해서 해당 문서를 보여주는 용도다. 
+
+용도에 맞춰서 두가지 리다이렉트 기능을 골라서 사용하도록 하자.
+
+===== 구문 강조 =====
+
+DokuWiki는 소스 코드에 구문 강조를 사용하여, 읽기 쉽게 할 수 있습니다. 
+DokuWiki는 일반적인 구문강조기 [[http://qbnz.com/highlighter/|GeSHi]]를 사용하고 있습니다. -GeSHi가 지원하는 어떤 언어라도 지원 가능합니다. 문법은 전의 섹션내의 코드 블록과 같지만 사용되는 언어 이름을 ''<nowiki><code java></nowiki>''와 같이 태그 내에 집어 넣습니다.
+
+
+<code java>
+/** 
+ * The HelloWorldApp class implements an application that
+ * simply displays "Hello World!" to the standard output.
+ */
+class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); //Display the string.
+    }
+}
+</code>
+
+현재 다음과 같은 언어들이 지원됩니다.//actionscript-french, actionscript, ada, apache, applescript, asm, asp, autoit, bash, blitzbasic, bnf, caddcl, cadlisp, cfdg, cfm, c_mac, c, cpp, cpp-qt, csharp, css, delphi, diff, div, dos, d, eiffel, fortran, freebasic, gml, groovy, html, idl, ini, inno, io, java5, java, javascript, latex, lisp, lua, matlab, mirc, mpasm, mysql, nsis, objc, ocaml-brief, ocaml, oobas, oracle8, pascal, perl, php-brief, php, plsql, python, qbasic, reg, robots, ruby, sas, scheme, sdlbasic, smalltalk, smarty, sql, tcl, text, thinbasic, tsql, vbnet, vb, vhdl, visualfoxpro, winbatch, xml//
+
+
+===== Graphviz =====
+그래프비즈 규격의 텍스트로 만든 관계도를 자동으로 그래픽처리해주는 기능. 
+관계도를 그릴 때 사용하면 좋다.
+
+{{ http://img97.imageshack.us/img97/2613/dotb.png?nolink&}}
+<code>
+<graphviz dot right 500x200>
+digraph finite_state_machine {
+	rankdir=LR;
+	size="8,5"
+	node [shape = doublecircle]; LR_0 LR_3 LR_4 LR_8;
+	node [shape = circle];
+	LR_0 -> LR_2 [ label = "SS(B)" ];
+	LR_0 -> LR_1 [ label = "SS(S)" ];
+	LR_1 -> LR_3 [ label = "S($end)" ];
+	LR_2 -> LR_6 [ label = "SS(b)" ];
+	LR_2 -> LR_5 [ label = "SS(a)" ];
+	LR_2 -> LR_4 [ label = "S(A)" ];
+	LR_5 -> LR_7 [ label = "S(b)" ];
+	LR_5 -> LR_5 [ label = "S(a)" ];
+	LR_6 -> LR_6 [ label = "S(b)" ];
+	LR_6 -> LR_5 [ label = "S(a)" ];
+	LR_7 -> LR_8 [ label = "S(b)" ];
+	LR_7 -> LR_5 [ label = "S(a)" ];
+	LR_8 -> LR_6 [ label = "S(b)" ];
+	LR_8 -> LR_5 [ label = "S(a)" ];
+}
+</graphviz>
+</code>
+
+===== 지도삽입 =====
+구글맵 API를 이용해서 지도의 특정 위치와 기타내역을 추가한 지도를 표시합니다. 다수의 포인트를 찍는 것도 가능하며, 지역 관련 사항에대해서 입력시 유용합니다.
+
+  <googlemap3 width="number" height="number" lat="number" lng="number">
+  latitude, longtitude, short signature; long desctiption
+  </googlemap3>
+
+  * width — 구글맵 창 너비. 픽셀(px) 및 비율(%)로 입력. 기본은 400px로 되어있으며 추천은 90%
+  * height — 구글맵 창 높이. 픽셀(px) 및 비율(%)로 입력. 기본은 300px로 되어있음.
+  * type — 지도 형태. map | normal | hybrid | satellite | terrain
+  * lat — 지도표시 중심 경도. -90.0 부터 90.0 사이값. 
+  * lng — 지도표시 중심 위도. -180.0 부터 180.0 사이값.
+  * zoom — 확대비율. 1부터 점차 확대되며, 지역마다 확대범위가 달라 최대치는 다 다르다. 기본값은 8.
+  * controls — 확대, 축소 등의 기능을 켜고 끈다. 기본값은 on. 
+  * kml — kml(구글어스파일)이 있으면 링크를 건다. 기본적으로는 Off. 
+  * helper — 지도 클릭시 좌표가 표시되는 도우미를 켜고 끈다. on / off
+
+예시를 들자면 다음과 같다.
+
+  <googlemap3 width="90%" height="400px" type="hybrid" zoom="12" lat="34.66488" lng="135.4493" helper="on">
+  
+  34.6620937, 135.4453937, 짧은설명 ;긴설명삽입. [[#지도삽입|위키문법사용가능]] \\ {{popup>:게임기:duo-r.jpg?200}}
+  34.6720937, 135.4553937, 이쪽은 짧은 설명 ; 결론은 로리~~~
+  
+  </googlemap3>
+
+<googlemap3 width="90%" height="400px" type="hybrid" zoom="12" lat="34.66488" lng="135.4493" helper="on">
+
+34.6620937, 135.4453937, 짧은설명 ;긴설명삽입. [[#지도삽입|위키문법사용가능]] \\ {{popup>:게임기:duo-r.jpg?200}}
+34.6720937, 135.4553937, 이쪽은 짧은 설명 ; 결론은 로리~~~
+
+</googlemap3>
+

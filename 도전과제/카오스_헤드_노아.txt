@@ -1,0 +1,41 @@
+====== 카오스 헤드 노아(CHAOS; HEAD NOAH) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:카오스_헤드_노아:04cligjhbc9ffqqzxvvrgeqzl2fjac8wlzeaaaaa5_fn-j7msa_.jpg|}}|비밀|プロローグ\\ 프롤로그|5 G|プロローグをクリアした\\ 프롤로그를 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:0ycligjhbc9gfqqzxvvrgeqzl2fjac8wlziaaaaa5_fn-r-v-q_.jpg|}}|비밀|第一章【Eyes in eyes】\\ 제 1장【Eyes in eyes】|5 G|第一章をクリアした\\ 제 1장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:0icligjhbc9hfqqzxvvrgeqzl2fjac8wlzmaaaaa5_fn-18xbg_.jpg|}}|비밀|第二章【Click me】\\ 제 2장【Click me】|10 G|第二章をクリアした\\ 제 2장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:1ycligjhbc9afqqzxvvrgeqzl2fjac8wlzqaaaaa5_fn_v38lw_.jpg|}}|비밀|第三章【将軍】\\ 제 3장【장군】|10 G|第三章をクリアした\\ 제 3장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:1icligjhbc9bfqqzxvvrgeqzl2fjac8wlzuaaaaa5_fn_x0eba_.jpg|}}|비밀|第四章【Di-Sword】\\ 제 4장【Di-Sword】|10 G|第四章をクリアした\\ 제 4장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:1ocligjhbc9cfqqzxvvrgeqzl2fjac8wlzyaaaaa5_fn_twnsq_.jpg|}}|비밀|第五章【妄想】\\ 제 5장【망상】|10 G|第五章をクリアした\\ 제 5장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:14cligjhbc9dfqqzxvvrgeqzl2fjac8wlzcaaaaa5_fn_nz1ig_.jpg|}}|비밀|第六章【Noah】\\ 제 6장【Noah】|10 G|第六章をクリアした\\ 제 6장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:1icligjhbc9mfqqzxvvrgeqzl2fjac8wlzgaaaaa5_fn_-vhla_.jpg|}}|비밀|第七章【psychopath】\\ 제 7장【psychopath】|10 G|第七章をクリアした\\ 제 7장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:1ycligjhbc9nfqqzxvvrgeqzl2fjac8wlzkaaaaa5_fn_hszvw_.jpg|}}|비밀|第八章【Ir2】\\ 제 8장【Ir2】|10 G|第八章をクリアした\\ 제 8장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:1ocligjhbc81fqqzxvvrgeqzl2fjac8wl0eaaaaa5_fn_ax0fg_.jpg|}}|비밀|第九章【giga-lo-maniac】\\ 제 9장【giga-lo-maniac】|10 G|第九章をクリアした\\ 제 9장을 클리어 했다|
+|{{:도전과제:카오스_헤드_노아:1icligjhbc82fqqzxvvrgeqzl2fjac8wl0iaaaaa5_fn_4t9yw_.jpg|}}|공개|ビシィ！\\ 챡!|10 G|梨深編を発見した\\ 리미 편을 발견했다|
+|{{:도전과제:카오스_헤드_노아:0icligjhbc9fcxsggl5tvkqzl2fjac8wlzexaaaaaofn5-9klqs_.jpg|}}|공개|【アニマの像】\\ 【아니마의 상】|50 G|梨深とのエンディングに到達した\\ 리미 엔딩에 도달했다|
+|{{:도전과제:카오스_헤드_노아:1ycligjhbc83fqqzxvvrgeqzl2fjac8wl0maaaaa5_fn_mqfwa_.jpg|}}|공개|おにぃのバカ！\\ 오빠야는 바보야!|10 G|七海編を発見した\\ 나나미 편을 발견했다|
+|{{:도전과제:카오스_헤드_노아:0ocligjhbc9gcxsggl5tvkqzl2fjac8wlzeyaaaaaofn5-1fjl4_.jpg|}}|공개|【daydream】\\ 【daydream】|50 G|七海とのエンディングに到達した\\ 나나미 엔딩에 도달했다|
+|{{:도전과제:카오스_헤드_노아:0icligjhbc8wfqqzxvvrgeqzl2fjac8wl0qaaaaa5_fn-8buoq_.jpg|}}|공개|杭を打て\\ 대못을 박아요|10 G|あやせ編を発見した\\ 아야세 편을 발견했다|
+|{{:도전과제:카오스_헤드_노아:04cligjhbc9hcxsggl5tvkqzl2fjac8wlzezaaaaaofn5-yl3c0_.jpg|}}|공개|【罪過に契約の血を】\\ 【죄과에 계약의 피를】|50 G|あやせとのエンディングに到達した\\ 아야세 엔딩에 도달했다|
+|{{:도전과제:카오스_헤드_노아:0ycligjhbc8xfqqzxvvrgeqzl2fjac8wl0uaaaaa5_fn-iywmg_.jpg|}}|공개|ガルガリ君ソーダ味\\ 와그작군 소다맛|10 G|セナ編を発見した\\ 세나 편을 발견했다|
+|{{:도전과제:카오스_헤드_노아:1ocligjhbc9acxsggl5tvkqzl2fjac8wlze0aaaaaofn5-khn9q_.jpg|}}|공개|【デウス・エクス・マキナ】\\ 【데우스・엑스・마키나】|50 G|セナとのエンディングに到達した\\ 세나 엔딩에 도달했다|
+|{{:도전과제:카오스_헤드_노아:04cligjhbc8yfqqzxvvrgeqzl2fjac8wl0yaaaaa5_fn-acfhw_.jpg|}}|공개|ドカバキグシャーッ！\\ 쾅탕파직콰쟉!|10 G|梢編を発見した\\ 코즈에 편을 발견했다|
+|{{:도전과제:카오스_헤드_노아:14cligjhbc9bcxsggl5tvkqzl2fjac8wlze1aaaaaofn5-jnz0c_.jpg|}}|공개|【殺戮に至る病】\\ 【살육에 이르는 병】|50 G|梢とのエンディングに到達した\\ 코즈에 엔딩에 도달했다|
+|{{:도전과제:카오스_헤드_노아:0ycligjhbc9ecxsggl5tvkqzl2fjac8wlzewaaaaaofn5-6e1zg_.jpg|}}|공개|知・っ・て・る・よ・ね？\\ 알・고・있・는・거・지?|10 G|優愛編を発見した\\ 유아 편을 발견했다|
+|{{:도전과제:카오스_헤드_노아:1ycligjhbc9ccxsggl5tvkqzl2fjac8wlze2aaaaaofn5-rgxvi_.jpg|}}|공개|【月と太陽】\\ 【달과 태양】|50 G|優愛とのエンディングに到達した\\ 유아 엔딩에 도달했다|
+|{{:도전과제:카오스_헤드_노아:1icligjhbc9dcxsggl5tvkqzl2fjac8wlze3aaaaaofn5-smpme_.jpg|}}|공개|【silent sky】\\ 【silent sky】|10 G|エンディングAに到達した\\ 엔딩 A에 도달했다|
+|{{:도전과제:카오스_헤드_노아:14cligjhbc9mcxsggl5tvkqzl2fjac8wlze4aaaaaofn5-gbkm8_.jpg|}}|공개|【crying sky】\\ 【crying sky】|60 G|エンディングBに到達した\\ 엔딩 B에 도달했다|
+|{{:도전과제:카오스_헤드_노아:1ocligjhbc9ncxsggl5tvkqzl2fjac8wlze5aaaaaofn5-nh0vw_.jpg|}}|공개|【blue sky】\\ 【blue sky】|60 G|最後のエンディングに到達した\\ 마지막 엔딩에 도달했다|
+|{{:도전과제:카오스_헤드_노아:1ycligjhbc81cxsggl5tvkqzl2fjac8wlzfbaaaaaofn5-pfpz0_.jpg|}}|공개|エンディングコンプリート\\ 엔딩 컴플릿|100 G|全てのエンディングに到達した\\ 모든 엔딩에 도달했다|
+|{{:도전과제:카오스_헤드_노아:04cligjhbc8wcxsggl5tvkqzl2fjac8wlzfeaaaaaofn5-w8jei_.jpg|}}|공개|ポジティブ人間\\ 포지티브 인간|50 G|全てのポジティブ妄想を見た\\ 모든 포지티브 망상을 봤다|
+|{{:도전과제:카오스_헤드_노아:0ocligjhbc8xcxsggl5tvkqzl2fjac8wlzffaaaaaofn5-3c3xe_.jpg|}}|공개|ネガティブ人間\\ 네거티브 인간|50 G|全てのネガティブ妄想を見た\\ 모든 네거티브 망상을 봤다|
+|{{:도전과제:카오스_헤드_노아:04cligjhbc9ecbsggl5tvkqzl2fjac8wlziwaaaaaofn5-yw5te_.jpg|}}|공개|リア充\\ 현실파|30 G|妄想シンクロ率0%\\ 망상 싱크로율 0%|
+|{{:도전과제:카오스_헤드_노아:0icligjhbc8ycxsggl5tvkqzl2fjac8wlzfgaaaaaofn5--91mq_.jpg|}}|공개|誇大妄想家\\ 과대망상가|30 G|妄想シンクロ率100%\\ 망상 싱크로율 100%|
+|{{:도전과제:카오스_헤드_노아:1ocligjhbc83cxsggl5tvkqzl2fjac8wlzfdaaaaaofn5-mezhs_.jpg|}}|공개|その目だれの目？\\ 그 눈은 누구의 눈?|50 G|「その目だれの目？」を全て見た\\ 「그 눈은 누구의 눈?」을 모두 봤다|
+|{{:도전과제:카오스_헤드_노아:0ocligjhbc9fcbsggl5tvkqzl2fjac8wlzixaaaaaofn5-12hai_.jpg|}}|공개|メガネスキー\\ 안경 애호가|10 G|葉月にメガネを掛けさせた\\ 하즈키에게 안경을 씌웠다|
+|{{:도전과제:카오스_헤드_노아:14cligjhbc82cxsggl5tvkqzl2fjac8wlzfcaaaaaofn5-h_nog_.jpg|}}|공개|CGコンプリート\\ CG 컴플릿|100 G|全てのイベント絵を見た\\ 모든 이벤트 그래픽을 봤다|
+</sortable>
+{{tag>걸게 게임 도전과제 엑스박스360 xbox360 카오스_헤드 카오스_헤드_노아}}

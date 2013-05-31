@@ -1,0 +1,51 @@
+====== BBcode(비비코드) ======
+BBCode는 **B**ulletin **B**oard Code의 약자로, 번역하면 게시판 코드라는 의미. 보통 비비코드, 혹은 비비문법 등으로 부른다.
+
+인터넷 게시판에 글을 쓸 때 사용하는 간단하게 치환가능한 마크업 언어로, HTML 태그 기능 중 일부를 따서 해당 기능을 지원하는 형태로 치환된 명령어를 지원하는 것을 통칭한다. 이러한 형태의 코드가 발전되어 위키문법 등에도 영향을 주었음은 따로 말할 필요도 없다.
+
+1998년 Ultimate Bulletin Board(UBB)라는 전자 게시판 프로그램에서 최초로 도입되었으며, 그 때문에 혹자는 BBCode를 UBBCode라고 하기도 한다.
+
+===== 상세설명 =====
+
+인터넷상의 게시판에 글을 쓸 때 HTML 코드를 제한없이 제공할 경우 여러형태의 악성코드로 변질되는 코드가 삽입될 우려가 있기 때문에 이를통해 개인 사용자의 권한 탈취를 하는 XSS 보안 문제 등이 발생하기 쉽다. 때문에 특정 명령어만을 지원하도록 제한, 기본적으로 직접적으로 HTML 코드 삽입은 막고 단순화된 코드만을 허용하는 형태가 된것이 발전되어 현재의 비비코드가 태어난 배경이다. 
+
+물론 여기에는 HTML 코드가 일반인들에게 어렵다는 것도 한 몫을 했다. 일일이 사람들에게 HTML코드를 제대로 사용하기를 기대하기는 어렵기 때문.
+
+이러한 방식은 많은 인터넷 게시판 시스템에서 사용되어 현재도 해외에서는 대부분의 포럼 및 게시판 시스템에서 비비코드를 지원하고 있다. 또한 이는 발전, 변형되어 위키엔진에서 사용하는 위키 문법으로 발전하기도 했다. 
+
+위지위그 방식의 에디터와 달리 입력한 내용에 맞춰 변환이 일어나기 때문에 명확하게 출력형태를 예측가능하며 때문에 위지위그 방식의 에디터가 광범위하게 사용되는 지금도 사라지지 않고 사용되고 있다.
+
+국내에서는 대표적 전자게시판인 [[소프트:제로보드]]가 기본적으로 HTML코드만 지원하는 형태이다가 이후에는 [[용어:위지위그]] 형식의 에디터로 이동하면서 비비코드가 지원되는 게시판이 제대로 뿌리내리지 못한채로 넘어가버리고 말았다. 국내에서 위키 문법이 어렵다는 불만이 심한 이유 중 하나가 이 중간단계를 건너뛰었다고 보는 사람들도 많다.
+
+참고로 넥스위키에서는 비비코드도 일부 사용할 수 있다. 
+
+===== 문법 ======
+아래에 표시한 것은 표준 문법으로 대부분의 전자 게시판이 지원하는 기능들이다. 대부분의 비비코드를 지원하는 전자 게시판은 사용법에 관한 도움말을 사용자에게 보여주며, 최근에는 자바스크립트를 이용해서 [[용어:GUI]]를 누르면 선택한 지정구간에 해당 태그가 적용되도록 하는 기능도 지원되어 예전처럼 직접 태그를 외워야 할 필요가 없어졌다. 상당수의 게시판은 관리자가 태그를 관리해 비비코드를 추가하거나 제한할 수 있는 기능을 제공한다.
+
+이는 비슷한 마크업 언어를 사용하는 위키문법과 겹치는 부분도 있으나, 위키의 특성상 가독성을 해칠 수 있는 글자색 변경 등이 없는 경우와 달리 기본 게시판의 문법이기 때문에 색상, 사이즈 변경 등의 기능이 지원된다. 아래 사항들은 대표적인 마크업 언어이다. 넥스 위키는 테이블, 리스트를 제외한 아래에 포함된 비비코드는 모두 사용가능하다. 문서 작성 시 색상 변경이 필요한 문서가 있을 시에는 비비코드를 사용하도록 하자.
+
+^ BBcode 문법 ^ HTML 문법 ^ 도쿠위키문법 ^ 표현 ^
+| <nowiki> [b]진한 글씨[/b] </nowiki> | <nowiki> <b>기울임 글씨</b> </nowiki> | <nowiki> **기울임 글씨** </nowiki> | **기울임 글씨** |
+| <nowiki> [i]기울임 글씨[/i] </nowiki> | <nowiki> <i>기울임 글씨</i> </nowiki> | <nowiki> //기울임 글씨// </nowiki> | //기울임 글씨// |
+| <nowiki> [u]밑줄 글씨[/u] </nowiki> | <nowiki> <u>밑줄 글씨</u> </nowiki> | <nowiki> __밑줄 글씨__ </nowiki> | __밑줄 글씨__ |
+| <nowiki> [s]가로줄 글씨[/s] </nowiki> | <nowiki> <s>가로줄 글씨</s> </nowiki> | <nowiki> <del>가로줄 글씨</del> </nowiki> | <del>가로줄 글씨</del> |
+| <nowiki> [url]http://nex32.net[/url] </nowiki> | <nowiki> <a href="http://nex32.net"> http://nex32.net </a> </nowiki> | <nowiki> [[http://nex32.net]] </nowiki> | [[http://nex32.net]] |
+| <nowiki> [url=http://nex32.net] 넥스위키 [/url] </nowiki> | <nowiki> <a href="http://nex32.net"> 넥스위키 </a> </nowiki> | <nowiki> [[http://nex32.net|넥스위키]] </nowiki> | [[http://nex32.net|넥스위키]] |
+| <nowiki> [img]logo.png[/img] </nowiki> | <nowiki> <img src="logo.png" alt="" /> </nowiki> | <nowiki> {{:logo-top.png?200|}} </nowiki> | {{:logo-top.png?nolink|}} |
+| <nowiki> [quote]인용 구문[/quote] </nowiki> | <nowiki> <blockquote> 인용 구문 </blockquote> </nowiki> | <nowiki> <blockquote> 인용 구문 </blockquote> </nowiki> | (도쿠위키 특성상 테이블내에 사용불가) |
+| <nowiki> [code]코드 구문[/code] </nowiki> | <nowiki> <pre>코드 구문</pre> </nowiki> | <nowiki> <code>코드 구문</code> </nowiki> | <code>코드 구문</code> |
+| <nowiki> [size=15]큰 글씨[/size] </nowiki> | <nowiki> <span style="font-size:15px">큰 글씨</span> </nowiki> | - | [size=15]큰 글씨[/size] |
+| <nowiki> [color=#FF0000]붉은 글씨[/color] </nowiki> | <nowiki> <span style="color:#FF0000;">붉은 글씨</span> </nowiki> | - | [color=#FF0000]붉은 글씨[/color] |
+| <nowiki> [list] [*]목록 1 [*]목록 2 [/list] </nowiki> | <nowiki> <ul><li>목록 1</li><li>목록 2</li></ul> </nowiki> | <nowiki> * 목록 1 </nowiki> | (도쿠위키 특성상 테이블내에 사용불가) |
+
+===== 같이보기 =====
+==== 안쪽고리 ====
+  * [[용어:전자 게시판]]
+  * [[용어:마크업 언어]]
+  * [[용어:XSS]]
+  * [[용어:CSRF]]
+
+==== 바깥고리 ====
+  * BBcode 관리기구 : www.bbcode.org
+
+{{tag>용어 BBcode 비비코드 IT용어 게시판 에디터 }}

@@ -1,0 +1,95 @@
+====== DUVET (듀베이) ======
+===== Serial Experiments Lain 오프닝 =====
+---- datatemplateentry music ----
+곡명			: DUVET
+한국어명		: 듀베이
+수록작_titles		: 애니:Serial Experiments Lain
+수록앨범_albums		: PSDR-5310 | 레인 오프닝 싱글 '듀베이'
+발매일_dts		: 1998-07-07
+
+작사_peoples		: Jasmine Rodgers
+작곡_peoples		: BOA
+편곡_peoples		: BOA
+부른이_peoples		: BOA
+----
+===== 상세설명 =====
+독특한 소재와 독특한 표현, 그리고 놀라울만큼 졸린 구성으로 보는 이를 압도하는 애니메이션 Serial Expreiments Lain의 오프닝곡. 영국 밴드인 BOA가 음악을 담당했다. 
+
+도덕심을 상실하고 지켜야할 최소한의 선조차 잃어버린 인간미 없어진 인간을 꾸짖는듯한 내용의 곡. 작중의 내용과도 직접 관련이 있어 애니메이션을 본 사람이라면 강한 인상으로 남아있을만한 곡이다.
+
+제목의 DUVET은 듀베이라고 읽으며 오리털이나 거위털 등으로 만든 이불이나 점퍼 등을 통칭하는 명칭이다. 작품과 연관해 생각하면 제목의 이불로 대변되는 '잠'을 지칭하며, 곡중에 말하는 'Falling'과 'Fading'은 잠에 빠져들게 됨으로서 오가는 의식과 무의식의 경계를 지칭하는 것이 아닌가 생각된다.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 오프닝 영상보기 | {{youtube>79MN_w0VMPE?medium}} ++
+  * ++ 풀버전 노래 듣기 | {{youtube>4-PkAQcuZOw?medium}} ++
+
+  And you don't seem to understand
+  그리고 넌 수치심이란 걸 모르는 것 같아
+  
+  A shame you seemed an honest man
+  정직한 사람같아 보였었는데
+  
+  And all the fears you hold so dear
+  그리고 네가 좋아목매던 두려움들이
+  
+  Will turn to whisper in your ear
+  네 귀에 대고 속삭이기 시작할거야
+  
+  And you know what they say might hurt you
+  그리고 넌 그 말이 자신에게 상처가 될 거란것
+  
+  And you know that it means so much
+  그리고 그 말이 큰 의미를 가진단걸 알고 있어
+  
+  And you don't even feel a thing
+  그리고 마침내 넌 아무 것도 느낄 수 없게 되었지
+  
+  I am falling, I am fading
+  난 추락하고 있어 사라지고 있어
+  
+  I have lost it all
+  난 모든 것을 잃어버렸어
+
+
+
+  And you don't seem the lying kind
+  그리고 넌 수치심을 속이는 사람은 아닌 것 같아
+  
+  A shame then I can read your mind
+  나는 네 마음을 모두 읽을 수 있으니
+  
+  And all the things that I read there
+  그리고 내가 알아차린 모든 것들
+  
+  Candle lit smile that we both share
+  우리가 나누던 촛불의 미소와
+  
+  and you know I don't mean to hurt you
+  내가 널 상처입히지 않으리란 걸 알거야
+  
+  But you know that it means so much
+  그러나 그것이 큰 의미를 가진단걸 알고 있어
+  
+  And you don't even feel a thing
+  그리고 마침내 넌 아무 것도 느낄 수 없게 되었지
+
+
+  I am falling, I am fading, I am drowning
+  난 추락하고 있어 사라지고 있어 가라앉고 있어
+  
+  Help me to breathe
+  숨쉴 수 있게 도와줘
+  
+  I am hurting, I have lost it all
+  나는 상처입었어 모든 것을 잃어버렸지
+  
+  I am losing
+  난 지금도 잃어가고 있어
+  
+  Help me to breathe
+  숨쉴 수 있게 도와줘
+
+
+{{tag>가사 애니음악 레인 Serial_Experiments_Lain 오프닝송 Jasmine_Rodgers BOA 락}}

@@ -1,0 +1,31 @@
+====== 타유타마 - 키스 온 마이 데이티- (タユタマ-Kiss on my Deity-) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:타유타마:14cligjhbc9ffqqzxvvrgeq3l2fjac8wlzeaaaaa5_fn_jsvnq_.jpg|}}|공개|WELCOME！\\ 웰컴!|5 G|タユタマの世界にようこそ\\ 타유타마의 세계에 온 것을 환영합니다|
+|{{:도전과제:타유타마:0ocligjhbc9cfqqzxvvrgeq3l2fjac8wlzyaaaaa5_fn-tn_za_.jpg|}}|공개|RECモード\\ REC 모드|5 G|RECモードを使用した\\ REC 모드를 사용했다|
+|{{:도전과제:타유타마:1icligjhbc8wfqqzxvvrgeq3l2fjac8wl0qaaaaa5_fn_8md3a_.jpg|}}|비밀|ジュゴンと人魚姫伝説\\ 듀우공과 인어공주 전설|20 G|ましろとの水族館デートを成功させた\\ 마시로하고의 수족관 데이트에 성공했다|
+|{{:도전과제:타유타마:1ycligjhbc8xfqqzxvvrgeq3l2fjac8wl0uaaaaa5_fn_ipltw_.jpg|}}|비밀|裕理の進化\\ 유리의 진화|20 G|ましろに修練で勝った\\ 수련에서 마시로에게 이겼다|
+|{{:도전과제:타유타마:04cligjhbc9dfqqzxvvrgeq3l2fjac8wlzcaaaaa5_fn-nkgxw_.jpg|}}|비밀|永劫の道を共に\\ 영겁의 길을 함께|80 G|ましろエンディングをみた\\ 마시로 엔딩을 봤다|
+|{{:도전과제:타유타마:14cligjhbc8yfqqzxvvrgeq3l2fjac8wl0yaaaaa5_fn_als_g_.jpg|}}|비밀|コスプレデート\\ 코스프레 데이트|20 G|アメリと昔の制服でデートした\\ 아메리하고 옛날 교복을 입고 데이트했다|
+|{{:도전과제:타유타마:1ycligjhbc9ecxsggl5tvkq3l2fjac8wlzewaaaaaofn5-rlymo_.jpg|}}|비밀|祝、合格\\ 축, 합격|20 G|編入学試験に合格した\\ 입학 시험에 합격했다|
+|{{:도전과제:타유타마:0icligjhbc9mfqqzxvvrgeq3l2fjac8wlzgaaaaa5_fn--4suq_.jpg|}}|비밀|きっとこれからも、ごーいんぐまいうぇい\\ 분명 앞으로도 고잉 마이 웨이|80 G|アメリエンディングをみた\\ 아메리 엔딩을 봤다|
+|{{:도전과제:타유타마:1icligjhbc9fcxsggl5tvkq3l2fjac8wlzexaaaaaofn5-sfmfk_.jpg|}}|비밀|ゆみなとの約束\\ 유미나하고의 약속|20 G|ゆみなとの海岸デートを成功させた\\ 유미나하고의 해안 데이트에 성공했다|
+|{{:도전과제:타유타마:1ocligjhbc9gcxsggl5tvkq3l2fjac8wlzeyaaaaaofn5-kkkew_.jpg|}}|비밀|結ばれる二人\\ 맺어진 두 사람|20 G|ゆみなに結婚指輪を受け取ってもらえた\\ 유미나에게 결혼 반지를 건넸다|
+|{{:도전과제:타유타마:0ycligjhbc9nfqqzxvvrgeq3l2fjac8wlzkaaaaa5_fn-h7qwg_.jpg|}}|비밀|君と描く家族の景色\\ 너와 함께 그리는 가족의 풍경|80 G|ゆみなエンディングをみた\\ 유미나 엔딩을 봤다|
+|{{:도전과제:타유타마:0ocligjhbc9acxsggl5tvkq3l2fjac8wlze0aaaaaofn5-1mgoy_.jpg|}}|비밀|はじめてのクッキング\\ 처음 해 본 요리|20 G|お料理イベントを成功させた\\ 요리 이벤트에 성공했다|
+|{{:도전과제:타유타마:14cligjhbc9hcxsggl5tvkq3l2fjac8wlzezaaaaaofn5-jeax8_.jpg|}}|비밀|お嬢様の冒険\\ 아가씨의 모험|20 G|美冬との女子更衣室潜入デートを成功させた\\ 미후유하고의 여자 탈의실 잠입 데이트에 성공했다|
+|{{:도전과제:타유타마:0ocligjhbc81fqqzxvvrgeq3l2fjac8wl0eaaaaa5_fn-aahaw_.jpg|}}|비밀|長い旅路も二人で\\ 긴 여로도 두 사람이서|80 G|美冬エンディングをみた\\ 미후유 엔딩을 봤다|
+|{{:도전과제:타유타마:04cligjhbc9bcxsggl5tvkq3l2fjac8wlze1aaaaaofn5-ygehu_.jpg|}}|비밀|結界師、鵺\\ 결계사, 누에|20 G|鵺が結界の展開に成功した\\ 누에가 결계의 전개에 성공했다|
+|{{:도전과제:타유타마:0icligjhbc82fqqzxvvrgeq3l2fjac8wl0iaaaaa5_fn-4eotg_.jpg|}}|비밀|孤独な蝶は、温もりを\\ 고독한 나비는, 따스함을|80 G|鵺エンディングをみた\\ 누에 엔딩을 봤다|
+|{{:도전과제:타유타마:0ycligjhbc83fqqzxvvrgeq3l2fjac8wl0maaaaa5_fn-mh2jq_.jpg|}}|비밀|Congratulation！\\ 축하합니다!|120 G|全てのエンディングをみた\\ 모든 엔딩을 봤다|
+|{{:도전과제:타유타마:0ycligjhbc9ccxsggl5tvkq3l2fjac8wlze2aaaaaofn5-6nc6a_.jpg|}}|비밀|八衢の始祖が眠りしは、揺蕩う姫の元 \\ 야치마타의 시조가 잠든 곳은, 타유타우 공주의 곁|40 G|アナザーストーリーをみた\\ 어나더 스토리를 봤다|
+|{{:도전과제:타유타마:1ycligjhbc9gfqqzxvvrgeq3l2fjac8wlziaaaaa5_fn_rocga_.jpg|}}|공개|CG25%|25 G|CG回収率25%突破！\\ CG 회수율 25% 돌파!|
+|{{:도전과제:타유타마:1icligjhbc9hfqqzxvvrgeq3l2fjac8wlzmaaaaa5_fn_1rkew_.jpg|}}|공개|CG50%|50 G|CG回収率50%突破！\\ CG 회수율 50% 돌파!|
+|{{:도전과제:타유타마:0ycligjhbc9afqqzxvvrgeq3l2fjac8wlzqaaaaa5_fn-vgp6g_.jpg|}}|공개|CG75%|75 G|CG回収率75%突破！\\ CG 회수율 75% 돌파!|
+|{{:도전과제:타유타마:0icligjhbc9bfqqzxvvrgeq3l2fjac8wlzuaaaaa5_fn-xj3eq_.jpg|}}|공개|CG100%|100 G|CG回収率100%達成！\\ CG 회수율 100% 달성!|
+</sortable>
+
+{{tag>걸게 게임 도전과제 엑스박스360 xbox360 archivement 타유타마}}

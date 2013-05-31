@@ -1,0 +1,35 @@
+====== #CPU 명칭 ======
+---- dataentry cpu ----
+#예시를 지우고 입력해주세요
+
+제조사_companys : #인텔, AMD, 퀄컴 
+코어패밀리_hws	: #크루소 프로세서, 인텔 코어 프로세서, 퀄컴 스콜피온, AMD 애슬론 
+모델코드	: #SA-1110
+발매시기	: #2009
+
+코어갯수	: #1
+기본클럭	: #1.3GHz
+제조공정	: #45nm
+캐쉬용량	: #명령어 32KB, 데이터 128KB
+
+아키텍쳐_hws	: #x86 프로세서, ARM 프로세서, ARM v7, Power 프로세서, Power 7, 68000
+구조특성_words	: #CISC, RISC, EPIC, VLIW, OISC, ZISC, 하버드 아키텍처, 폰 노이만 아키텍쳐
+추가명령_words	: #SSE, AMD64, AltiVec, 
+명령어크기	: #32bit, 16bit, 64bit
+버스크기	: #32bit, 16bit, 64bit
+
+최대메모리	: #32GB
+메모리타입	: #DDR3-1333/1600
+메모리대역폭	: #25.6GB/s
+
+기타트성	: 
+
+그래픽_gups	: #PowerVR SGX MP4
+
+소비전력	: #45W
+
+화이트페이퍼_urls : #www.amd.com/epd/processors/6.32bitproc/10.am386fami/19.am386dx/index.html
+----
+
+
+{{tag>cpu }}

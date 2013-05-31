@@ -1,0 +1,441 @@
+====== Caramelldansen(카라멜단센) ======
+===== 카라멜 싱글 =====
+---- datatemplateentry music ----
+곡명			: Caramelldansen
+한국어명		: 카라멜단센
+수록작_titles		: 
+수록앨범_albums		: 
+발매일_dts		: 2001-11-11
+
+작사_peoples		: 
+작곡_peoples		: 
+편곡_peoples		: 
+부른이_peoples		: Caramell
+----
+
+===== 상세설명 =====
+이곡은 스웨덴 그룹인 [[사람:Caramell]]이 부른 유로비트 댄스 음악으로, 2001년 발매한 그들의 앨범 'Supergott'에 수록된 곡으로 당시에는 스웨덴을 비롯한 일부 지역에서만 알려진 곡이었다. 특유의 반복되는 가사와 흥겨운 유로비트 리듬, 모두 함께 손을 들고 몸을 흔들어 춤을 추자는 유쾌한 메시지가 듣는이를 기분좋게 하는 멋진 곡이다. (참고로 카라멜은 2002년 해체)
+
+[{{ :음악:caramelldansen:caramelldansen.gif|4chan을 중심으로 퍼진 포포탄 gif}}]
+
+그러나 이 곡이 본격적으로 퍼진 것은 좀 더 나중으로, 2002년 일본에서 등장한 성인용 게임 [[게임:포포탄]]의 SD캐릭터들이 손을 머리에 얹어 토끼귀 흉내를 내며 엉덩이를 흔드는 모션을 애니메이션GIF로 담은 이미지(오른쪽 참조)가 2003년 경부터 4chan을 중심으로 퍼졌다. 이 이미지는 2006년 경 해당 이미지와 함께 이곡을 1.2배속으로 재생한 버전이 합성된 영상이 파일 공유사이트를 통해서 공개되어 폭발적인 반응을 얻어내기에 이르른다. 이 이미지는 가사에 포함된 '손을 들고 엉덩이를 흔들며 춤을 춘다'는 이미지와 딱맞아 떨어졌기 때문이었다. 이 영상 파일명이 'caramelldansen_speedycake' 였다는 것이 계기가되어 이 1.2배속 믹스버전을 통칭 'SpeedyCake Remix'로 불리우고 있으며, 이곡은 인터넷을 중심으로 큰 반향을 얻어내기에 이르른다. 
+
+원곡의 흥겨운 유로비트 리듬이 1.2배로 빠른 스피드와 더해져 강력한 분위기를 잘 살려낸 이 스피디 케이크 믹스는 단순히 흥겨운 것을 넘어 원곡에서 약하게 느껴졌던 드럼비트가 특히나 강조되어 듣는것만으로 어깨를 들썩이게 만드는 곡으로 재탄생되었다. 이 중독성과 함께 1.2배속을 하면서 음성이 짧게 압축되어 기계음과 유사한 느낌과 함께 환청효과를 극대화시켜 스웨덴어라는 특성을 넘어 많은 재해석(?)된 가사를 낳게 된다.
+
+여기에 기름을 부은 것이 [[용어:AMV]]제작자인 Chiikaboom이 만든 가상 뮤직비디오 'SugardanSen(슈가단센)[(AMV 영상 정보 : http://www.animemusicvideos.org/members/members_videoinfo.php?v=151769)]'이었다. 이 영상은 2007년 가을 공개되었고, [[서비스:유튜브]]를 비롯한 수많은 동영상 사이트를 통해 엄청난 반향을 불러일으켰다. 이는 큰 붐이되어 서양에서도 따라서 춤을 추거나 하는 영상이 다수 업로드 되기도 했으며, 이 붐은 일본에도 흘러들어가 [[서비스:니코니코동화]]를 촉매로하여 수많은 이들에게 붐을 일으키는 계기가 된다.
+
+특히 애니메이션을 베이스로한 매체였던 슈가단센의 인기나, 기본 베이스 애니메이션 캐릭터가 일본의 게임 포포탄의 캐릭터였던 점이 어필하여 일본의 활발한 2차 창작문화와 연결되어 수많은 작품이 해당 '토끼 흉내 댄스' 패러디로 만들어졌으며, 이를 기반으로 수많은 패러디물이 등장하면서 특유의 환청현상을 기반으로 일본에서 '우 우 우아 우아'를 잘못들어 생긴 밈 '웃웃우마우마(ウッーウッーウマウマ(ﾟ∀ﾟ) )' 붐이 일본 인터넷 전반을 휩쓰는 결과를 가져온다. 우마우마 댄스는 단순히 인터넷상의 인기를 떠나 공중파 방송에서도 수많은 연예인들이 흉내를 낼 정도로 사회현상으로 발전해버린 것이다.
+
+이 붐에 편승해 일본에서는 1.2배속으로 편곡된 스피디 케이크 리믹스 버전이 수록된 공식(!) 라이센스 앨범 '우마우마해지는 트랜스를 만들어봤다(ウマウマできるトランスを作ってみた)' 앨범이 2008년 4월 16일 발매되었을 정도였다.(게다가 그 앨범은 해당 년도의 23회 일본 골든 디스크 대상에서 팝송 부문의 '싱글 오브 더 이어'를 수상하는 진기록을 세우기도 했다. 그뿐만 아니라 연간 팝송 판매량 순위에서도 1위를 기록했다)
+
+일본에서 앨범이 발매될 때, 이미 원 밴드인 카라멜이 해체한 것이나 자국에서 마켓팅하는데는 붐에 맞춘 만화풍의 이미지가 더 적합하다는 것이 더해져 이미지 뮤직비디오를 만들며 원래의 밴드 카라멜의 이미지 대신 만화풍의 캐릭터들이 등장하는 '카라멜 걸스(Caramell girls)'라는 가상의 댄스 유닛을 만들어냈다[(카라멜 걸스 판 뮤직비디오 : http://www.youtube.com/watch?v=6-8E4Nirh9s)]. (물론 이에대한 판권 등은 원곡을 부른 Malin과 Katia 에게 있으며, 2011년에는 해당 보컬리스트들이 '카라멜 걸스' 명의로 직접 노래를 담당해 만든 싱글앨범 [[음악:Boogie bam dance]]가 3개국어(스웨덴어, 영어, 독일어)로 만들어지기도 했다)
+
+일본에서의 이러한 붐은 다시한번 역수출(...)되어 전세계로 퍼져나갔고 수많은 우마우마 댄스 이미지, 영상이 유튜브를 포함한 UCC사이트에서 말그대로 대폭발을 일으켰다. 이미 붐이 일어나서 퍼져나가는 마당에 수많은 미디어 믹스 컨텐츠가 촉매가되어 더더욱 빠른 전파를 부추긴 것. 
+
+이 붐으로 말미암아 2008년 5월에는 스웨덴에서도 스피드 믹스 앨범이 정식 발매되었고, 이를 리믹스한 버전이 6월에 싱글로 발매되기도 했다. 같은해 9월에는 미국에서도 영어버전으로 녹음한 'Caramelldancing'이 발매되기도 했다. 이듬해에는 독일에서 독일어로 번역된 'Caramelltanzen'이 공식 앨범으로 발매되었다. 
+
+전세계적으로 게임 홍보영상 등에 음악, 댄스모션, 환청을 이용한 장난이 TV를 비롯한 각종 공식매체에서 출현하기도 하는 등 전세계적으로 대 히트를 기록했다. 국내에서는 이글루스와 디씨인사이드 등의 커뮤니티와 블로그를 중심으로 유행이 시작되어 서브컬쳐계를 강타했으나, 메이저의 경지에까지 올라가지는 못했다. 
+
+===== 같이보기 =====
+==== 바깥고리 ====
+  * 카라멜 공식 홈페이지 : http://caramell.nu
+  * 일본 공식앨범 '우마우마' 링크 : http://umauma.cd/index2.html
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 스웨덴어 원곡 ====
+
+  * ++ 카라멜의 원곡 버전 보기 | {{youtube>anEVeN4K-SY?medium}} ++
+  * ++ Chiikaboom AMV 'SugardanSen' | {{youtube>JEcaKmxS-Gw?medium}} ++
+  * ++ '카라멜 걸스' 버전 | {{youtube>6-8E4Nirh9s?medium}} ++
+
+
+  Vi undrar är ni redo att vara med
+  이봐 준비는 되었어?
+  
+  Armarna upp nu ska ni få se
+  자 이렇게 팔을 높이 들고
+  
+  Kom igen
+  따라해봐
+  
+  Vem som helst kan vara med
+  누구나 다같이 할 수 있어
+  
+  (Vara med)
+  (다같이)
+
+
+  Så rör på era fötter
+  이렇게 발을 옮기면서
+  
+  Oa-a-a
+  오-아아아
+  
+  Och vicka era höfter
+  엉덩이를 흔들면서
+  
+  O-la-la-la
+  오-라라라
+  
+  Gör som vi
+  우리가 하는걸 따라해
+  
+  Till denna melodi
+  이 멜로디에 맞춰서
+
+
+  (Oh-wa-ohwa-ah)
+  (오 와 오와 아)
+
+
+  Dansa med oss
+  우리와 함께 춤춰
+  
+  Klappa era händer
+  손뼉을 치며
+  
+  Gör som vi gör
+  우리가 하는 것처럼
+  
+  Ta några steg åt vänster
+  왼쪽으로 걸음을 옮겨
+  
+  Lyssna och lär
+  들으며 익혀봐
+  
+  Missa inte chansen
+  이 기회를 놓치지마
+  
+  Nu är vi här med
+  자 이제 우리 다같이
+  
+  Caramelldansen
+  카라멜 댄싱!
+
+
+  Oo-oo-oa-oa
+  우 우 우아 우아
+  
+  Oo-oo-oa-oa-a
+  우 우 우아 우아 아
+  
+  Oo-oo-oa-oa
+  우 우 우아 우아
+  
+  Oo-oo-oa-oa-a
+  우 우 우아 우아 아
+
+
+  Det blir en sensation överallt förstås
+  센세이션이 일어날거야 전국에서! 당연하지!
+  
+  På fester kommer alla att släppa loss
+  파티에 온 모두가 정신을 잃어버릴테지
+  
+  Kom igen
+  이리로 와
+  
+  Nu tar vi stegen om igen
+  이제 다시 스텝을 밟을 때야!
+
+
+  (Oh-wa-ohwa-ah)
+  (오 와 오와 아)
+
+
+  Så rör på era fötter
+  이렇게 발을 옮기면서
+  
+  Oa-a-a
+  오-아아아
+  
+  Och vicka era höfter
+  엉덩이를 흔들면서
+  
+  O-la-la-la
+  오-라라라
+  
+  Gör som vi
+  우리가 하는걸 따라해
+  
+  Till denna melodi
+  이 멜로디에 맞춰서
+
+
+  Så kom och
+  자 이리 와
+  
+  Dansa med oss
+  우리와 함께 춤춰
+  
+  Klappa era händer
+  손뼉을 치며
+  
+  Gör som vi gör
+  우리가 하는 것처럼
+  
+  Ta några steg åt vänster
+  왼쪽으로 걸음을 옮겨
+  
+  Lyssna och lär
+  들으며 익혀봐
+  
+  Missa inte chansen
+  이 기회를 놓치지마
+  
+  Nu är vi här med
+  자 이제 우리 다같이
+  
+  Caramelldansen
+  카라멜 댄싱!
+
+
+  Dansa med oss
+  우리와 함께 춤춰
+  
+  Klappa era händer
+  손뼉을 치며
+  
+  Gör som vi gör
+  우리가 하는 것처럼
+  
+  Ta några steg åt vänster
+  왼쪽으로 걸음을 옮겨
+  
+  Lyssna och lär
+  들으며 익혀봐
+  
+  Missa inte chansen
+  이 기회를 놓치지마
+  
+  Nu är vi här med
+  자 이제 우리 다같이
+  
+  Caramelldansen
+  카라멜 댄싱!
+
+
+  Oo-oo-oa-oa
+  우 우 우아 우아
+  
+  Oo-oo-oa-oa-a
+  우 우 우아 우아 아
+  
+  Oo-oo-oa-oa
+  우 우 우아 우아
+  
+  Oo-oo-oa-oa-a
+  우 우 우아 우아 아
+
+
+  Så kom och
+  자 이리 와
+  
+  Dansa med oss
+  우리와 함께 춤춰
+  
+  Klappa era händer
+  손뼉을 치며
+  
+  Gör som vi gör
+  우리가 하는 것처럼
+  
+  Ta några steg åt vänster
+  왼쪽으로 걸음을 옮겨
+  
+  Lyssna och lär
+  들으며 익혀봐
+  
+  Missa inte chansen
+  이 기회를 놓치지마
+  
+  Nu är vi här med
+  자 이제 우리 다같이
+  
+  Caramelldansen
+  카라멜 댄싱!
+
+
+  Dansa med oss
+  우리와 함께 춤춰
+  
+  Klappa era händer
+  손뼉을 치며
+  
+  Gör som vi gör
+  우리가 하는 것처럼
+  
+  Ta några steg åt vänster
+  왼쪽으로 걸음을 옮겨
+  
+  Lyssna och lär
+  들으며 익혀봐
+  
+  Missa inte chansen
+  이 기회를 놓치지마
+  
+  Nu är vi här med
+  자 이제 우리 다같이
+  
+  Caramelldansen
+  카라멜 댄싱!
+
+==== 일본어판 ====
+일본어판은 기본적으로 번안된 곡이 아니라 환청을 그대로 받아적은 내용이 중심이 되어있다. 가장 이질적인 버전이라고 할 수 있겠다.
+
+  * ++ 일본어판 | {{youtube>PPQbdeUfalI?medium}} ++
+
+[[:추가바람]]
+
+==== 영어판 Caramelldancing ====
+
+  * ++ 영어버전 'Caramelldancing' | {{youtube>gTshCYPAvLE?medium}} ++
+  * ++ '카라멜 걸스' 크리스마스 버전 | {{youtube>GWJHuLOIT-I?medium}} ++
+
+  We wonder are you ready to join us now?
+  Hands in the air we will show you how
+  Come and try
+  Caramell will be your guide
+  So come and move your hips sing
+  Oh-wa-ah-ah
+  Look at your two clips do it
+  La la la
+  You and me can sing this melody
+
+  Oa-oa-a
+
+  Dance to the beat wave your hands together
+  Come feel the heat forever and forever
+  Listen and learn it is time for prancing
+  Now we are here with Caramelldansen
+
+  O-o-o-oa-oa
+  O-o-o-oa-oa-a...
+  O-o-o-oa-oa
+  O-o-o-oa-oa-a...
+
+  From Sweden to UK we will bring our song
+  Australia, USA people of Hong Kong
+  They have heard this means it's all around the world 
+
+  Oh-oa-oa
+
+  So come and move your hips sing
+  Oh-ah-ah-ah
+  Look at your to clips do it
+  La la la
+  You and me can sing this melody
+
+  So come and dance to the beat wave your hands together
+  Come feel the heat forever and forever
+  Listen and learn it is time for prancing
+  Now we are here with Caramelldansen
+
+  Dance to the beat wave your hands together
+  Come feel the heat forever and forever
+  Listen and learn it is time for prancing
+  Now we are here with Caramelldansen
+
+  O-o-o-oa-oa
+  O-o-o-oa-oa-a...
+  O-o-o-oa-oa
+  O-o-o-oa-oa-a...
+
+  So come and dance to the beat wave your hands together
+  Come feel the heat forever and forever
+  Listen and learn it is time for prancing
+  Now we are here with Caramelldansen
+
+  Dance to the beat wave your hands together
+  Come feel the heat forever and forever
+  Listen and learn it is time for prancing
+  Now we are here with Caramelldansen
+
+==== 독일어판 Caramelltanzen ====
+
+  * ++ 독일어판  Caramelltanzen | {{youtube>5MB2R8o4JSo?medium}} ++
+
+  Bist du nun bereit 
+  richtig abzugehn?
+  Komm lass dich falln 
+  und dann wirst du sehn
+  Sei dabei, der 
+  Tanz hier ist für jedermann
+
+
+  Tanze zu dem Beat 
+  o ah ah ah!
+  Lass die Hüften schwingen 
+  la la la
+  Mach's wie wir
+  Spürst du die Melodie
+
+
+  Komm tanze mit
+  Klatsche in die Hände
+  Du bist dabei
+  Springe hoch fühl dich frei
+  Hör zu und lern
+  Du bist an der Reihe
+  Jedermann liebt das 
+  Caramell tanzen
+
+
+  Dieser Tanz wird unser Liebster sein
+  Wir tanzen durch die Nacht bis zum Morgengraun
+  Noch einmal
+  Wir fangen gleich von vorne an
+
+
+  Tanze zu dem Beat 
+  o ah ah ah!
+  Lass die Hüften schwingen 
+  la la la
+  Mach's wie wir
+  Spürst du die Melodie
+
+
+  Und los geht's!
+  Komm tanze mit
+  Klatsche in die Hände
+  Du bist dabei
+  Springe hoch fühl dich frei
+  Hör zu und lern
+  Du bist an der Reihe
+  Jedermann liebt das 
+  Caramell tanzen
+
+
+  Komm tanze mit
+  Klatsche in die Hände
+  Du bist dabei
+  Springe hoch fühl dich frei
+  Hör zu und lern
+  Du bist an der Reihe
+  Jedermann liebt das 
+  Caramell tanzen
+
+
+  Und los geht's!
+  Komm tanze mit
+  Klatsche in die Hände
+  Du bist dabei
+  Springe hoch fühl dich frei
+  Hör zu und lern
+  Du bist an der Reihe
+  Jedermann liebt das 
+  Caramell tanzen
+
+
+  Komm tanze mit
+  Klatsche in die Hände
+  Du bist dabei
+  Springe hoch fühl dich frei
+  Hör zu und lern
+  Du bist an der Reihe
+  Jedermann liebt das 
+  Caramell tanzen
+
+{{tag>가사 POP 스웨덴음악 카라멜단센 웃웃우마우마 카라멜 댄스 유로비트}}

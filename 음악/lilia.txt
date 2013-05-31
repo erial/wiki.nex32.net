@@ -1,0 +1,325 @@
+====== Lilia (리리아, リリア) ======
+===== 이스2 이미지송 =====
+---- datatemplateentry music ----
+곡명			: Lilia (リリア)
+한국어명		: 리리아
+수록작_titles		: 게임:이스2
+수록앨범_albums		: 150A-7710| 보컬 프롬 이스, kica-1042_3 | 팔콤 보컬 콜렉션1
+발매일_dts		: 1989-08-21
+
+작사_peoples		: Team JDK
+작곡_peoples		: Team JDK
+편곡_peoples		: 칸자키 쥰이치|칸자키 쥰이치(兼崎順一)
+부른이_peoples		: 아라이 아키노
+----
+
+===== 상세설명 =====
+
+이스2의 서브 히로인인 리리아의 이미지 보컬. 이스2 발매 당시에 만들어진 곡으로, 리리아의 테마에 가사를 붙인 곡이다. 
+
+워낙 유명한 곡이라 이스 시리즈와 팔콤에 관심이 있는 이라면 한 번 쯤은 들어봤을법한 곡.
+
+아라이 아키노의 애절한 목소리와 재즈풍으로 연주되는 멜로디가 어우러진 좋은 곡이지만, 역시 가사가 간지러운 것은 나온 시기를 감안해도 좀 심할정도다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+==== 일본어판 ====
+
+오리지널에 해당하는 일본어판. 아라이 아키노가 불렀다.
+
+  * ++ 영상보기 | {{youtube>qottUx0NkmE?medium}} ++
+
+  リリア　虹色の瞳
+  리리아 무지개빛의 눈동자
+  
+  澄んだ心のプリズム
+  투명한 마음의 프리즘
+  
+  遠い異国　可憐な少女
+  머나먼 이국의 가련한 소녀
+
+
+  君の微笑みに　草原も　ほら　笑ってる
+  그대의 미소에 초원도 웃고 있어요
+  
+  柔らかな髪　遊ばせながら
+  부드러운 머리칼을 흔들면서
+  
+  まっすぐ　僕を　見つめてた
+  똑바로 날 쳐다보았었죠
+
+
+  青い空高く　そよ風がやさしく舞う
+  푸른 하늘은 높고 산들바람은 부드럽게 춤추니
+  
+  ためらいがちに　差し出す君の
+  머뭇거리며 내민 당신의
+  
+  白い指が　まぶしくて
+  새하얀 손가락이 반짝여요
+
+
+  今　君に触れたい
+  지금 당신에게 닿기를
+  
+  はにかんだ　そのほほ
+  수줍어하던 그 뺨은
+  
+  時が過ぎ　流れてくまま
+  시간이 지나 흘러가는 대로
+  
+  君が変わってゆく前に
+  당신이 변해가기 전에
+
+
+  Lilia oh my Lilia
+  리리아, 오 나의 리리아
+
+
+  うららかな木漏れ日のなかで
+  화창한 나뭇잎 속에서
+  
+  君とまどろんでいたい
+  그대와 낮잠을 자고 싶어요
+  
+  やがて旅立つ日が来ても
+  어느날 여행을 떠날 날이 오더라도
+
+
+  今　君を抱きたい
+  지금 그대를 끌어안고 싶어요
+  
+  振わせた　その肩
+  떨리는 그 어깨
+  
+  悲しみに　溺れたままで
+  슬픔에 빠져 버린채
+  
+  君が染まってゆく前に
+  그대가 물들어버리기 전에
+
+
+  Lilia oh my Lilia
+  리리아, 오 나의 리리아
+
+
+  日の光　浴びて輝いた
+  햇살을 받아 빛나는
+  
+  君を見つめていたい
+  그대를 보고 싶어요
+  
+  やがて旅立つ日が来ても
+  어느날 여행을 떠날 날이 오더라도
+
+
+  リリア　夢見るくちびる
+  리리아 꿈꾸는 입술
+  
+  甘い　鈴の音響かせ
+  달콤한 방울 소리를 울려요
+  
+  青い風をまとう少女
+  푸른 바람을 휘감은 소녀 
+
+
+  リリア　虹色の瞳
+  리리아 무지개빛의 눈동자
+  
+  リリア　夢見るくちびる
+  리리아 꿈꾸는 입술
+  
+  青い風をまとう少女
+  푸른 바람을 휘감은 소녀여
+
+
+  リリア　夢見るくちびる
+  리리아 꿈꾸는 입술
+  
+  甘い　鈴の音響かせ
+  달콤한 방울소리를 울려요
+  
+  青い風をまとう少女
+  푸른 바람을 휘감은 소녀
+
+
+==== 영문판 ====
+
+일어판과 동시에 만들어진 영문판 리리아. 마찬가지로 아라이 아키노가 불렀다.
+
+가사의 닭살 돋음으로는 일어판의 그것을 한 층 더 능가한다. 
+
+  * ++ 영상보기 | {{youtube>zULTHo24MJg?medium}} ++
+
+  Lilia, darling Lilia
+  리리아, 내사랑 리리아
+  
+  When I look at you I can't believe it's true
+  그대는 진짜 존재하는걸 믿을 수 없을 정도라오
+  
+  Every day your beauty grows
+  그대는 매일 아름답게 자라
+  
+  And how suddenly it shows
+  갑자기 그것을 보여주었소
+  
+  Blushing red like a rose
+  붉은 장미처럼 빨개진 얼굴로
+  
+  You've begun to bloom
+  그대는 꽃처럼 피기 시작했지
+  
+  Lilia, precious Lilia
+  리리아, 나의 보물 리리아
+  
+  I wish that you could stay
+  난 그대가 이대로 있었으면 좋겠소
+  
+  The way you are today
+  오늘만이라도
+  
+  But I know it won't be long
+  하지만 그리 길지 않은 시간임을 알고있소
+  
+  Till you hear another song
+  그대는 또다른 노래를 들으며
+  
+  Come away, Lilia
+  떠나겠지요, 리리아
+  
+  Come away and 
+  떠나요, 그리고
+  
+  Spread your wings and fly
+  그대의 날개를 펼쳐 날아봐요
+  
+  Like a swallow
+  날쌘 제비처럼
+  
+  Dance upon the light Of a rainbow
+  무지개 빛 위를 춤춰요
+  
+  Journey to a star
+  별들을 향해 여행해요
+  
+  Find out who you are
+  당신이 누구인지 찾으세요
+  
+  Follow every dream Inside your heart
+  그대의 마음 속의 모든 꿈을 쫓아요
+  
+  Lilia, oh my Lilia
+  리리아, 오 나의 리리아
+  
+  Lilia
+  리리아
+  
+  Don't be afraid of passing years
+  해가 넘어가는 것을 두려워 마세요
+  
+  Lilia
+  리리아
+  
+  Through all the happiness and tears
+  모든 기쁨과 눈물을 경험하도
+  
+  Lilia
+  리리아
+  
+  Remember I believe in you
+  기억해줘요 난 그대를 믿어요
+  
+  Spread your wings and fly
+  그대의 날개를 펼쳐 날아봐요
+  
+  Like a swallow
+  날쌘 제비처럼
+  
+  Dance upon the light Of a rainbow
+  무지개 빛 위에서 춤춰봐요
+  
+  Journey to a star
+  별들을 향해 여행을 해요
+  
+  Find out who you are
+  그대가 누구인지를 찾으세요
+  
+  Follow every dream Inside your heart
+  그대의 마음 속의 모든 꿈을 쫓아요
+  
+  Lilia, oh my Lilia
+  리리아, 오 나의 리리아
+  
+  Lilia
+  리리아
+  
+  Through days of sunshine and of rain
+  햇살 비치고, 비오는 날들을 지나도
+  
+  Lilia
+  리리아
+  
+  You know I'll always feel the same
+  그대, 내가 항상 같은 기분일 거란걸 알겠죠
+  
+  Lilia
+  리리아
+  
+  Remember I believe in you
+  기억해줘요 난 그대를 믿어요
+  
+  Lilia
+  리리아 
+  
+  Whatever fate may have in store
+  어떠한 운명이 기다린다 해도
+  
+  Lilia
+  리리아
+  
+  There is one thing you can be sure
+  그대에게는 확실한 것이 하나 있어요
+  
+  Lilia
+  리리아
+  
+  Remember I believe in (you)
+  기억해줘요 내가 (그대를) 믿는다는 것을
+  
+  Lilia
+  리리아
+  
+  Don't be afraid of passing years
+  해가 넘어가는 것을 두려워 말아요
+  
+  Lilia
+  리리아
+  
+  Through all the happiness and tears
+  모든 행복과 눈물을 경험해도
+  
+  Lilia
+  리리아
+  
+  Remember I believe in (you)
+  기억해줘요 난 (그대를) 믿고 있어요
+  
+  Lilia
+  리리아
+  
+  Through days of sunshine and of rain
+  햇살 비치고, 비오는 날들을 지나도
+  
+  Lilia
+  리리아
+  
+  You know I'll always feel the same
+  그대, 내가 항상 같은 기분일 거란걸 알겠죠
+  
+  Lilia
+  리리아
+  
+  Remember I believe in (you)
+  기억해줘요 난 (그대를) 믿고 있어요
+
+{{tag>가사 게임음악 이미지송 팔콤 이스 이스2 TeamJDK 아라이_아키노 칸자키_쥰이치 발라드}}

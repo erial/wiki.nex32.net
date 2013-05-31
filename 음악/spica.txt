@@ -1,0 +1,243 @@
+====== SPiCa (스피카) ======
+===== 하츠네 미쿠 오리지널 DTM =====
+---- datatemplateentry music ----
+곡명			: SPiCa
+한국어명		: 스피카
+수록작_titles		: 게임:프로젝트 디바1, 게임:프로젝트 디바 Extend
+수록앨범_albums		: QWCE-00148 | EXIT TUNES PRESENTS Vocalolegend feat. 하츠네 미쿠, 
+발매일_dts		: 2009-07-27
+
+작사_peoples		: 토쿠 | 토쿠(とく), 동인:kentax
+작곡_peoples		: 토쿠 | 토쿠(とく)
+편곡_peoples		: 토쿠 | 토쿠(とく)
+부른이_characters	: 하츠네 미쿠, 메구리네 루카 | 메구리네 루카(영문버전)
+----
+
+===== 상세설명 =====
+토쿠P가 선보인 성좌 시리즈의 첫 작품. 후속곡인 [[음악:아리아_aria:하츠네미쿠_오리지널|]]도 높은 평가를 받은 곡이지만 전체적으로는 이 스피카 쪽이 훨씬 높은 평가를 받고 있다. 2007년 7월 27일 니코니코동화에서 처음 선보였으며, 등록 5일만인 8월 1일 니코니코동화 전당에 등록되는 기염을 토한 멋진 곡이다. 일러스트는 토쿠P와 함께 활동하고 있는 refeia가 담당했으며, 이 때는 전문적으로 제작한 영상은 아니고 일러스트를 받아서 에디팅을 거쳐 맥킨토쉬의 iMovie로 간단히 편집한 영상이었다. (후속곡은 퀄리티가 완전다르다)
+
+원래 동인앨범인 Headphone-Tokyo 1st EP「SPiCa」으로 선보였으나, 현재는 절판되어 앨범 자체는 구매할 수 없고 아이튠즈나 아마존 MP3다운로드 서비스로 구매가 가능하다. 후에 EXIT TUNES PRESENTS 첫 앨범에 수록되어 공식발매되었으므로 이쪽을 구매하는 쪽이 구하기는 쉽다.
+
+창문@실사리로(まど＠実写リロ)가 영역하여 '불러보았다'버전을 만든 것을 후에 메구리네 루카 발매 후 이 곡을 영어로 커버한 버전이 제작되었으며, 이 경우에는 Cella가 일러스트를 담당했으며, 토쿠P의 곡에 기반하지만 기본적으로 토쿠P가 참여한 곡은 아니다.
+
+후에 [[게임:프로젝트 디바1]]의 [[용어:DLC]]로 판매되었으며, 미쿠 라이브 공연인 39감사제 버전이 Extend 버전에 수록되어 판매되었다.
+
+  * 스피카(Spica) : 처녀자리의 별들 중 가장 밝은 청색 별로 우리나라에서는 봄의 저녁에 보인다.
+  * 주극성(周極星) : 극 둘레를 도는 별로, 지구의 어디에서 보아도 지평선 아래로 떨어지지 않는 별을 지칭한다.
+  * 데네볼라(Denebola) : 사자자리의 두번째 밝은 별. 변광성으로 미약하게 밝기가 변화하는 것이 특징.
+  * 트레몰로(tremolo) : 같은 높이의 음을 끊어서 연속적으로 연주하는 기법.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 일본어버전 ====
+
+  * ++ 스피카 PV 영상 | {{youtube>orbCMnvvNwI?medium}} ++
+  * ++ 프로젝트 디바 Extend 영상 | {{youtube>3AmSTYY51P4?medium}} ++
+
+  君と眺めてた 
+  너와 바라보았던
+  
+  星を集めた窓に 
+  별을 모아둔 창에
+  
+  映してた 
+  비치고 있었어
+
+
+  また　指折り数えた 
+  다시 손꼽아 세었던
+  
+  瞬間(とき)を重ねた夜に 
+  순간을 겹쳤던 밤에게
+  
+  問いかけた 
+  질문했었어
+  
+  時を止めた 
+  시간을 멈췄어
+
+
+  すきだよと言えば　はぐらかした 
+  좋아한다고 말하곤 얼버무려버렸어
+  
+  気がつかないフリは 
+  눈치 못챈 척은
+  
+  もうやめて＞＜ 
+  이제 그만해 >_<
+
+
+  隣にいるとき 
+  곁에 있을 때
+  
+  私の軌道はいつも 
+  나의 궤도는 언제나
+  
+  周極星 
+  주극성
+
+
+  トレモロみたいに
+  트레몰로 마냥
+  
+  波打つ思考の角度 
+  파도치는 사고의 각도
+  
+  つかめない　君を追えば 
+  붙잡을 수 없는 너를 쫓으면
+
+
+  なにかを失ってしまいそうな 
+  무언가를 잃어버릴 것만 같은
+  
+  想い浮かべ　船を出す 
+  생각이 떠올라 배를 띄우지
+
+
+  抱きしめて　出会わなければ　個々 
+  끌어안아줘 만나지 않았다면 각자
+  
+  受け止めて　デネボラを　飛び越え行くわ 
+  받아들여줘 데네볼라를 뛰어넘어 갈꺼야
+  
+  ワガママな歳差(さいさ)　星(きみ)のようだね 
+  제멋대로인 세차는 마치 별(너)같아
+  
+  追いかけて　うかぶパノラマ 
+  쫓아가면서 떠오르는 파노라마
+  
+  五線の上で　流れ星 
+  오선지 위의 별똥별
+  
+  いま歌うから　照らしてよね　スピカ 
+  지금 노래할테니 비춰주렴, 스피카
+
+
+  笑っていたいよ　ひとりはイヤだよ 
+  미소짓고 싶어, 혼자는 싫은걸
+  
+  答えが聞きたい　怖くて聞けない 
+  대답이 듣고 싶어, 무서워서 들을 수 없어
+
+
+  夜を　いくつも　過ごして 
+  밤을 몇번이고 보내면서
+  
+  未来へ　繋ぐの 
+  미래로 이어지는 거야
+
+
+  またたく星をよけ　探してた 
+  반짝이는 별을 피해 찾았던
+  
+  神話は　誰の味方なの 
+  신화는 누구의 편일까나
+
+
+  ため息で　落ち込んでいた　午後 
+  한숨으로 풀죽어 있던 오후
+  
+  想うだけ　君の名を一人つぶやくわ 
+  마음껏 너의 이름을 혼자 속삭이네
+  
+  あさはかな愛じゃ　届かないよね 
+  얕은 사랑으로는 전해지지 않을거야
+  
+  会いたくて　ピアノ奏でた　音 
+  만나고 싶어 피아노를 연주하는 소리
+  
+  苦しくて　溢れ出す 
+  괴로워서 넘쳐나는 
+  
+  余韻嫋々(じょうじょう)　君に届け 
+  여운의 소리가 네게 전해지길
+
+
+  抱きしめて　出会わなければ　個々 
+  끌어안아줘 만나지 않았다면 각자
+  
+  受け止めて　デネボラを　飛び越え行くわ 
+  받아들여줘 데네볼라를 뛰어넘어 갈꺼야
+  
+  ワガママな歳差(さいさ)　星(きみ)のようだね 
+  제멋대로인 세차는 마치 별(너)같아
+  
+  追いかけて　うかぶパノラマ 
+  쫓아가면서 떠오르는 파노라마
+  
+  五線の上で　流れ星 
+  오선지 위의 별똥별
+  
+  いま歌うから　照らしてよね　スピカ 
+  지금 노래할테니 비춰주렴, 스피카
+
+==== 영어버전 ====
+
+  * ++ 영문버전 영상 | {{nicovideo>sm16287969?medium}} ++
+
+  The scattered stars were beautiful 
+  They gathered all outside the window 
+  As we watched 
+  And then I asked the night so eloquent 
+  Made up of moments that we counted on our fingers 
+  And the time just stpped 
+
+  When I said "I love you" 
+  You pretended not to hear 
+  Please don't tell me that you don't notice anything 
+
+  Oh darling. when I'm next to you 
+  My orbit never dips below the horizon 
+  And just like a tremolo 
+  The angle of my thoughts - they waver 
+  Every time I chase a fleeting you 
+
+  Oh even though I feel like I will lose everything 
+  I hold it all inside and journey on 
+
+  Hold me close to you 
+  If only we had never met! 
+  Just keep me next to you 
+  And I'll spread my wings over Deneborah 
+  And the selfish precessions 
+  Just like you, my baby 
+  Chase me through the night 
+  Panorama in the sky 
+  Shooting stars parade around on a music staff 
+  Let me sing it to you now 
+  So please shine on me, Spica 
+
+
+  All I wanna do is smile 
+  I don't wanna be alone 
+  I wish I knew your answer 
+  I'm too scared to ask 
+
+  Passing/ so many nights/ surviving .. 
+  And welcoming … the future 
+
+  I looked up and was searching for the legends of the past 
+  Just whose side are they on anyway? 
+
+  Afternoons where I just whispered your name out 
+  How many times have I sighed now? 
+  You're still on my mind somehow - 
+  But a superficial love will never reach you 
+  Melodies were constantly born on my piano 
+  Bittersweet and overflowing 
+  This resonating afterglow - when will it touch your heart? 
+
+  Hold me close to you 
+  If only we had never met! 
+  Just keep me next to you 
+  And I'll spread my wings over Deneborah 
+  And the selfish precessions 
+  Just like you, my baby 
+  Chase me through the night 
+  Panorama in the sky 
+  Shooting stars parade around on a music staff 
+  Let me sing it to you know 
+  So please shine on me, Spica
+
+{{tag>가사 DTM 게임음악 프로젝트_디바 프로젝트_디바1 프로젝트_디바_Extend 삽입곡 kentax 토쿠 하츠네_미쿠 메구리네_루카 얼터너티브락}}

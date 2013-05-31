@@ -1,0 +1,124 @@
+====== 調和 oto - with reflection (조화) ======
+---- datatemplateentry music ----
+곡명			: 調和 oto - with reflection
+한국어명		: 조화 oto - with reflection
+수록작_title		: 애니:은발의 아기토
+수록앨범_albums		: VICL-35942_3 | 은발의 아기토 테마송 싱글
+발매일_dts		: 2006-01-01
+
+작사_peoples		: KOKIA
+작곡_peoples		: KOKIA
+편곡_peoples		: 세노오 타케시 | 妹尾武 (세노오 타케시)
+부른이_peoples		: KOKIA
+----
+
+===== 은발의 아기토 =====
+[[애니:은발의 아기토]]의 오프닝 테마송. [[사람:KOKIA]] 특유의 조어를 이용해서 만든 가사와 몰아치는 듯한 강렬한 멜로디가 조화되었다. 은발의 아기토 오프닝의 달이 붕괴되는 씬을 박진감 넘치게 만드는 중요 요소로 사용되었다. 
+
+++++ 영상보기 | {{youtube>j_dtrZXmfBQ?medium}} ++++
+
+  静けさの中 1粒堕ちただけ
+  고요함 속에서 한방울이 떨어진 것 만으로
+  
+  広がる波紋に 波うつ井戸の底
+  퍼지는 파문에 물결치는 우물의 바닥
+  
+  ざわついた私の心の森を
+  술렁이는 내 마음의 숲을 
+  
+  揺さぶる木枯(こが)らしよ
+  뒤흔드는 찬바람이여
+  
+  共存できるものなら そのままで
+  공존할 수 있다면 지금 이대로
+  
+  誰もがこの森で静かな声を聴いて 
+  누구나 이 숲에서 조용한 목소리를 듣고
+  
+  雑音に涙した
+  잡음에 눈물을 짓노라
+
+
+  3  (three)		C
+  25 (twenty-five)	Y
+  15 (fifteen)		O
+  21 (twenty-one)	U
+  23 (twenty-three)	W
+  1  (one)		A
+  			(조화)
+
+
+  rurekuteshieka wokitonakayada onirokokonoshi tawa
+  (私の 心に 穩やかな 時を 還して くれる)
+  내 마음에 고요한 시간을 돌려주는
+  
+  tai tsuwazadekazushi teshisokunamae tahatookumeshihi nirimonoko
+  (この 森に ひしめく 音は 絶え間なく そして 靜かで ざわついた)
+  이 숲에 북적이는 소리는 끊기는 틈이 없이, 고요하게 술렁인다
+
+
+  rurekuteshieka wokitonakayada onirokokonoshi tawa
+  (私の 心に 穩やかな 時を 還して くれる)
+  내 마음에 고요한 시간을 돌려주는
+  
+  tai tsuwazadekazushi teshisokunamae tahatookumeshihi nirimonoko
+  (この 森に ひしめく 音は 絶え間なく そして 靜かで ざわついた)
+  이 숲에 북적이는 소리는 끊기는 틈이 없이, 고요하게 술렁인다
+
+
+
+  ureramu ureramu ureramu oto
+  (生まれる　生まれる　生まれる　音)
+  생명이 잉태되고, 태어나서, 눈을 뜨는 소리
+  
+  nimiunooto denzushi denzu sea denzu sea
+  (沈んで　沈んで　音の 海に)
+  잠기어 가라앉아 가네 소리의 바다로 
+
+
+  ureramu ureramu ureramu oto
+  (生まれる　生まれる　生まれる　音)
+  생명이 잉태되고, 태어나서, 눈을 뜨는 소리
+  
+  nimiunooto uroma uroma uroma uroma
+  (まおる まおる まおる まおる 音の 海)
+  채워지고, 차올라서, 메워지는 소리의 바다
+
+
+  rurekuteshieka wokitonakayada onirokokonoshi tawa
+  (私の 心に 穩やかな 時を 還して くれる)
+  내 마음에 고요한 시간을 돌려주는
+  
+  tai tsuwazadekazushi teshisokunamae tahatookumeshihi nirimonoko
+  (この 森に ひしめく 音は 絶え間なく そして 靜かで ざわついた)
+  이 숲에 북적이는 소리는 끊기는 틈이 없이, 고요하게 술렁인다
+
+
+  rurekuteshieka wokitonakayada onirokokonoshi tawa
+  (私の 心に 穩やかな 時を 還して くれる)
+  내 마음에 고요한 시간을 돌려주는
+  
+  tai tsuwazadekazushi teshisokunamae tahatookumeshihi nirimonoko
+  (この 森に ひしめく 音は 絶え間なく そして 靜かで ざわついた)
+  이 숲에 북적이는 소리는 끊기는 틈이 없이, 고요하게 술렁인다
+
+
+  rurekuteshieka wokitonakayada onirokokonoshi tawa
+  (私の 心に 穩やかな 時を 還して くれる)
+  내 마음에 고요한 시간을 돌려주는
+  
+  tai tsuwazadekazushi teshisokunamae tahatookumeshihi nirimonoko
+  (この 森に ひしめく 音は 絶え間なく そして 靜かで ざわついた)
+  이 숲에 북적이는 소리는 끊기는 틈이 없이, 고요하게 술렁인다
+
+
+  rurekuteshieka wokitonakayada onirokokonoshi tawa
+  (私の 心に 穩やかな 時を 還して くれる)
+  내 마음에 고요한 시간을 돌려주는
+  
+  tai tsuwazadekazushi teshisokunamae tahatookumeshihi nirimonoko
+  (この 森に ひしめく 音は 絶え間なく そして 靜かで ざわついた)
+  이 숲에 북적이는 소리는 끊기는 틈이 없이, 고요하게 술렁인다
+
+
+{{tag>가사 애니음악 은발의_아기토 KOKIA 세오노_타케시 발라드}}

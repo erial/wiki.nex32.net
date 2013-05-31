@@ -1,0 +1,235 @@
+====== 캐릭터 사운드 파일명 규격 ======
+여기 있는 사운드는 모두 그 사운드의 파일 이름에 따라 적어놓았다. 다시 말해, 'ana005' 는 "Ach, I've never seen somethin' so ugly, I've not."의 사운드 파일 이름이다. 그리고, 그 사운드마다 '무작위, 참여 전' 이라는 식의 약간의 설명을 적어놓았다. 그리고 물론, 그 소리 그대로 적어놓았다. (몇 개의 소리는 어디에 사용되는지 알 수 없어 물음표로 표시해두었다)
+
+게다가, 몇 개의 사운드는 "대화가 연결" 되는 사운드이다. 즉, 한 캐릭터가 다른 캐릭터에게 어떤 말을 하게 되면, 계속 대답하는 식으로 대화가 이어지게 된다. 이러한 경우, 연결되는 사운드를 적어놓았다.
+
+안나의 경우에 대해서만 분석이 되어있으며, 아마 다른 캐릭터 추가는 없을 듯 하다. 참고만 하도록 하자.
+
+^ 파일명 ^ 대사가 나오는 상황 ^ 대사 내용 ^
+| ANA005 | 무작위, 참여 전 | "Ach, I've never seen somethin' so ugly, I've not." |
+| ANA006 | 무작위, 참여 전 | "Ah, Looks like the Dusties lost one o' their Deaders." |
+| ANA007 | 무작위, 참여 전 | "Ah, no Deaders today except walking ones, looks like." |
+| ANA008 | 무작위, 참여 전 | "Aye... slow Sigil day it is." |
+| ANA009 | 무작위, 참여 전 | "Um... old stutter crutch will be tallying his copper about now." |
+| ANA010 | 무작위, 참여 전 | "I can't find any Deaders... maybe I could gut a Dustie." |
+| ANA012 | 떠날 때 | "Ach, I want no more o' this, I don't." |
+| ANA017 | 떠날 때 | "I'm for leaving, while I'm still in one piece." |
+| ANA022 | 다시 참여 (?) | "Awright then, where to next?" |
+| ANA040A | 비참할 때 (?) | "I don't know why I keep company with the likes o' you." |
+| ANA043A | 매우 비참할 때 (?) | "Right, ye're goin' too far." |
+| ANA074B | 피곤할 때 | "Right, we need to say our Kip now." |
+| ANA098A | 지루할 때 | "If ye need me, I'll be over here... bored." |
+| ANA107A | 지루할 때 (?) | "Oh, adventure... glory... aye, this is the life." |
+| ANA127C | 심각한 상처 | "Oof, is this what I get for gettin' into a scrape?" |
+| ANA128C | 타격 | "Dammit, nicked me good!" |
+| ANA138F | 타격 | "Unh." |
+| ANA141B | 타격 | "Ow!" |
+| ANA144C | 하이브에서 | "Oh, I grew up here. Not a pleasant childhood mind you." |
+| ANA155C | ?? | "Ever get the feeling ye're bein' watched? Ye are." |
+| ANA166E | 사무구에서 | "Old Ward, also known as, Wanker City." |
+| ANA171B | 마계구에서 | "My lungs feel like a chimney!" |
+| ANA178A | ?? | "Ooh... from bad to worse we go!" |
+| ANA179A | 휄의 가게에서 | "We shouldn't be here... the Lady'll put us in the dead book for sure!" |
+| ANA189E | ?? | "The sooner we're gone from here, the better." |
+| ANA193A | 루비콘에서 | "Ooh, this place stinks o' oil! Ufh!" |
+| ANA199D | 회한의 요새에서 | "Oh... so cold here." |
+| ANA200A | 회한의 요새 | "Feel dead already." |
+| ANA201A | 회한의 요새 | "I donnae think we'll be leavin' this place." |
+| ANA202D | 회한의 요새 | "Better stay close, I don't want to be alone here." |
+| ANA204D | ?? | "I won't let ya down." |
+| ANA205A | ?? | "I'm gonna stand by ye." |
+| ANA206I | ?? | "Oh... see... I ... love you." |
+| ANA207F | ?? | "...hafta stay, ya see ... I love ya." |
+| ANA208E | ?? | "I don't care what ya say to this, I don't, I don't want ye to say anythin'... but I can't let ya die here." |
+| ANA209E | ?? | "Oh please don't let me die here." |
+| ANA210D | ?? | "It's alright... I trust ye." |
+| ANA210E | ?? | "Do what ye hafta... I trust ye." |
+| ANA211D | ?? | "I forgive ye..." |
+| ANA211E | ?? | "It's alright... I forgive ye..." |
+| ANA218D | ?? | "Don't you trust anyone here, ya got me?" |
+| ANA221D | 마지막 전투 | "Right. Get the work done, get out o' here." |
+| ANA224C | 선택했을 때 | "Aye?" |
+| ANA225B | 선택했을 때 | "Hmm?" |
+| ANA228D | 선택했을 때 | "Ready." |
+| ANA229B | 선택했을 때 | "Oh, what now?" |
+| ANA234A | 선택했을 때 | "I'm here." |
+| ANA235D | 선택했을 때 | "Aye. What?" |
+| ANA238D | 여러 번 선택했을 때 | "Well? What is it?" |
+| ANA238F | 여러 번 선택했을 때 | "What ye be wanting now?" |
+| ANA242B | 명령 전달 | "Why not?" |
+| ANA245A | 명령 전달 (?) | "I'll sort it out." |
+| ANA247A | ?? | "Aye (?)" |
+| ANA247E | 명령 전달 | "Right." |
+| ANA251C | 명령 전달 | "Might as well." |
+| ANA287C | 여러 번 선택했을 때 | "Would you stop it?" |
+| ANA292A | 여러 번 선택했을 때 | "Oh, I'm not that sort o' girl." |
+| ANA304A | 여러 번 선택했을 때 | "Cut it out, I'm not deaf!" |
+| ANA305B | 여러 번 선택했을 때 | "Get yer eyes off me arse." |
+| ANA305E | 모트에게 | "Stop staring at my tail, ya skull." |
+| ANA305F | 모트에게 | "Ye like my wee tail? I'll wag it at ya." |
+| ANA308B | 그레이스에게 | "Are you ready to leave yet, Fiend?" |
+| ANA309A | 그레이스에게 | "Ye want to leave? Go ahead!" |
+| ANA310A | 그레이스에게 | "Ye might want to strike out on yer own." |
+| ANA310D | 그레이스에게 | "Oh no, ladies first." |
+| ANA311B | 그레이스에게 | "So just how many souls have ye taken into the Abyss?" |
+| ANA313A | 그레이스에게? | "Oh, sizing up our necks for a feast are ye?" |
+| ANA314B | 그레이스에게 | "Never trust a tanar'ri, that's what I always say." |
+| ANA315A | To ? | "And what do YOU want from our leader?" |
+| ANA316A | 모트에게 | "Back off, Skull!" |
+| ANA317A | 모트에게 | "If you keep bobbing about, Skull, I'm gonna mount you on the end of a Pike!" |
+| ANA318B | 무명인에게 | "We need to get rid of Ignus, he's a burning crackle house!" |
+| ANA319C | 무명인에게 | "Don't like the armor, he's nuts." |
+| ANA320B | 무명인에게 | "Are you listenin' to me? We need to lose this Mercykiller before he pens us all in the deadbook." |
+| ANA321B | 무명인에게 | "What do we need the Succubus for? She'll turn on us, she will!" |
+| ANA326C | 무명인의 죽음 | "No matter, he'll be up in a bit." |
+| ANA327A | 모트의 죽음 | "Ah, Morte, ye may not be so daft." |
+| ANA328A | 다콘의 죽음 | "Poor gith, he seemed like a right enough sort." |
+| ANA329C | 그레이스의 죽음 ?? | "Ah, thank the powers." |
+| ANA330A | 베일러의 죽음 | "Damned Mercykiller." |
+| ANA331A | 이그너스의 죽음 | "'bout time somebody blew him out!" |
+| ANA332B | 그레이스의 죽음 | "She should have been more careful." |
+| ANA333B | 모트에게 | "Try it and ye'll be spittin' teeth for a week." |
+| ANA334A | 모트에게 | "Try it, and I'll grind ye to powder, ye floating bone box." |
+| ANA335A | 여러 번 선택했을 때?? | "Aye, what?" |
+| ANA338A | 레벨 업 | "Ye know I've learned some new tricks." |
+| ANA366D | 무기를 가져가려 할 때 | "Touch my blades again, and I'll put them in your skull." |
+| ANA367A | 갑옷을 가져가려 할 때 | "Watch the leather." |
+| ANA367B | 갑옷을 가져가려 할 때 | "Hey! Watch the leather." |
+| ANA369B | 갑옷을 가져가려 할 때 | "Get yer mitts off, ye dirty wee rat!" |
+| ANA369C | 갑옷을 가져가려 할 때 | "Mitts off, ye lecherous filth." |
+| ANA370E | ?? | "Don't want that." |
+| ANA372D | 저주받은 아이템 | "Oh, aye, equip that cursed item on me." |
+| ANA375A | 휄의 가게에서 | "Are ye daft? We'll draw the Lady's gaze if we stay here, we will." |
+| ANA377A | ?? | "Pike off!" |
+| ANA390A | 그림자 | "Shadows!" |
+| ANA390C | 그림자 | "Shadows!" |
+| ANA421C | 그림자 (?) | "Like a shadow, I am." |
+| ANA445A | 타격 (?) | "Haa." |
+| ANA448A | 크리티컬 미스 | "Dammit!" |
+| ANA452D | ?? | "Eh, I have something to say." |
+| ANA454A | 재 참여 | "So, uh, need my help yet?" |
+| ANA456D | 탈퇴 | "I won't wait here forever." |
+| ANA457B | 탈퇴 | "A'right, I'll leave then." |
+| ANA457C | 탈퇴 | "Right, I'm off." |
+| ANA458A | 탈퇴 | "I'll be right here... waiting fer you." |
+| ANA458B | 탈퇴 | "A'right, I'll be here if you need me." |
+| ANA462C | 가져가려 할 때 ?? | "I'm not giving that up." |
+| ANA463D | 가져가려 할 때 ?? | "There's no way in hell that's getting taken away from me." |
+| ANA464A | 가져가려 할 때 ?? | "Keep yer mitts off that. Hey!" |
+| ANA464B | 가져가려 할 때 ?? | "Keep yer mitts of it." |
+| ANA465B | 가져가려 할 때 ?? | "Oh no, I cannae part with that." |
+| ANA466H | 사용할 수 없을 때 ?? | "Cannae use that." |
+| ANA469A | 식별 ?? | "Identified." |
+| ANA474C | 이벤토리가 다 찼을 때 | "I couldnae carry it, so I had to drop it." |
+| ANA481C | 함정 발견 | "Hey... I spotted a trap." |
+| ANA481D | 함정 발견 | "I spotted a trap." |
+| ANA485D | 함정 발견 | "Thing's locked." |
+| ANA487G | 소매치기 | "Got it." |
+| ANA490A | 소매치기할 물건이 없음 | "Sod's got nothing on 'im." |
+| ANA506D | ?? | "Creepy rising from the dead you are." |
+| ANA507B | ?? | "Didnae really think you were deadless, cursed you are" ??? |
+| ANA508D | 무명인이 살아있을 때 | "Just seein' ya crawl back to life like that, gives me the shivers." |
+| ANA509B | ?? | "Are you alright?" |
+| ANA509F | ?? | "You're alright now, aren't ye?" |
+| ANA510E | 무명인이 살아있을 때 | "Oh... thought we'd lost ye." |
+| ANA510F | 무명인이 살아있을 때 | "Oh... I thought we'd lost ye." |
+| ANA511G | 무명인이 살아있을 때 | "Phew... thought I'd lost ye that time." |
+| ANA512C | 무명인이 살아있을 때 | "Hmmm, thought I'd lost yet that time. Not that I care, mind you." |
+| ANA518A | 실패했을 때 | "Failed." |
+| ANA520F | 전투 기합 ? | "Time to kick some back." |
+| ANA522A | 백스탭 | "Backstab." |
+| ANA522D | 백스탭 | "Backstab." |
+| ANA523B | ?? | "Left yerself exposed, ya eejit." |
+| ANA524B | ?? | "Left yerself wide open." |
+| ANA525F | 함정 해제 | "Disarmed it." |
+| ANA526C | ?? | "Oof, dolt thing." ??? |
+| ANA530C | 방해됨 | "Cannae run with this stuff." |
+| ANA533C | 방해됨 (더 많이) | "Carrying too much to move." |
+| ANA542C | 그림자가 남았을 때 | "Left the Shadows." |
+| ANA545B | Bash | "Bashed it inna half, don't know my own strength." |
+| ANA550B | Failed to Bash | "Can't force it!" |
+| ANA551A | 백스탭 실패 | "I can't backstab with this clumsy thing." |
+| ANA552A | ?? | "Already ??????? that one is." |
+| ANA554E | ?? | "Ach, messed up." |
+| ANA555A | 훔치기 실패 | "Not this time." |
+| ANA559E | 훔치기 실패 | "My pack's too full to pick his pocket." |
+| ANA560B | 효과 없는 무기 | "My dagger's not workin' on this thing." |
+| ANA565A | 노르돔에게 | "No, it's for scratchin' my back, ye soddin' box!" |
+| ANA565BC | 노르돔에게 ? | "Uhh." |
+| ANA566C | 노르돔에게 | "What kinda stupid question's that, ya pikin' sod box?" |
+| ANA567E | To ?? | "What?!?" |
+| ANA568C | To ?? | "Leave 'im alone already, ya don't know 'im." |
+| ANA569A | 모트에게 ? | "If you shut your trap, then I'll stop waving my tail." |
+| ANA570C | 모트에게 ? | "Oh yeah, you trying to sit in my lap would make a grand tale.... a short one." |
+| ANA571B | To ?? | "Oh, aye, it could... hurt ya, that is." |
+| ANA572C | To ?? | "Oh, aye, up your bone box to rip out your brains." |
+| ANA573A | To ?? | "No, only to you." |
+| ANA574A | 모트에게 | "Keep up yer chatter skull, and I'll be seein' what you have in yer veins." |
+| ANA575BD | 모트에게 | "Find a way, skull." |
+| ANA575F | 모트에게 | "Stand away from me, Morte." |
+| ANA576B | 모트에게 | "What are you looking at, skull?" |
+| ANA576BA | 모트에게 ? | "That tongue o' yers is gonna get yer nose broken." |
+| ANA577A | 모트에게 ? | "That tongue o' yers is gonna get yer nose broken." |
+| ANA578A | 모트에게 ? | "Oh, if I were you, I'd be prepared to pick up yer teeth." |
+| ANA578AA | 모트에게 | "Hey Morte! Ya want the good news? Yer goin' bald." |
+| ANA579A | 여러 번 선택했을 때 ? | "Aye? What is it ya want?" |
+| ANA579B | 여러 번 선택했을 때 ? | "Aye? What is it ya wanted?" |
+| ANA583A | ?? | "What can change the nature of a man?" |
+| ANA583D | ?? | "What can change the nature of a man?" |
+| ANA583G | ?? | "What can change the nature of a man??" |
+| ANA583I | ?? | "What can change the nature of a man?" |
+| ANA583K | ?? | "What can change the nature of a man?" |
+| ANA583M | ?? | "What can change the nature of a man?" |
+| ANA583O | ?? | "What can change the nature of a man?" |
+| ANA584B | 무명인에 대해 | "He matters more to me, than my life." |
+| ANA585D | 무명인에 대해 | "He matters more to me, than my life." |
+| ANA586A | ?? | "Ach, I hope a hound litters in your bedrobe." |
+| ANA588A | To ?? | "Why don't ye go rot with an Aoskan (?) hound." |
+| ANA591A | Torment | "Torment." |
+| ANA591B | Torment | "Torment." |
+| ANA591C | Torment | "Torment." |
+| ANA592A | Torment | "Torment." |
+| ANA592B | Torment | "Torment." |
+| ANA593A | 모트에게 ? | "How'd ya even get a chance to take a breath, when yer talkin' so much?" |
+| ANA594A | To ?? | "Donnae be fooled by that Succubus. She's interested in you, cause of the shape of yer neck. It's just right for her to sink her teeth into. |
+| ANA595A | 모트에게 | "If ye need to go somewhere, skull, don't let us keep ye." |
+| ANA595BA | 모트에게 ? | "I've several names for you. None of them fit for polite company." |
+| ANA597D | 모트에게 | "Huh. I wonder how much copper ye'd be worth to the Dusties, Skull." |
+| ANA599A | 모트에게 | "Death's too good for you, Skull." |
+| ANA600A | 모트에게 | "Those eyes rest on me one more time, Skull, and they'll be resting on the ground." |
+| ANA600BB | To ?? | "Oh now (?) you're one to talk." |
+| ANA601A | 모트에게 | "Skull, if you don't keep yer eyes to yerself, I'm takin' 'em." |
+| ANA601BB | To ?? | "Yer a right wee skunner (?)" |
+| ANA602A | To ?? | "I donnae trust that succubus, she's a fiend so she is. Ah, they're all alike, waiting for ya to drop yer guard before sinking her teeth into yer neck. Don't ye be takin' yer eye off dat slat. She'll turn on ya as faster than ya can blink. All fiends are like that, so they are." |
+| ANA602BA | ?? | "Oh, aye, but the good part. She looks like she's got a bad part, she does." |
+| ANA603A | 그레이스가 참여할 때 | "Oh Mistress High and Mighty'll be joining us? What'll we be needin' her for?" |
+| ANA603BA | 그레이스에 대해 | "I wish she would Fall from great height. I might even bump her off mahself." |
+| ANA604A | 그레이스에게 | "So... how long will you be travelling with us Succubus?" |
+| ANA604BA | 그레이스에게 | "Well, yer not permitted. I don't trust ye." |
+| ANA605A | 그레이스에게 | "So, uh, when are ya headin' back to yer knockin' shop, Succubus?" |
+| ANA605BA | 그레이스에게 | "Well...? It's where ye belong, so maybe ye should!" |
+| ANA606A | 그레이스에게 | "You'd better watch yerself Succubus. You step outta line, start huntin' for souls, you'll catch me blades." |
+| ANA606BA | 그레이스에게 | "Well, I would take you at your word, but since you Succubi are all perfumed, lying harlots... I won't." |
+| ANA606CA | 그레이스에게 | "You just keep away from me. Fact, maybe you should keep away from all of us." |
+| ANA607C | 모트에게 | "Ya know, Skull, yer gonna be doin' yer grinnin' on the tip of a pike, one of these days. Aye, and that will be the least o' yer worries when I'm through with ya!" |
+| ANA608A | 그레이스에게 | "How much longer are ye gonna be draggin' yerself with us, Succubus?" |
+| ANA608BB | 그레이스에게 | "Jealous? I'm not jealous! I don't even know how to spell 'jealous.' I don't trust ye... none of us do." |
+| ANA609A | 떠날 때/그레이스 | "I've had enough o' you and her. Go on, travel with her then, if ye like her company, I'll have nothin' more to do with ye." |
+| ANA609BA | 그레이스에게 | "Oh don't you, 'Annah look' me, ya black hearted harlot! I'll carve ye so I will! Always puttin' on yer airs with yer fine clothes and yer nose up in the air. Had enough o' ye! Ye can burn fer all I care!" |
+| ANA610A | 모트에게 | "And if ye weren't yerself all the time, ye might be a fine skull too!" |
+| ANA611A | 모트에게 | "Play the wise fellow with me again, skull, and I'll shove yer head up yer arse!" |
+| ANA613C | To ?? | "Oh listen to ye, not hard to see why ya up an' left." |
+| ANA614B | To ?? | "Accent? What are ye on about?" |
+| ANA616B | 모트에게 ? | "If I were you, I'd learn to latch my Bone Box." |
+| ANA617A | 모트에게 ? | "I'd stop now, if I were you." |
+| ANA618A | 모트에게 | "Many a man's tongue's broke his nose, skull." |
+| ANA619 | 모트에게 | "Oh sweet sufferin'! Powers, skull! Don't you ever get tired of hearin' yerself jabber?" |
+| ANA620B | 모트에게 | "It lets my skin breath, ya eejit." |
+| ANA621B | 모트에게 | "I'll never tell him how I feel, nor shall you prattle on to him about it. There's a mark o' doom on 'im, and I'll not sway him from his path. D'you hear me skull?" |
+| ANA622B | 모트에게 | "Watch yer bone box, skull, don't be takin' a name in vain like that!" |
+| ANA622CA | 모트에게 | "Are you tryin' to get us all carved to pieces? Don't you be temptin' fate with that, skull!" |
+| ANA624A | 모트에게 | "Ah, serves ya right, skull, ya sure irritate the rest of us enough." |
+| ANA625A | 그레이스에게 | "I've got nothing to say to you, Succubus." |
+| ANA626A | 그레이스에게 | "Mind yer own business, Succubus, I've nothin' to say to ya." |
+
+{{tag>플레인스케이프_토먼트}}

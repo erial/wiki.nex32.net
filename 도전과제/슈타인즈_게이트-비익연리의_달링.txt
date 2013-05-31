@@ -1,0 +1,59 @@
+====== 슈타인즈 게이트 비익연리의 달링 도전과제 ======
+{{section>:게임:슈타인즈_게이트-비익연리의_달링#기본정보}}
+
+===== 도전과제 정보 =====
+
+<sortable>
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ocligjhbc9ffqqzxvvrgeu4l2fjac8wlzeaaaaa5_fn_a1aha_.jpg|}}|공개|新たなる運命石の扉の選択\\ 새로운 슈타인즈 게이트의 선택|5 G|STEINS;GATE 比翼恋理のだーりんを開始した\\ 슈타인즈 게이트 비익연리의 달링을 개시했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ocligjhbc9acxsggl5tvku4l2fjac8wlze0aaaaaofn5-19mp4_.jpg|}}|공개|CGの達成率25%\\ CG 달성률 25%|25 G|CGを25％見た\\ CG를 25% 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:04cligjhbc9bcxsggl5tvku4l2fjac8wlze1aaaaaofn5-ydyg0_.jpg|}}|공개|CGの達成率50%\\ CG 달성률 50%|25 G|CGを50％見た\\ CG를 50% 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc9ccxsggl5tvku4l2fjac8wlze2aaaaaofn5-68w7g_.jpg|}}|공개|CGの達成率75%\\ CG 달성률 75%|25 G|CGを75％見た\\ CG를 75% 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0icligjhbc9dcxsggl5tvku4l2fjac8wlze3aaaaaofn5-9coys_.jpg|}}|공개|CGの達成率100%\\ CG 달성률 100%|25 G|全CGを見た\\ 모든 CG를 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:04cligjhbc9mcxsggl5tvku4l2fjac8wlze4aaaaaofn5-x7lyu_.jpg|}}|공개|レキを求めるモノ\\ 력 을 원하는 자|10 G|CLEAR　LISTを開いてみた\\ CLEAR LIST를 열어 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ocligjhbc9ncxsggl5tvku4l2fjac8wlze5aaaaaofn5-2b17y_.jpg|}}|공개|ヱを求めるモノ\\ 회 를 원하는 자|10 G|CG　LIBRARYを開いてみた\\ CG LIBRARY를 열어 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc81cxsggl5tvku4l2fjac8wlzfbaaaaaofn5-4lonc_.jpg|}}|공개|オトを求めるモノ\\ 음 을 원하는 자|10 G|SOUND　LIBRARYを開いてみた\\ SOUND LIBRARY를 열어 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:04cligjhbc82cxsggl5tvku4l2fjac8wlzfcaaaaaofn5-wem8i_.jpg|}}|공개|ドウを求めるモノ\\ 동 을 원하는 자|10 G|MOVIE　LIBRARYを開いてみた\\ MOVIE LIBRARY를 열어 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ocligjhbc83cxsggl5tvku4l2fjac8wlzfdaaaaaofn5-3ky1e_.jpg|}}|공개|格物致知のミーミル\\ 격물 치지의 미미르|10 G|TIPSを開いてみた\\ TIPS를 열어 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:14cligjhbc8wcxsggl5tvku4l2fjac8wlzfeaaaaaofn5-hgikg_.jpg|}}|공개|洽覧深識のオージン\\ 습람 심식의 오딘|20 G|全TIPSを見た\\ 모든 TIPS를 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ocligjhbc8xcxsggl5tvku4l2fjac8wlzffaaaaaofn5-mm2ds_.jpg|}}|공개|自我のメモリーズ　リターン\\ 자아의 메모리즈 리턴|10 G|【フォーントリガー】送信履歴を一度でも見た\\ 【폰 트리거】보낸 문자 목록을 한 번이라도 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1icligjhbc8ycxsggl5tvku4l2fjac8wlzfgaaaaaofn5-uh0y4_.jpg|}}|공개|他我のメモリーズ　リターン\\ 타아의 메모리즈 리턴|10 G|【フォーントリガー】着信履歴から一度でもメールを参照した\\ 【폰 트리거】받은 문자 목록에서 한 번이라도 메일을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:14cligjhbc9ecbsggl5tvku4l2fjac8wlziwaaaaaofn5-js4hs_.jpg|}}|공개|共鳴のリアクション　リターン\\ 공명의 리액션 리턴|10 G|【フォーントリガー】誰かからのメールに返信した\\ 【폰 트리거】누군가에게 메일로 답장을 보냈다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ocligjhbc9fcbsggl5tvku4l2fjac8wlzixaaaaaofn5-kmgog_.jpg|}}|공개|忘却のメッセージ　リターン\\ 망각의 메시지 리턴|10 G|【フォーントリガー】未読メールを残したままクリアした\\ 【폰 트리거】읽지 않은 메일이 있는 상태로 클리어 했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ycligjhbc9hcbsggl5tvku4l2fjac8wlzizaaaaaofn5-rn6c4_.jpg|}}|공개|投影のヴィジョン　リターン\\ 투영의 비전 리턴|10 G|【フォーントリガー】待ち受け画面の壁紙を変更した\\ 【폰 트리거】대기 화면 벽지를 변경했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0icligjhbc9acbsggl5tvku4l2fjac8wlzi0aaaaaofn5-9vajc_.jpg|}}|공개|ハジメテのオト　リターン\\ 최초의 소리 리턴|10 G|【フォーントリガー】着信メロディを変更した\\ 【폰 트리거】벨소리를 변경했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc9bcbsggl5tvku4l2fjac8wlzi1aaaaaofn5-6p_qq_.jpg|}}|공개|得手容易のホステージ\\ 득수 용이의 호스티지|10 G|【フォーントリガー】まゆりからの「得意科目」に関するメールを読んだ\\ 【폰 트리거】마유리에게서 온 「잘 하는 과목」에 대한 메일을 읽었다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:04cligjhbc9ccbsggl5tvku4l2fjac8wlzi2aaaaaofn5-yu8xe_.jpg|}}|공개|聖戦勃発のコレクター\\ 성전 촉발의 컬렉터|10 G|【フォーントリガー】至からの「遠征」に関するメールを読んだ\\ 【폰 트리거】이타루에게서 온 「원정」에 대한 메일을 읽었다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ocligjhbc9dcbsggl5tvku4l2fjac8wlzi3aaaaaofn5-1oc4i_.jpg|}}|공개|永久不変のジーニアス\\ 영구 불변의 지니어스|10 G|【フォーントリガー】紅莉栖からの「体質」に関するメールを読んだ\\ 【폰 트리거】크리스에게서 온 「체질」에 대한 메일을 읽었다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc9mcbsggl5tvku4l2fjac8wlzi4aaaaaofn5-5ph4w_.jpg|}}|공개|曖昧模糊のアンケーター\\ 애매 모호의 앙케이터|10 G|【フォーントリガー】萌郁からの「女心」に関するメールを読んだ\\ 【폰 트리거】모에카에게서 온 「여심」에 대한 메일을 읽었다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0icligjhbc9ncbsggl5tvku4l2fjac8wlzi5aaaaaofn5-_j5x8_.jpg|}}|공개|誤解遭遇のメイデン\\ 오해 조우의 메이든|10 G|【フォーントリガー】るかからの「胸」に関するメールを読んだ\\ 【폰 트리거】루카에게서 온 「가슴」에 대한 메일을 읽었다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:04cligjhbc81cbsggl5tvku4l2fjac8wlzjbaaaaaofn5-w3ct4_.jpg|}}|공개|得意満面のキャットメード\\ 득의 만면의 캣메이드|10 G|【フォーントリガー】フェイリスからの「アキバ」に関するメールを読んだ\\ 【폰 트리거】페이리스에게서 온 「아키바」에 대한 메일을 읽었다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc82cbsggl5tvku4l2fjac8wlzjcaaaaaofn5-4wa2s_.jpg|}}|공개|不知案内のトラベラー\\ 부지 안내의 트래벌러|10 G|【フォーントリガー】鈴羽からの「自家発電」に関するメールを読んだ\\ 【폰 트리거】스즈하에게서 온 「자가발전」에 대한 메일을 읽었다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0icligjhbc83cbsggl5tvku4l2fjac8wlzjdaaaaaofn5--2_-g_.jpg|}}|공개|オペレーション・Ｍ\\ 오퍼레이션 M|10 G|【フォーントリガー】まゆりとのメールを全て読んだ（累計）\\ 【폰 트리거】마유리하고 주고받은 메일을 모두 읽었다 (누적)|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ycligjhbc8wcbsggl5tvku4l2fjac8wlzjeaaaaaofn5-pueae_.jpg|}}|공개|オペレーション・Ｄ\\ 오퍼레이션 D|10 G|【フォーントリガー】至とのメールを全て読んだ（累計）\\ 【폰 트리거】이타루하고 주고받은 메일을 모두 읽었다 (누적)|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1icligjhbc8xcbsggl5tvku4l2fjac8wlzjfaaaaaofn5-u06ji_.jpg|}}|공개|オペレーション・Ｃ\\ 오퍼레이션 C|10 G|【フォーントリガー】紅莉栖とのメールを全て読んだ（累計）\\ 【폰 트리거】크리스하고 주고받은 메일을 모두 읽었다 (누적)|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ocligjhbc8ycbsggl5tvku4l2fjac8wlzjgaaaaaofn5-mv4sc_.jpg|}}|공개|オペレーション・Ｋ\\ 오퍼레이션 K|10 G|【フォーントリガー】萌郁とのメールを全て読んだ（累計）\\ 【폰 트리거】모에카하고 주고받은 메일을 모두 읽었다 (누적)|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc9ecrsggl5tvku4l2fjac8wlzmwaaaaaofn5-5jgtk_.jpg|}}|공개|オペレーション・Ｌ\\ 오퍼레이션 L|10 G|【フォーントリガー】るかとのメールを全て読んだ（累計）\\ 【폰 트리거】루카하고 주고받은 메일을 모두 읽었다 (누적)|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0icligjhbc9fcrsggl5tvku4l2fjac8wlzmxaaaaaofn5-_d4ao_.jpg|}}|공개|オペレーション・Ｆ\\ 오퍼레이션 F|10 G|【フォーントリガー】フェイリスとのメールを全て読んだ（累計）\\ 【폰 트리거】페이리스하고 주고받은 메일을 모두 읽었다 (누적)|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ocligjhbc9gcrsggl5tvku4l2fjac8wlzmyaaaaaofn5-2i6b8_.jpg|}}|공개|オペレーション・Ｓ\\ 오퍼레이션 S|10 G|【フォーントリガー】鈴羽とのメールを全て読んだ（累計）\\ 【폰 트리거】스즈하하고 주고받은 메일을 모두 읽었다 (누적)|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:14cligjhbc9hcxsggl5tvku4l2fjac8wlzezaaaaaofn5-jf2wc_.jpg|}}|비밀|ラボChuChu！\\ 랩 ChuChu!|25 G|全てのメールを見た\\ 모든 메일을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1icligjhbc9gfqqzxvvrgeu4l2fjac8wlziaaaaa5_fn_4xjmq_.jpg|}}|비밀|起源鳴動のエントロピー\\ 기원 명동의 엔트로피|10 G|「起源鳴動のエントロピー」をクリアした\\ 「기원 명동의 엔트로피」를 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc9mfqqzxvvrgeu4l2fjac8wlzgaaaaa5_fn-shh4a_.jpg|}}|비밀|失楽のメランコリア\\ 실락의 멜랑콜리아|10 G|「失楽のメランコリア」をクリアした\\ 「실락의 멜랑콜리아」를 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0icligjhbc9nfqqzxvvrgeu4l2fjac8wlzkaaaaa5_fn-yi-cw_.jpg|}}|비밀|黎明曙光のレシオ\\ 여명 서광의 레이셔|50 G|萌郁のエンディングを見た\\ 모에카 엔딩을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ycligjhbc8wfqqzxvvrgeu4l2fjac8wl0qaaaaa5_fn_vvibq_.jpg|}}|비밀|猫耳乙女のドメイン\\ 고양이귀 소녀의 도메인|10 G|「猫耳乙女のドメイン」をクリアした\\ 「고양이귀 소녀의 도메인」을 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1icligjhbc8xfqqzxvvrgeu4l2fjac8wl0uaaaaa5_fn_xww-g_.jpg|}}|비밀|楼閣都市のネフシュタン\\ 누각 도시의 네프슈탄|50 G|フェイリスのエンディングを見た\\ 페이리스 엔딩을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:04cligjhbc81fqqzxvvrgeu4l2fjac8wl0eaaaaa5_fn-jzssg_.jpg|}}|비밀|倒錯のアニマ\\ 도착의 아니마|10 G|「倒錯のアニマ」をクリアした\\ 「도착의 아니마」를 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc82fqqzxvvrgeu4l2fjac8wl0iaaaaa5_fn-rdbbw_.jpg|}}|비밀|封神のピグマリオン\\ 봉신의 피그말리온|10 G|「封神のピグマリオン」をクリアした\\ 「봉신의 피그말리온」을 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0icligjhbc83fqqzxvvrgeu4l2fjac8wl0maaaaa5_fn-1ejla_.jpg|}}|비밀|愛と幻創のシナジー\\ 사랑과 환창의 시너지|50 G|るかのエンディングを見た\\ 루카 엔딩을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ocligjhbc8yfqqzxvvrgeu4l2fjac8wl0yaaaaa5_fn_ts5sw_.jpg|}}|비밀|迷走螺旋のアルケー\\ 미주 나선의 아르케|10 G|「迷走螺旋のアルケー」をクリアした\\ 「미주 나선의 아르케」를 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ycligjhbc9ecxsggl5tvku4l2fjac8wlzewaaaaaofn5-r_0ni_.jpg|}}|비밀|破滅と終焉のフーガ\\ 파멸과 종언의 푸가|10 G|「破滅と終焉のフーガ」をクリアした\\ 「파멸과 종언의 푸가」를 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1icligjhbc9fcxsggl5tvku4l2fjac8wlzexaaaaaofn5-sekee_.jpg|}}|비밀|根源のアガペー\\ 근원의 아가페|50 G|鈴羽のエンディングを見た\\ 스즈하 엔딩을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ycligjhbc9hfqqzxvvrgeu4l2fjac8wlzmaaaaa5_fn_myxog_.jpg|}}|비밀|華氏９３度のキアロスクーロ\\ 화씨 93도의 키아로스쿠로|10 G|「華氏９３度のキアロスクーロ」をクリアした\\ 「화씨 93도의 키아로스쿠로」를 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0icligjhbc9afqqzxvvrgeu4l2fjac8wlzqaaaaa5_fn-85aww_.jpg|}}|비밀|星屑のデュプレット\\ 작은 별의 듀플렛|50 G|まゆりのエンディングを見た\\ 마유리 엔딩을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ycligjhbc9bfqqzxvvrgeu4l2fjac8wlzuaaaaa5_fn-i6iya_.jpg|}}|비밀|哀哭悲嘆のアポリア\\ 애곡 비탄의 아포리아|10 G|「哀哭悲嘆のアポリア」をクリアした\\ 「애곡 비탄의 아포리아」를 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:04cligjhbc9cfqqzxvvrgeu4l2fjac8wlzyaaaaa5_fn-a_rfq_.jpg|}}|비밀|相克のパ・ド・ドゥ\\ 상극의 파 드 두|10 G|「相克のパ・ド・ドゥ」をクリアした\\ 「상극의 파 드 두」를 클리어했다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:0ocligjhbc9dfqqzxvvrgeu4l2fjac8wlzcaaaaa5_fn-e9t7g_.jpg|}}|비밀|永劫回帰のレゾナンス\\ 영겁 회귀의 레조넌스|50 G|紅莉栖のエンディングを見た\\ 크리스 엔딩을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:1ocligjhbc9gcxsggl5tvku4l2fjac8wlzeyaaaaaofn5-k-ifq_.jpg|}}|비밀|比翼恋理のだーりん\\ 비익연리의 달링|100 G|全エンディングを見た\\ 모든 엔딩을 봤다|
+|{{:도전과제:슈타인즈_게이트-비익연리의_달링:04cligjhbc9hcrsggl5tvku4l2fjac8wlzmzaaaaaofn5-xceiw_.jpg|}}|비밀|アトラクタフィールドの収束\\ 어트랙터 필드의 수속|100 G|STEINS;GATE 比翼恋理のだーりんをやり尽くす\\ 슈타인즈 게이트 비익연리의 달링을 모두 클리어한다|
+</sortable>
+
+{{tag>걸게 도전과제 엑스박스360 archivement xbox360}}

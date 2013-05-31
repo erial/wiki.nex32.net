@@ -1,0 +1,295 @@
+====== Komm, süsser Tod (달콤한 죽음이여, 오라) ======
+===== 에반게리온-진심을 그대에게 삽입곡 =====
+---- datatemplateentry music ----
+곡명			: Komm, süsser Tod
+한국어명		: 달콤한 죽음이여, 오라
+수록작_title		: 애니:신세기 에반게리온-극장판
+수록앨범_albums		: KIDA-155 | The END OF EVANGELION 싱글
+발매일_dts		: 1997-07-19
+
+작사_peoples		: 안노 히데아키, Mike WYZGOWSKI
+작곡_peoples		: 사기스 시로 | 사기스 시로(鷺巣詩郎)
+편곡_peoples		: 사기스 시로 | 사기스 시로(鷺巣詩郎)
+부른이_peoples		: ARIANNE
+----
+
+===== 상세설명 =====
+신세기 에반게리온 극장판, 'AIR/진심을 그대에게'의 '진심을 그대에게' 파트의 몰살씬에서 흘러나오는 노래다. 이 노래 자체는 아래쪽에 따로 기록한 일본어 원 가사를 안노 히데아키가 쓰고, 음에 맞춰서 영어로 번역한 가사이다. 인류보완계획의 계기와 그 의미 전체를 담은 곡으로, 가사를 보고 있노라면 왜 안노 히데아키가 인류보완계획을 몰살로 이끌 수 밖에 없었는지 얼핏이나마 이해할 수 있어보인다.
+
+사실 이 노래가 나오는 곳이 클라이막스가 아니라 이 이후에 고요한 상태에서 나누는 대사 씬인데, 너무 밋밋하기 때문에 대부분이 노래가 나오는 이 씬을 클라이막스로 기억하는 것이 특징. 제목은 독일어로, [[사람:요한 제바스티안 바흐]]의 'Komm, süßer Tod, komm selge Ruh (달콤한 죽음이여, 오라, 축복된 휴식이여 오라)'에서 따온 제목이다.
+
+의도적으로 [[사람:프로콜 하룸]]의 '[[음악:A Whiter Shade of Pale]]'과 비틀즈의  '[[음악:Hey jude]]'에서 많은 멜로디를 따서 만들어졌다.
+
+===== 가사 ===== 
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 영어 가사 ====
+노래에 사용된 가사. 안노 히데아키의 원안을 기반으로 영어로 개사된 가사. 원안에 비해서는 상대적으로 무난하게 변화된 가사가 인상적이다. 원안은 아래쪽을 참고하자.
+
+  * ++ 영상보기 | {{youtube>5i6SdiCsQBM?medium}} ++
+
+  I know, I know I've let you down
+  알아요, 당신을 실망시켰다는걸
+  
+  I've been a fool to myself
+  스스로생각해도 정말 바보같았죠
+  
+  I thought that I could
+  난 생각했죠 내가
+  
+  live for no one else
+  누군가를 위해선 살 수 없을거라고
+  
+  But now through all the hurt & pain
+  하지만 갖은 상처와 아픔을 겪은 지금은
+  
+  It's time for me to respect
+  저도 기대하게 되요
+  
+  the ones you love
+  당신이 사랑해주기를
+  
+  mean more than anything
+  다른 어떤 것보다 더 말예요
+  
+
+  So with sadness in my heart
+  그렇기에 더욱 슬픈 마음으로
+  
+  (I) feel the best thing I could do
+  난 생각해요, 내가 할수있는 최선은
+  
+  is end it all
+  모든걸 끝내고
+  
+  and leave forever
+  영원히 떠나는 거라고
+  
+  what's done is done it feels so bad
+  지난 일은 지난 일일 뿐이예요 그래서 더 유감스러워요
+  
+  what once was happy now is sad
+  행복했던 순간도 이제는 슬픔이기에
+  
+  I'll never love again
+  다시는 사랑을 하지 않겠어요
+  
+  my world is ending
+  나의 세상은 끝이예요
+
+
+  I wish that I could turn back time
+  시간을 되돌릴 수 있으면 좋겠어요
+  
+  cos now the guilt is all mine
+  모든 잘못은 내게 있기에
+  
+  can't live without
+  살아갈 수 없어요
+  
+  the trust from those you love
+  당신의 사랑이라는 믿음없이는요
+  
+  I know we can't forget the past
+  우리의 지난 날을 잊을 수 없는 건 알아요
+  
+  you can't forget love & pride
+  당신도 사랑과 긍지를 잊을수 없겠죠
+  
+  because of that, it's kill'in me inside
+  그렇기에 죄책감이 내안에서 나를 좀먹어가요
+
+
+  It all returns to nothing, it all comes
+  그 모든게 무(無)로 돌아가고, 그리고
+  
+  tumbling down, tumbling down,
+  무너져 내려요, 무너져 내려요
+  
+  tumbling down
+  무너져 내리고 있어요
+
+
+  It all returns to nothing, I just keep
+  그 모든게 무(無)로 돌아가고, 난 계속
+  
+  letting me down, letting me down,
+  스스로에게 실망해요, 실망해요
+  
+  letting me down
+  실망해요
+
+
+  In my heart of hearts
+  내 마음 속의 진심은
+  
+  I know that I called never love again
+  다시는 사랑을 입에 담지 않으리란 걸 알아요
+  
+  I've lost everything
+  나는 모든걸 잃었어요
+  
+  everything
+  모든것,
+  
+  everything that matters to me, matters
+  나에게 의미있는 모든것, 이 세상의 의미있는
+  
+  in this world
+  모든 것을요
+
+
+  I wish that I could turn back time
+  시간을 되돌릴 수 있으면 좋겠어요
+  
+  cos now the guilt is all mine
+  모든 잘못은 내게 있기에
+  
+  can't live without
+  살아갈 수 없어요
+  
+  the trust from those you love
+  당신의 사랑이라는 진실없이는요
+  
+  I know we can't forget the past
+  우리의 지난 날을 잊을 수 없는 건 알아요
+  
+  you can't forget love & pride
+  당신도 사랑과 긍지를 잊을수 없겠죠
+  
+  because of that, it's kill'in me inside
+  그렇기에 죄책감이 내안에서 나를 좀먹어가요
+
+
+  It all returns to nothing, it all comes
+  그 모든게 무(無)로 돌아가고, 그리고
+  
+  tumbling down, tumbling down,
+  무너져 내려요, 무너져 내려요
+  
+  tumbling down
+  무너져 내리고 있어요
+
+
+  It all returns to nothing, I just keep
+  그 모든게 무(無)로 돌아가고, 난 계속
+  
+  letting me down, letting me down,
+  스스로에게 실망해요, 실망해요
+  
+  letting me down
+  실망해요
+
+
+  It all returns to nothing, it all comes
+  그 모든게 무(無)로 돌아가고, 그리고
+  
+  tumbling down, tumbling down,
+  무너져 내려요, 무너져 내려요
+  
+  tumbling down
+  무너져 내리고 있어요
+
+
+  It all returns to nothing, I just keep
+  그 모든게 무(無)로 돌아가고, 난 계속
+  
+  letting me down, letting me down,
+  스스로에게 실망해요, 실망해요
+  
+  letting me down
+  실망해요
+
+
+==== 甘き死よ、来たれ　(일본어 원안) ====
+
+안노히데아키 본인이 직접 쓴, 사실상 원안의 가사. 영어 버전과 비교하면 가사가 거의 굴파고 들어가는 분위기다. 기본적인 이야기 자체는 동일하지만 영문으로 만들어진 가사에 비해서 훨씬 직선적이고 괴로움으로부터 해방되기 위해 죽어 사라지자는 메시지를 담고 있다.
+
+안노가 만약 이 때 감성 그대로 살았으면 미쳐버리지 않았을까 걱정되는 가사다. 하지만 이제는 결혼해서 정신차리고 멀쩡한 인간이 되어가는 안노에게 건배.
+
+물론 이 노래는 영어로 되어있는 곡이기  때문에 이 가사는 원안일 뿐이다. 노래에 맞춰서 부를 수는 없다.
+
+  不安なの。
+  불안해요
+  
+  不安なの。
+  불안해요
+  
+  みんなに嫌われるのが、怖い。
+  모두에게 미움받는 것이, 두려워요
+  
+  自分が傷つくのが、怖い。
+  스스로가 상처입는 것이, 두려워요
+  
+  でも、ヒトを傷つけるのが、もっと怖い。
+  하지만, 남을 상처입히는 것이, 훨씬 두려워요
+  
+  でも、傷つけてしまう。
+  하지만, 상처입히고 말아요
+  
+  好きなヒトを傷つけてしまう。
+  좋아하는 사람을 상처입히고 말아요
+  
+  だから、ヒトを好きにならない。
+  그러니, 타인을 좋아할 수 없어요
+  
+  だから、自分を傷つけるの。
+  그러니, 스스로를 상처입히겠어요
+
+
+  嫌いだから。
+  싫어하니까
+  
+  だいっキライだから。
+  정말 너무 싫으니까
+  
+  好きになっては、いけないの。
+  좋아져서는, 안되는거라고
+  
+  だから、自分を傷つける。
+  그러니까, 스스로를 상처입혀요
+
+
+  優しさはとても残酷
+  상냥함이란 정말로 잔혹하죠
+  
+  心を委ねたら、私は壊れてしまう
+  마음을 허락하면, 나는 망가져버려요
+  
+  心が触れ合えば、あの人は傷つく
+  마음이 고장나버리면, 그 사람은 상처받겠죠
+  
+  だから、私は壊れるしかない
+  그러니, 저는 떠날 수 밖에 없어요
+  
+  無へと還るしかない
+  무(無)로 돌아갈 수 밖에 없어요
+
+
+  無へと還ろう　無へと還ろう
+  무로 돌아가요, 무로 돌아가요
+  
+  それは、優しさに満ち満ちたところ
+  그것은, 상냥함으로 가득차 넘치는 곳
+  
+  そこは、真実の痛みのないところ
+  그곳은, 정녕 아픔이 없는 곳
+  
+  心の揺らぎのないところ
+  마음 흔들리는 일이 없는 곳
+
+
+  無へと還ろう　無へと還ろう
+  무로 돌아가요 무로 돌아가요
+  
+  他人のいない無へと還ろう
+  타인이 없는 무로 돌아가요
+  
+  無へと還ろう　無へと還ろう
+  무로 돌아가요 무로 돌아가요
+  
+  傷つく事のない無へと還ろう･･･
+  상처입을 일 없는 무로 돌아가요...
+
+
+{{tag>가사 애니음악 신세기_에반게리온 에반게리온 에바 End_of_Evangelion 신세기_에반게리온-극장판 삽입곡 Mike_WYZGOWSKI 안노_히데아키 사기스_시로 ARIANNE 발라드 얼터너티브락}}

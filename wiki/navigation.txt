@@ -1,0 +1,9 @@
+====== 넥스32 위키 전체 사이트맵 ======
+
+이곳은 위키 내부의 모든 페이지를 보여주는 공간입니다. 찾는 페이지가 있다면 이곳에서 검색해봅시다~
+
+도쿠위키 특성상 한글 분류가 좀 이상하게 되어있긴 합니다만, 페이지 전체를 찾아보는데는 별 지장이 없습니다. ^^
+
+  * 총 페이지 수: {{wikistatistics>type=pages}}
+
+{{pagequery>*;sort=ns,a,name;layout=column;group;proper;cols=2;title}}

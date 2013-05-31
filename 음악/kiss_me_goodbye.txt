@@ -1,0 +1,168 @@
+====== kiss me goodbye(키스 미 굿바이) ======
+===== 파이널판타지12 엔딩 =====
+---- datatemplateentry music ----
+곡명			: Kiss me goodbye
+한국어명		: 키스 미 굿바이
+수록작_titles		: 게임:파이널판타지12
+수록앨범_albums		: SCL-2808_9 | 안젤라 아키 싱글 'Kiss me goodbye' DVD포함 초회한정판, ESCL-2810 | 안젤라 아키 싱글 'Kiss me goodbye' 일반판, ESCL-2848_9 | 안젤라 아키 앨범 'HOME' 초회한정판, ESCL-2850 | 안젤라 아키 앨범 'HOME' 일반판
+발매일_dts		: 2006-03-15
+
+작사_peoples		: 안젤라 아키 | 안젤라 아키(アンジェラ アキ)
+작곡_peoples		: 우에마츠 노부오 | 우에마츠 노부오(植松伸夫)
+편곡_peoples		: 우에마츠 노부오 | 우에마츠 노부오(植松伸夫), 안젤라 아키 | 안젤라 아키(アンジェラ アキ)
+부른이_peoples		: 안젤라 아키 | 안젤라 아키(アンジェラ アキ)
+----
+
+===== 상세설명 =====
+[[게임:파이널판타지12]]의 이미지송. 왕녀 아쉐와 그녀의 연인 라슬러의 안타까운 사랑을 회상하며 그리워하는 노래.
+
+이 노래는 [[사람:우에마츠 노부오]]가 [[사람:안젤라 아키]]에게 '내가 만든 곡이지만 가수로서가 아닌 싱어송 라이터로서의 어떤 표현이 하고 싶은지 보여줬으면 좋겠다'라고 주문해서 만들어진 곡이라고 한다. 그렇게 만들어진 곡에 녹음 직전에 편곡을 본 우에마츠 노부오가 '뭔가 좀 틀리다'며 수정을 가해서 현재의 형태로 완성되었다고 한다. 
+
+영문판이 완성된 이후에 안젤라 아키의 개인 앨범에 수록하기 위한 일본어 버전의 편곡이 나왔다. 안젤라 아키가 본토 사람이 아닌 것 때문인지 일본어 발음이 미묘한 것이 특징. 
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 영문판 원곡 ====
+
+  * ++ 영상보기 | {{youtube>FyrFP11qJ8U?medium}} ++
+
+  You say my love is all you need to see you through
+  당신은 저의 사랑이 당신이 아는 무엇보다 소중하다고 했지요
+  
+  But I know these words are not quite true
+  하지만 저는 그 말이 전부 사실이 아닌 걸 알아요
+  
+  Here is the path your looking for, an open door
+  여기에 당신이 찾던 길이 있어요
+  
+  Leading the worlds you long to explore
+  당신이 오랫동안 탐구하던 세계로 이끌어줄 열린 문이요...
+
+
+  Go if you must move on alone
+  가세요, 혼자서 떠나야만 한다면
+  
+  I'm gonna make it on my own
+  저도 스스로의 길을 가겠어요
+
+
+  Kiss me goodbye, love's memory
+  작별의 키스를 해주세요, 사랑의 추억으로
+  
+  Follow your heart and find your destiny
+  자신의 마음을 따라서 운명을 찾으세요
+  
+  Won't shed a tear for love's mortality
+  사랑이 끝날 운명이라해도 눈물은 흘리지 마세요
+  
+  For you put the dream in my reality
+  당신은 제 현실에서 꿈을 이뤄주세요
+
+
+
+  As time goes by I know you'll see; this of me
+  시간이 지나면 당신이 제 마음을 알거라 생각해요
+  
+  I loved you enough to let you go free
+  제가 당신을 자유롭게 해줄만큼 사랑했단걸요
+  
+  Go I will give you wings to fly
+  가세요, 당신에게 날 수 있는 날개를 드릴께요
+  
+  Cast all your fears into the sky
+  모든 두려움은 저 하늘로 날려버리고요
+
+
+  Kiss me goodbye for love's mystery
+  작별의 키스를 주세요, 사랑의 신비로서
+  
+  All of my life I'll hold you close to me
+  일생동안 당신을 제 곁에 둘 수 있게요
+  
+  Won't shed a tear for love's mortality
+  사랑이 끝날 운명이라해도 눈물은 흘리지 마세요
+  
+  For you put the dream in my reality
+  당신은 제 현실에서 꿈을 이뤄주세요
+
+
+  Kiss me goodbye love's memory
+  작별의 키스를 해주세요, 사랑의 추억으로
+  
+  You put the dream in my reality
+  당신은 제 현실에서 꿈을 이루세요
+
+
+==== 일본어 버전 ====
+안젤라 아키의 앨범에 삽입하기 위해 자신이 편곡을 담당한 곡. 일본어 버전이긴 하지만 이쪽은 게임에 삽입된 곡은 아니다. 일본어판에도 영문곡이 수록되어있기 때문. 어디까지나 원 곡을 안젤라 아키가 자신의 색으로 해석해서 만든곡.
+
+특이점을 들라면 뮤직비디오나 공개판에서 중간의 "愛した記憶" 부분부터 "~中にある"부분이 포함되어있지 않다. 앨범판에서만 풀 버전이 수록되어있으니 참고하자.
+
+타카하시 치아키가 아이돌마스터의 미우라 아즈사 버전으로 부른 것도 이 일본어 버전. 
+
+  * ++ 안젤라 아키 MV보기 | {{youtube>bsQxQz4PNeA?medium}} ++
+  * ++ 아이돌마스터 버전 | {{youtube>6KIIY6_PK9Q?medium}} ++
+
+  あなたは迷っていても
+  당신은 망설이고 있지만
+  
+  ドアは開いているよ
+  문은 열려 있어요
+  
+  二人の世界だけでは
+  두 사람의 세계만으로는
+  
+  滿たされないんでしょう？
+  채워지지 않는 거겠죠?
+
+
+  羽をあげるから信じて飛べばいい
+  날개를 드릴께요 믿고서 날아주세요
+  
+  Kiss me good-bye, love's memory
+  작별의 키스를 해주세요, 사랑의 추억으로
+  
+  あなたを失っても
+  당신을 잃더라도
+  
+  愛した記憶が强さに変わるから
+  사랑했던 기억이 힘이 될 테니까요
+
+
+  確かな物を探して
+  확실한 것을 찾아
+  
+  誰もが恋するが
+  누구나 사랑을하지만...
+  
+  搖るがない愛は自分の中にある
+  흔들림없는 사랑은 스스로의 안에 있어요
+  
+  Kiss me good-bye さようなら
+  작별의 키스를 해주세요, 안녕이예요
+  
+  新しい私に変わる
+  새로운 나로 변해갈게요
+
+
+  Kiss me good-bye, Kiss me good-bye...
+  작별의 키스를 해주세요...
+
+
+  Kiss me good-bye, love's memory
+  작별의 키스를 해주세요, 사랑의 추억으로
+  
+  新しい二人に変わるなら
+  새로운 두 사람으로 변해간다면
+  
+  Kiss me good-bye 泣かない
+  작별의 키스를 해주세요, 울지 않을께요
+  
+  あなたを愛せたから
+  당신을 사랑했으니까요
+  
+  あなたを愛せたから
+  당신을 사랑했으니까요
+
+{{tag>가사 게임음악 JPOP 삽입곡 엔딩송 파이널판타지 파이널판타지12 우에마츠_노부오 안젤라_아키 발라드}}

@@ -1,0 +1,98 @@
+====== Smile Again (다시 웃어요) ======
+===== 팔콤 보컬 컬렉션1 수록곡 Smile Again =====
+---- datatemplateentry music ----
+곡명			: Smile Again
+한국어명		: 다시 웃어요
+수록작_titles		: 게임:이스1
+수록앨범_albums		: KICA-1014_5 | PERFECT COLLECTION Ys II, KICA-1042_3 | FALCOM VOCAL COLLECTION I
+발매일_dts		: 1990-09-05
+
+작사_peoples		: 안도 요시히코 | 안도 요시히코(安藤芳彦)
+작곡_peoples		: TeamJDK
+편곡_peoples		: 신카와 히로시 | 신카와 히로시(新川博)
+부른이_peoples		: 미나미 쇼코 | 미나미 쇼코(南翔子)
+----
+
+===== 상세설명 =====
+팔콤의 역작 이스 1의 두번째 엔딩곡인 See you again을 편곡해서 가서를 붙인 곡. 템포를 약간 느리게 만든 것 만으로도 음악의 느낌이 훨씬 부드럽게 변했다.
+
+똑같은 See you again을 원곡으로 가지는 [[음악:미소의열쇠_微笑みの鍵]]보다 더 경쾌한 감각의 노래이다. 노래들의 가사를 바꿔 불러보면 재밌다.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 영상보기 | {{youtube>67EwFRNiwJc?medium}} ++
+
+  We don't cry anymore
+  더이상은 울지 않아요
+  
+  今は　涙なんて　似あわない　二人さ
+  지금은 눈물은 어울리지 않는 둘이니까요
+  
+  You never feel so blue
+  슬퍼하지 마세요
+  
+  We don't lose anymore
+  더이상은 지지 않을거에요
+  
+  いつか　会えるだろう　輝(かがや)く　夢の中で
+  언젠가 만나겠지요 반짝이는 꿈 속에서
+  
+  寂しい　夜は　Just call my name
+  외로운 밤에는 Just call my name
+  
+  名前を　呼んでみて
+  내 이름을 불러주세요
+  
+  涙をふいて　笑顔を見せて
+  눈물을 닦고 미소를 보여주세요
+  
+  君につたえる　See you again
+  그대에게 전할께요 See you again
+
+
+
+  You can get paradise
+  낙원으로 떠나요
+  
+  いつも　夢に見てた　楽園が近付く
+  언제나 꿈에서 보았던 낙원이 가까워요
+  
+  You're gonna find the way
+  길을 찾았으니
+  
+  You can do anything
+  무엇이든 해낼 수 있어요
+  
+  何も　おそれないと　自分に　約束した
+  무엇도 두려워않겠다고 자신에게 약속했어요
+  
+  嵐の夜は　Just call my name
+  폭풍의 밤에는 Just call my name
+  
+  思い出　抱きしめて
+  추억을 끌어안고서
+  
+  別れの予感　震える心
+  이별의 예감 떨리는 마음
+  
+  だけど　かならず　See you again
+  하지만 반드시 See you again
+  
+  悲しい　時は　Just call my name
+  슬플 때에는 Just call my name
+  
+  名前を　呼んでみて
+  내 이름을 불러줘요
+  
+  涙をふいて　笑顔を見せて
+  눈물을 닦고 미소를 보여주세요
+  
+  君につたえる　See you again
+  그대에게 전하는 See you again
+  
+  Yes I will
+  Yes I will!
+
+
+{{tag>가사 게임음악 팔콤 이스 이스1 이미지송 안도_요시히코 TeamJDK 신카와_히로시 미나미_쇼코 발라드}}

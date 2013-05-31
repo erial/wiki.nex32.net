@@ -1,0 +1,56 @@
+====== 배트맨 : 아캄 수용소(Batman: Arkham Asylum) ======
+
+===== 도전과제 정보 =====
+
+<sortable>
+^  아이콘  ^  공개여부  ^  트로피 항목  ^  등급  ^  과제 설명 및 공략법  ^
+|{{:도전과제:배트맨_아캄_수용소:1icligjhbc9ffqucxfbrgey2l2fjac8wlzeaaaaa5_fn_3z25q_.jpg|}}|비밀|Shocking Rescue\\ 충격적 구출|10 G|Take down Zsasz in the Patient Pacification Chamber\\ 죄수 구속실에서 자즈를 쓰러뜨린다|
+|{{:도전과제:배트맨_아캄_수용소:1ocligjhbc9gfqucxfbrgey2l2fjac8wlziaaaaa5_fn_v3-ua_.jpg|}}|비밀|Leave No Man Behind\\ 모두를 구하라|10 G|Rescue the guards and henchman from the Joker toxin in Decontamination\\ 오염 제거실에 가득 찬 조커 독가스로부터 간수와 졸개를 구한다|
+|{{:도전과제:배트맨_아캄_수용소:14cligjhbc9hfqucxfbrgey2l2fjac8wlzmaaaaa5_fn_l0hww_.jpg|}}|비밀|Malpractice Needs More Practice\\ 연습 필수|10 G|Survive the onslaught from the deformed Joker henchman\\ 변신한 조커의 졸개가 습격해 오는 데에서 살아남는다|
+|{{:도전과제:배트맨_아캄_수용소:0ocligjhbc9afqucxfbrgey2l2fjac8wlzqaaaaa5_fn-r-sog_.jpg|}}|비밀|Born Free\\ 자유인|10 G|Escape from Intensive Treatment to the island surface\\ 집중 치료실에서 지상으로 탈출한다|
+|{{:도전과제:배트맨_아캄_수용소:04cligjhbc9bfqucxfbrgey2l2fjac8wlzuaaaaa5_fn-p8uqq_.jpg|}}|비밀|Just What The Doctors Ordered\\ 의사가 주문했던 것|10 G|Save all the doctors in Medical\\ 의료 시설 안의 의사를 모두 구한다|
+|{{:도전과제:배트맨_아캄_수용소:0ycligjhbc9cfqucxfbrgey2l2fjac8wlzyaaaaa5_fn-t4dha_.jpg|}}|비밀|Daydreamer\\ 백일몽을 꾸는 자|10 G|Survive the nightmare of the Scarecrow's fear gas\\ 스케어크로우의 공포 가스로 인한 악몽에서 살아남는다|
+|{{:도전과제:배트맨_아캄_수용소:0icligjhbc9dfqucxfbrgey2l2fjac8wlzcaaaaa5_fn-z7ljw_.jpg|}}|비밀|Baneful Payback\\ 사악한 앙갚음|25 G|Defeat Bane\\ 베인을 격파한다|
+|{{:도전과제:배트맨_아캄_수용소:04cligjhbc9mfqucxfbrgey2l2fjac8wlzgaaaaa5_fn-bnxgq_.jpg|}}|비밀|Breaking And Entering\\ 열쇠 따고 들어가기|10 G|Gain access to Arkham Mansion after it is locked down by the Joker\\ 조커가 아캄 맨션을 잠근 뒤에 안으로 들어간다|
+|{{:도전과제:배트맨_아캄_수용소:0ocligjhbc9nfqucxfbrgey2l2fjac8wlzkaaaaa5_fn-fkjeg_.jpg|}}|비밀|Recurring Nightmare\\ 거듭되는 악몽|10 G|Face your biggest fears and keep your sanity\\ 최악의 공포에 직면하여 제정신을 유지한다|
+|{{:도전과제:배트맨_아캄_수용소:0ycligjhbc81fqucxfbrgey2l2fjac8wl0eaaaaa5_fn-kfk0w_.jpg|}}|비밀|Zsasz Cut Down To Size\\ 자즈 제압|10 G|Save Dr. Young from being killed by Victor Zsasz\\ 빅터 자즈가 영 박사를 살해하기 전에 구해 낸다|
+|{{:도전과제:배트맨_아캄_수용소:04cligjhbc82fqucxfbrgey2l2fjac8wl0iaaaaa5_fn-gbtzg_.jpg|}}|비밀|Solitary Confinement\\ 독방 감금|25 G|Capture and lock up Harley Quinn\\ 할리 퀸을 붙잡아서 가둔다|
+|{{:도전과제:배트맨_아캄_수용소:0ocligjhbc83fqucxfbrgey2l2fjac8wl0maaaaa5_fn-yyv9q_.jpg|}}|비밀|Double Trouble\\ 골칫거리 두 배|25 G|Defeat two Titan Henchmen at once\\ 두 명의 타이탄 병사를 한 번에 해치운다|
+|{{:도전과제:배트맨_아캄_수용소:14cligjhbc8wfqucxfbrgey2l2fjac8wl0qaaaaa5_fn_ct_da_.jpg|}}|비밀|Resist The Fear\\ 공포에 견뎌라|50 G|Conquer the effects of the Scarecrow's fear gas\\ 스케어크로우의 공포 가스가 가진 효과를 이겨낸다|
+|{{:도전과제:배트맨_아캄_수용소:1ocligjhbc8xfqucxfbrgey2l2fjac8wl0uaaaaa5_fn_cqgnw_.jpg|}}|비밀|Crocodile Tears\\ 악어 눈물|50 G|Venture into Killer Croc's lair and come out alive\\ 킬러 크록의 소굴로 들어가서 살아 나온다|
+|{{:도전과제:배트맨_아캄_수용소:1icligjhbc8yfqucxfbrgey2l2fjac8wl0yaaaaa5_fn_upkg_.jpg|}}|비밀|Poisoned Ivy\\ 독이 든 덩쿨나무|50 G|Defeat the giant Titan Ivy plant\\ 거대한 타이탄 아이비 나무에 승리한다|
+|{{:도전과제:배트맨_아캄_수용소:1ocligjhbc9ecxodg1ttvky2l2fjac8wlzewaaaaaofn5-kubsk_.jpg|}}|공개|Big Bang\\ 빅뱅|50 G|Complete story mode on Easy difficulty\\ 쉬움 난이도로 스토리 모드를 완료한다|
+|{{:도전과제:배트맨_아캄_수용소:0icligjhbc81cbodg1ttvky2l2fjac8wlzjbaaaaaofn5--ntyu_.jpg|}}|공개|Bigger Bang\\ 더 큰 빅뱅|50 G|Complete story mode on Normal difficulty\\ 보통 난이도로 스토리 모드를 완료한다|
+|{{:도전과제:배트맨_아캄_수용소:14cligjhbc9fcxodg1ttvky2l2fjac8wlzexaaaaaofn5-jolbo_.jpg|}}|공개|Biggest Bang\\ 가장 큰 빅뱅|50 G|Complete story mode on Hard difficulty\\ 어려움 난이도로 스토리 모드를 완료한다|
+|{{:도전과제:배트맨_아캄_수용소:1ycligjhbc9fcbodg1ttvky2l2fjac8wlzixaaaaaofn5-rcprm_.jpg|}}|공개|Arkham Analyst\\ 아캄 분석가|20 G|Solve 5% of Riddler challenges\\ 리들러 챌린지를 5% 해결한다|
+|{{:도전과제:배트맨_아캄_수용소:14cligjhbc9gcbodg1ttvky2l2fjac8wlziyaaaaaofn5-j9rky_.jpg|}}|공개|Cryptic Investigator\\ 수수께끼 조사관|20 G|Solve 10% of Riddler challenges\\ 리들러 챌린지를 10% 해결한다|
+|{{:도전과제:배트맨_아캄_수용소:14cligjhbc8xcbodg1ttvky2l2fjac8wlzjfaaaaaofn5-hkvwk_.jpg|}}|공개|Lateral Thinker\\ 유연한 사상가|20 G|Solve 25% of Riddler challenges\\ 리들러 챌린지를 25% 해결한다|
+|{{:도전과제:배트맨_아캄_수용소:1ocligjhbc9hcbodg1ttvky2l2fjac8wlzizaaaaaofn5-kdvdu_.jpg|}}|공개|Mystery Solver\\ 미스테리 해결사|20 G|Solve 40% of Riddler challenges\\ 리들러 챌린지를 40% 해결한다|
+|{{:도전과제:배트맨_아캄_수용소:04cligjhbc9acbodg1ttvky2l2fjac8wlzi0aaaaaofn5-y-v8w_.jpg|}}|공개|Conundrum Cracker\\ 난제 해결 전문가|20 G|Solve 55% of Riddler challenges\\ 리들러 챌린지를 55% 해결한다|
+|{{:도전과제:배트맨_아캄_수용소:0ocligjhbc9bcbodg1ttvky2l2fjac8wlzi1aaaaaofn5-1fr18_.jpg|}}|공개|Mental Athlete\\ 지적 운동의 전문가|20 G|Solve 70% of Riddler challenges\\ 리들러 챌린지를 70% 해결한다|
+|{{:도전과제:배트맨_아캄_수용소:0icligjhbc9ccbodg1ttvky2l2fjac8wlzi2aaaaaofn5-9_tuo_.jpg|}}|공개|Riddle Resolver\\ 수수께끼 해결사|20 G|Solve 85% of Riddler challenges\\ 리들러 챌린지를 85% 해결한다|
+|{{:도전과제:배트맨_아캄_수용소:1icligjhbc9ecbodg1ttvky2l2fjac8wlziwaaaaaofn5-s8xya_.jpg|}}|공개|Crack The E Nigma\\ E 니그마 격파|20 G|Solve every riddle on the island\\ 섬의 모든 수수께끼를 해결한다|
+|{{:도전과제:배트맨_아캄_수용소:0ocligjhbc82cbodg1ttvky2l2fjac8wlzjcaaaaaofn5-3gvpa_.jpg|}}|공개|World's Greatest Detective\\ 세계 제일의 탐정|20 G|Spirit of Amadeus Arkham revealed\\ 아마데우스 아캄의 유지를 이은 자의 정체를 안다|
+|{{:도전과제:배트맨_아캄_수용소:0icligjhbc9bcxodg1ttvky2l2fjac8wlze1aaaaaofn5-9nd-y_.jpg|}}|공개|Night Glider\\ 나이트 글라이더|5 G|Glide continuously for over 100m\\ 100미터 이상을 활강한다|
+|{{:도전과제:배트맨_아캄_수용소:1ycligjhbc9gcxodg1ttvky2l2fjac8wlzeyaaaaaofn5-rvna8_.jpg|}}|공개|Party Pooper\\ 파티 망치기|10 G|KO all the henchmen celebrating your arrival at the party\\ 파티에 온 것을 축하하는 모든 졸개를 쓰러뜨린다|
+|{{:도전과제:배트맨_아캄_수용소:04cligjhbc83cbodg1ttvky2l2fjac8wlzjdaaaaaofn5-wmrgm_.jpg|}}|공개|Freeflow Combo 5\\ 프리플로우 콤보 5|5 G|Complete a combo of 5 moves (any play mode) \\ 5 콤보를 성공시킨다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:04cligjhbc9dcxodg1ttvky2l2fjac8wlze3aaaaaofn5-ymhta_.jpg|}}|공개|Freeflow Combo 10\\ 프리플로우 콤보 10|5 G|Complete a combo of 10 moves (any play mode)\\ 10 콤보를 성공시킨다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:1icligjhbc9hcxodg1ttvky2l2fjac8wlzezaaaaaofn5-spzjw_.jpg|}}|공개|Freeflow Combo 20\\ 프리플로우 콤보 20|10 G|Complete a combo of 20 moves (any play mode)\\ 20 콤보를 성공시킨다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:0ycligjhbc9acxodg1ttvky2l2fjac8wlze0aaaaaofn5-6tj2u_.jpg|}}|공개|Freeflow Combo 40\\ 프리플로우 콤보 40|10 G|Complete a combo of 40 moves (any play mode)\\ 40 콤보를 성공시킨다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:0ocligjhbc9ccxodg1ttvky2l2fjac8wlze2aaaaaofn5-1sfkm_.jpg|}}|공개|Freeflow Perfection\\ 완벽한 프리플로우|10 G|Perform a perfect combo including all of Batman's combat moves (any play mode)\\ 배트맨의 모든 기술을 넣은 콤보를 성공시킨다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:0ycligjhbc9dcbodg1ttvky2l2fjac8wlzi3aaaaaofn5-6etnk_.jpg|}}|공개|Catch!\\ 캐치!|5 G|Catch a Batarang (any play mode)\\ 배트랑을 붙잡는다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:0ocligjhbc9mcbodg1ttvky2l2fjac8wlzi4aaaaaofn5-25onc_.jpg|}}|공개|Rope-A-Dope-A-Dope\\ 로퍼 도퍼 도프|10 G|String up one henchman and drop him to surprise a second (any play mode)\\ 졸개를 하나 매단 후에 떨어뜨려서 다른 졸개를 놀라게 한다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:0icligjhbc9mcxodg1ttvky2l2fjac8wlze4aaaaaofn5-_rkt4_.jpg|}}|공개|Freakshow Rodeo\\ 괴수 로데오|10 G|Ride Titan henchman and knock down 10 thugs (any play mode)\\ 타이탄 병사에 올라타서 10명의 적을 쓰러뜨린다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:04cligjhbc9ncbodg1ttvky2l2fjac8wlzi5aaaaaofn5-xzwuq_.jpg|}}|공개|Mano-A-Mano\\ 일 대 일|10 G|Defeat Titan henchman without using Batarangs (any play mode)\\ 배트랑을 쓰지 않고 타이탄 병사를 쓰러뜨린다 (게임 모드 제한 없음)|
+|{{:도전과제:배트맨_아캄_수용소:14cligjhbc8ycxodg1ttvky2l2fjac8wlzfgaaaaaofn5-hxbhu_.jpg|}}|공개|Flawless Freeflow Fighter\\ 최강 프리플로우 전사|10 G|Complete one combat challenge without taking damage\\ 한 대도 맞지 않고 하나의 컴뱃 챌린지를 완수한다|
+|{{:도전과제:배트맨_아캄_수용소:1ycligjhbc8xcxodg1ttvky2l2fjac8wlzffaaaaaofn5-p2zca_.jpg|}}|공개|Invisible Predator\\ 보이지 않는 포식자|10 G|Complete one predator challenge by using only Silent Takedowns and without being detected\\ 사일런트 테이크다운만 사용하여, 들키지 않고 하나의 프레데터 챌린지를 완수한다|
+|{{:도전과제:배트맨_아캄_수용소:1ocligjhbc8wcbodg1ttvky2l2fjac8wlzjeaaaaaofn5-merfo_.jpg|}}|공개|Freeflow Bronze\\ 프리플로우 동메달|10 G|Achieve 8 medals on combat challenges\\ 컴뱃 챌린지에서 8개의 메달을 딴다|
+|{{:도전과제:배트맨_아캄_수용소:0ycligjhbc9ncxodg1ttvky2l2fjac8wlze5aaaaaofn5-5lak0_.jpg|}}|공개|Freeflow Silver\\ 프리플로우 은메달|25 G|Achieve 16 medals on combat challenges\\ 컴뱃 챌린지에서 16개의 메달을 딴다|
+|{{:도전과제:배트맨_아캄_수용소:0ocligjhbc81cxodg1ttvky2l2fjac8wlzfbaaaaaofn5-31h4w_.jpg|}}|공개|Freeflow Gold\\ 프리플로우 금메달|50 G|Achieve 24 medals on combat challenges\\ 컴뱃 챌린지에서 24개의 메달을 딴다|
+|{{:도전과제:배트맨_아캄_수용소:0icligjhbc82cxodg1ttvky2l2fjac8wlzfcaaaaaofn5--ujjk_.jpg|}}|공개|Predator Bronze\\ 프레데터 동메달|10 G|Achieve 8 medals on predator challenges\\ 프레데터 챌린지에서 8개의 메달을 딴다|
+|{{:도전과제:배트맨_아캄_수용소:0ycligjhbc83cxodg1ttvky2l2fjac8wlzfdaaaaaofn5-40dqo_.jpg|}}|공개|Predator Silver\\ 프레데터 은메달|25 G|Achieve 16 medals on predator challenges\\ 프레데터 챌린지에서 16개의 메달을 딴다|
+|{{:도전과제:배트맨_아캄_수용소:1icligjhbc8wcxodg1ttvky2l2fjac8wlzfeaaaaaofn5-uwnvm_.jpg|}}|공개|Predator Gold\\ 프레데터 금메달|50 G|Achieve 24 medals on predator challenges\\ 프레데터 챌린지에서 24개의 메달을 딴다|
+|{{:도전과제:배트맨_아캄_수용소:1ycligjhbc8ycbodg1ttvky2l2fjac8wlzjgaaaaaofn5-pfxnw_.jpg|}}|공개|Perfect Knight\\ 퍼펙트 나이트|75 G|100% Complete\\ 100%를 달성한다|
+</sortable>
+
+{{tag>게임 도전과제 엑스박스360 xbox360 배트맨 아캄수용소}}

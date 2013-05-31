@@ -1,0 +1,216 @@
+====== Down under (아래쪽 땅) ======
+===== Men at work 1집 수록곡 =====
+---- datatemplateentry music ----
+곡명			: Down under
+한국어명		: 아래쪽 땅
+수록작_titles		: 
+수록앨범	: Men at work - Business as Usual
+발매일_dts		: 1982-10-23
+
+작사		: 콜린 헤이(Colin Hay), 론 스트라이커트(Ron Strykert)
+작곡		: 콜린 헤이(Colin Hay), 론 스트라이커트(Ron Strykert)
+편곡		: 콜린 헤이(Colin Hay), 론 스트라이커트(Ron Strykert)
+부른이_peoples		: Men at work
+----
+
+===== 상세설명 =====
+Down Under(아래쪽)이라는 표현은 남반구, 주로 호주와 뉴질랜드를 가리키는 표현으로, 영국을 비롯한 유럽에서 사용하던 표현이다. 이는 영국의 죄수들을 귀양보내는 곳이었던 오스트레일리아와 뉴질랜드의 과거에 남겨진 특성탓에 유럽에서는 오랫동안 남반구의 땅에대한 멸시와 천시가 이어졌다. 이 노래는 그러한 멸시와 천시를 받아온 이민 1세대와 그 후손들의 뼈에저린 아픔과 애환을 그대로 담은 곡으로 1982년 Men at work의 첫 앨범 Business as usual에 수록되어 선을 보였으며 1983년에는 미국 빌보드 챠트에서도 1위를 기록할 정도의 큰 인기를 끌었다. 
+
+가사는 첫 소절부터 '고장난 차를 타고 약에 쩔어서 돌아다니는 인간들이 가득한'동네인 것처럼 호주를 묘사하며 호주를 멸시하는 시선을 차갑게 후려치며 시작해서 가사 전반이 슬랭으로 이루어져있어 표면적인 가사만으로 이해하는데는 큰 위화감이 따르는 곡이다. 슬랭을 번역하면 차마 공개적으로 불러도 되는 곡인지에 대해서 심각하게 고민해보게 될법하다. 가사 전반이 호주인에 대한 편견을 아무렇지 않게 말하며 범죄자 취급하는 전세계 사람들의 메시지를 담고있다. 
+
+황무지로 가득한 호주는 대부분의 거주지가 바닷가에 몰려있을 정도로 척박한 땅으로 이루어져 있는 곳으로, 이 곳에 유배를 왔건 이민을 왔건 살아남기 위해서는 열심히 일하지 않으면 생존 자체가 위협을 받을만한 곳이었기에 호주의 전통적 덕목 중 최고로 치는 것이 '근면'이라고 할 정도이다. 이는 이 노래를 부른 그룹 'Men at work(일하는 사람)'에서도 읽을 수 있는 메시지로, 그룹명부터 노래 내용까지 호주를 대표하는 내용으로 이루어진 곡이다. 그 노력으로 현재에 이르렀음에도 과거의 이미지로 오랫동안 남아있는 멸시와 천시의 기억과 오스트레일리아의 사람들의 한을 담은 곡이다.
+
+반대로 음악과 뮤직비디오는 유머러스한 분위기를 시종일관 보여주면서 반어적인 모습을 보이며 사람들을 미소짓게하는 것이 특징으로, 이러한 유머러스한 분위기는 Men at work의 개성으로서 계속해서 유지되게 된다.
+
+이 곡은 2000년 시드니 올림픽 폐막식에서도 공연에서 불리울 정도로 오스트레일리아를 대표하는 곡 중 하나이다.
+
+국내에서는 발음의 특이함을 이용해서 개그화시킨 [[#식섭송]]으로 개그 프로그램에서 소개한 이래로 식섭송으로 널리 알려져 있는데, 발음이 좀 특이하긴 하지만 해당 가사의 내용은 원 곡과는 아무런 관계도 없으니 그냥 한번 웃고 말도록 하자.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 원곡 ====
+
+  * ++ Down under 뮤직비디오 | {{youtube>xhnn6yb4Mmc?medium}} ++
+
+  Traveling in a fried-out Kombie 
+  오버히트된 폭스바겐 콤비를 타고
+  
+  On a hippie trail, head full of zombie 
+  마리화나에 취해 히피스럽게 여행하는 도중에
+  
+  I met a strange lady, she made me nervous 
+  낯선 여자를 만났지, 그녀는 날 긴장케 했네
+  
+  She took me in and gave me breakfast 
+  그녀는 날 초대해 아침 식사를 대접했지
+  
+  And she said, 
+  그리고 그녀는 말했네
+
+
+  "Do you come from a land down under? 
+  당신은 저 아래에 있는 땅에서 왔나요? 
+  
+  Where women glow and men plunder? 
+  빛나는 여성을 남자들이 약탈하는 곳?
+  
+  Can't you hear, can't you hear the thunder? 
+  저 소리 안들려요? 저 천둥소리?
+  
+  You better run, you better take cover." 
+  도망치세요, 어디에 숨어요."
+
+
+  Buying bread from a man in Brussels 
+  브뤼셀의 남자에게서 빵을 샀네
+  
+  He was six foot four and full of muscles 
+  그는 6피트 4인치의 근육질 거구였네
+  
+  I said, "Do you speak-a my language?" 
+  난 말했지 "우리나라 말 할줄 아시오?" 
+  
+  He just smiled and gave me a vegemite sandwich 
+  그는 웃으며 내게 베지마이트 샌드위치를 줬지
+  
+  And he said, 
+  그리고 그는 말했네
+
+
+  "I come from a land down under 
+  "난 저 아래 땅에서 왔소
+  
+  Where beer does flow and men chunder 
+  맥주가 강처럼 흐르고 남자들이 구토할때까지 마시는곳
+  
+  Can't you hear, can't you hear the thunder? 
+  저 소리 안들리나? 저 천둥소리가 안들려?
+  
+  You better run, you better take cover." 
+  당장 튀어가, 당장 숨으라고."
+
+
+  Lying in a den in Bombay 
+  봄베이의 아편굴에 누워서
+  
+  With a slack jaw, and not much to say 
+  축 늘어져 아무말도 없이 있을 때
+  
+  I said to the man, "Are you trying to tempt me 
+  옆의 남자에게 말했지 "나한테 약을 또 권하는거요?
+  
+  Because I come from the land of plenty?" 
+  내가 풍족한 땅에서 왔단 이유로?"
+  
+  And he said, 
+  그리고 그가 말했네
+
+
+  "Oh! Do you come from a land down under? (oh yeah yeah) 
+  "오! 당신 아래 땅에서 왔소? (오 그래 그래)
+  
+  Where women glow and men plunder? 
+  빛나는 여자를 남자들이 약탈하는 곳?
+  
+  Can't you hear, can't you hear the thunder? 
+  저 소리 안들리나? 저 천둥소리가 안들려?
+  
+  You better run, you better take cover." 
+  당장 꺼져, 당장 숨으라고."
+
+
+  Living in a land down under
+  우리는 아래 땅 위에 살아가네
+  
+  Where women glow and men plunder
+  "빛나는 여자를 남자들이 약탈"하는 곳
+  
+  Can't you hear, can't you hear the thunder?
+  저 소리 안들리나? 저 천둥소리가 안들려?
+  
+  You better run, you better take cover
+  당장 도망가, 당장 숨으라고
+
+
+  Living in a land down under
+  우리는 아래 땅 위에 살아가네
+  
+  Where women glow and men plunder
+  "빛나는 여자를 남자들이 약탈"하는 곳
+  
+  Can't you hear, can't you hear the thunder?
+  저 소리 안들리나? 저 천둥소리가 안들려?
+  
+  You better run, you better take cover
+  당장 도망가, 당장 숨으라고
+
+
+  Living in a land down under
+  우리는 아래 땅 위에 살아가네
+  
+  Where women glow and men plunder
+  "빛나는 여자를 남자들이 약탈"하는 곳
+  
+  Can't you hear, can't you hear the thunder?
+  저 소리 안들리나? 저 천둥소리가 안들려?
+  
+  You better run, you better take cover
+  당장 도망가, 당장 숨으라고
+
+
+  Living in a land down under
+  우리는 아래 땅 위에 살아가네
+  
+  Where women glow and men plunder
+  "빛나는 여자를 남자들이 약탈"하는 곳
+  
+  Can't you hear, can't you hear the thunder?
+  저 소리 안들리나? 저 천둥소리가 안들려?
+  
+  You better run, you better take cover
+  당장 도망가, 당장 숨으라고
+
+>Vegimite : 호주 특유의 소스인 '베지마이트'를 지칭한다.
+
+==== 식섭송 ====
+[[용어:몬드그린]] 현상을 이용한 개그로, 동 현상을 소재로 하던 프로그램인 [[TV:개그콘서트]]의 '박성호의 뮤직토크'코너에서도 소개되었다. 
+
+원래는 개인이 만든 것인데, 정확히 처음 만든 사람이 누구인지는 정확하게 알려지진 않고 있다.
+
+원곡과는 아무 상관없는 말장난이니 심각하게 받아들이지 말고 그냥 즐겨주도록 하자.
+
+  * ++ 식섭송 매드무비 | \\ {{:음악:down_under:5032.swf?400x246|식섭송}} ++
+
+<blockquote>
+>옛날 어느 한 마을에 개미와 배추로 만든 샌드위치를 파는 빵가게가 있었습니다. 
+>그 빵가게에는 어떤 배가 고픈 한 소년이 빵을 열심히 먹고 있었습니다. 
+>개미와 배추로 만든 샌드위치를 다 먹은 그 소년은 빵값을 내지 않고 도망가기 시작했 습니다. 
+>그 소년의 이름은 '식섭'이였고, 식섭이는 도망가면서 이렇게 소리칩니다.
+>>
+>>안불렀어,난 배 안불렀어
+>>>buying bread from a man in Brusells
+>
+>>식섭아,그럼 못써
+>>>He was six foot four and full of muscles
+>
+>>아저씨도 실컷 달라 그래
+>>>I said do you speak my language
+>
+>>잊을 수 없는 개미와 배추만의 그 샌드위치
+>>>He just smiled and gave me a vegimite sandwich
+>
+>>아 급하면 날러 날러
+>>>And he said I come from the land down under
+>
+>>늦었어 웬 말씀도
+>>>Where women glow and men thunder
+>
+>>아직 해야 될 건 해야 돼!날러
+>>>Can't you hear, can't you hear the thunder
+>
+>>돌아와 돌아와 컴온 얘야
+>>>You better run, you better take cover, yeah
+</blockquote>
+
+{{tag>가사 POP Men_at_work 식섭송 개그송 호주}}
