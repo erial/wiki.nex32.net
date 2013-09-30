@@ -1,1 +1,11 @@
 ====== PlayGround ======
+<WRAP 400px>
+<slider logo-bottom.png>
+<slider 게임:icon.png>
+<slider 게임기:duo-r.jpg>
+</slider>
+</WRAP>
+
+~~DISQUS~~
+
+{{tabinclude>wiki:recent,wiki:pagetree}}

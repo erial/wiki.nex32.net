@@ -1,0 +1,147 @@
+====== Ana ======
+===== 클라나드 삽입곡 =====
+---- datatemplateentry music ----
+곡명			: Ana
+한국어명		: 아나
+수록작_titles		: 게임:클라나드, 애니:클라나드
+수록앨범_albums		: KSLA-0012_4 | 클라나드 게임 OST, PCCA-90028 | Lia/LIA COLLECTION ALBUM -Special Limited Box, PCCA-90029 | Lia*COLLECTION ALBUM Vol.1 Diamond Days, QLCD-0007 | Lia/LIA COLLECTION ALBUM -Special Limited BOX 재판버전
+발매일_dts		: 2004-04-28
+
+작사_peoples		: 하기와라 유우 | 하기와라 유우(萩原ゆう)
+작곡_peoples		: (traditional)
+편곡_peoples		: 토고시 마고메 | 토고시 마고메(戸越まごめ)
+부른이_peoples		: Lia
+----
+
+===== 상세설명 =====
+클라나드의 후우코 루트의 절정에서 흘러나오는 곡. 아마 게임과 애니 등 클라나드를 감상한 사람이라면 모두들 손에 꼽을만한 명장면 중 하나일 것이다.(심지어 TV판은 후우코 편에 너무 시간을 많이 할애해 이야기 밸런스가 안맞을 정도) 잊혀져간다는 쓸쓸함, 그럼에도 소중한 이의 행복을 빌고자 했던 후우코의 따스함을 그대로 전하는 멜로디의 곡이라고 할 수 있을 것이다. 
+
+단 노래 자체는 진엔딩의 '그곳'을 암시하는 분위기의 곡으로, 오프닝인 [[음악:매그멜_メグメル|]]과는 다른 형태로 클라나드 전체의 이미지를 대표하는 곡이다. 
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 게임판 영상(내용누설! 플레이전에 보지마세요!) | \\ 노래는 9분 경 부터 \\ {{youtube>taJoXLtcDYo?medium}} ++
+  * ++ 애니판 영상(내용누설! 플레이전에 보지마세요!) | {{youtube>fZ72E_Ig7aQ?medium}} ++
+  * ++ 풀버전 영상 | {{youtube>q-GCy7oSLzk?medium}} ++
+
+  The place changes and goes, like a wind, like clouds
+  그곳은 변하며 흘러가요 마치 바람처럼, 마치 구름처럼...
+  
+  Like the traces of the heart, no halt at the places.
+  마음이 떠도는 것처럼, 그곳은 절대 멈추질 않아요
+
+
+  The place is so far away, be far apart
+  그곳은 너무나 멀고, 너무다 동떨어져있어요
+  
+  People's hand does not reach, so merely has (the) worship.
+  사람의 손이 닿지 않아, 그저 흠모하고 있을 뿐이죠
+
+
+  The place is a lofty lord, can't meet nobody put on
+  그곳은 너무나 원대하기에, 누구도 짊어질 수가 없어요
+  
+  We will lose the place, so lofty which changes.
+  그 원대한 변화에, 우린 그곳을 잃어버리겠지요
+
+
+  Not all were desired, however, we're never sad
+  누구도 바라지 않았지만, 우린 절대 슬프지 않아요
+  
+  Still, there is still the place, far away, far away.
+  지금도, 그곳은 있는 걸요, 저 멀리에, 저 멀리에
+
+
+  (The wind) blows through the place, an endless, with all
+  그곳을 바람이 지나가네요, 끝도 없이, 모든것을 품고
+  
+  Like the ripple float on the water, it blows as it goes.
+  마치 수면의 물결처럼, 사라지듯이 불어와요
+
+
+  The place is no make at all, nothing is shown
+  그곳은 아무런 꾸밈도 없이, 무엇도 보여주지 않아요
+  
+  Like the sand clasped by hand, it falls vainly.
+  손에 쥔 모래처럼, 그렇게 공허히 떨어져내리죠
+
+
+  The place is (a) profound lord, and wear the vain faint light
+  그곳은 너무나 깊은 곳, 덧없이 희미한 빛을 걸치고 있지요
+  
+  But we will find it in the place, the hut at which it stands still.
+  하지만 우리는 그곳을 찾아낼테지요, 오도카니 서있는 그 작은 오두막을...
+
+
+  If not concerned with all, it will maintain that no dye
+  설사 누구와도 이어지지 않는다면, 무색인 채로 남겠지요
+  
+  Therefore there is still the hut, it's lonely, solitary.
+  그렇기에 그곳엔 오두막이 있어요, 고독하게, 쓸쓸하게
+
+
+  No halt at the wind, it soars to the sky
+  바람에 멈춤이란 없어요, 하늘을 향해 날아올라가지요
+  
+  Like the verdure (which) meets with sunrise, it grows up as reborn.
+  초목이 햇살을 만나듯, 다시 태어나 자라나지요
+
+
+  The hut has held new one that's different from all
+  오두막에 새로운 이가 왔어요, 그것은 누구와도 다른 존재
+  
+  Like the sand castle of the children, but realized with the mind.
+  어린아이가 만든 모래성같은, 하지만 마음으로 실체화된 것
+
+
+  The person is a vain statue wear taciturnity calm
+  그 사람은 온화한 과묵함을 걸친 누더기 흉상이예요
+  
+  Still, we will know a huge flow, it is stopped by nobody.
+  우리는 커다란 흐름을 깨닫게 되겠죠, 누구도 멈출 수 없는...
+
+
+  Soon, the wind wears the snow cloud, will be dyed to snow-white
+  이윽고 바람은 눈구름을 걸치고서, 순백으로 물들게 될거예요
+  
+  Summer grass will incline, no sunlight, feebly shade.
+  여름의 초목은 쓰러지고, 해는 기울고, 희미한 그림자만 남겠죠
+
+
+  The place buried in deep snow, like the collapsing castle
+  그곳은 깊은 눈에 파묻혀요, 마치 무너지는 성처럼...
+  
+  Like the head of the shade, figure will be thrown away
+  그 그림자의 꼭데기처럼, 형태는 사라지게 될거예요
+
+
+  The hut buried in deep snow, it sinks in to the flood
+  오두막은 깊은 눈에 파묻혀요, 홍수를 만난 것처럼 가라앉겠지요
+  
+  and The "not dyeing" is dyed out, and waits for a oppose one.
+  '무색'은 물들고, 자신의 반대쪽 짝을 기다려요
+
+
+  Even if all are healed, be gonna no return
+  혹여 모든 상처가 낫더라도, 되돌아갈 수는 없어요
+  
+  There is still the place, far away, far away.
+  그곳은 있는 걸요, 저 멀리에, 저 멀리에
+
+
+  The place changes and goes, like a wind, like clouds
+  그곳은 변하며 흘러가요 마치 바람처럼, 마치 구름처럼...
+  
+  Like the traces of the heart, no halt at the places.
+  마음이 떠도는 것처럼, 그곳은 절대 멈추질 않아요
+
+
+  The place is a lofty lord, can't meet nobody put on
+  그곳은 너무나 원대하기에, 누구도 짊어질 수가 없어요
+  
+  Still, there is still the place, far away, far away.
+  지금도, 그곳은 있는 걸요, 저 멀리에, 저 멀리에
+
+
+{{tag>가사 게임음악 애니음악 클라나드 삽입곡 하기와라_유우 traditional 토고시_마고메 Lia 발라드}}

@@ -1,38 +1,66 @@
-  * 위키관련
-    * [[before_use|공지 사항]]
-    * [[syntax|위키 문법]]
-    * [[wiki:navigation|전체 목록]]
-    * [[playground:playground|연습장]]
-    * [[수정및추가요청|수정및추가요청]]
-  * 게임관련
-    * [[게임|게임]]
-    * [[게임기|게임기]]
-    * [[도전과제|도전과제]]
-  * IT 및 인터넷
-    * [[소프트|소프트]]
-    * [[하드|하드]]
-    * [[서비스|서비스]]
-  * 기타 미디어
-    * [[애니|애니]]
-    * [[만화|만화]]
-    * [[영화|영화]]
-    * [[책|책]]
-    * [[음악|음악]]
-    * [[모형|모형]]
-  * 사람/회사
-    * [[사람|사람 목록]]
-    * [[회사|회사 목록]]
-  * 기타 분석
-    * [[캐릭터|캐릭터]]
-    * [[음식|음식]]
-    * [[술|술]]
-    * [[AA|AA]]
-    * [[바코드|바코드]]
-    * [[용어|각종 용어]]
-    * [[대사|각종 대사]]
-  * [[?do=randompage|랜덤 페이지]]
+
+----
+
+{{:wiki:dokuwiki-128.png?25x25&nolink |}}
+<hidden 위키관련>
+  * [[before_use|공지 사항]]
+  * [[syntax|위키 문법]]
+  * [[wiki:navigation|전체 목록]]
+  * [[playground:playground|연습장]]
+  * [[수정및추가요청|수정및추가요청]]
+  * [[wiki:system_info|시스템 정보]] 
+</hidden>
+<WRAP clear></WRAP>
+
+{{:게임:icon.png?25&nolink |}}
+<hidden 게임관련 >
+  * [[게임|게임]]
+  * [[게임기|게임기]]
+  * [[도전과제|도전과제]]
+</hidden>
+<WRAP clear></WRAP>
+
+{{:하드:icon.png?25&nolink |}}
+<hidden  IT 및 인터넷 >
+  * [[소프트|소프트]]
+  * [[하드|하드]]
+  * [[서비스|서비스]]
+</hidden>
+<WRAP clear></WRAP>
+
+{{:영화:icon.png?25x25&nolink }}
+<hidden  기타 미디어>
+  * [[애니|애니]]
+  * [[만화|만화]]
+  * [[영화|영화]]
+  * [[책|책]]
+  * [[음악|음악]]
+  * [[모형|모형]]
+</hidden>
+<WRAP clear></WRAP>
+
+{{:사람:icon.png?25&nolink |}}
+<hidden 사람/회사 >
+  * [[사람|사람 목록]]
+  * [[회사|회사 목록]]
+</hidden>
+<WRAP clear></WRAP>
+
+{{:캐릭터:wikipe-tan_head.png?25&nolink |}}
+<hidden  기타 분석 >
+  * [[캐릭터|캐릭터]]
+  * [[지역|지역]]
+  * [[음식|음식]]
+  * [[술|술]]
+  * [[AA|AA]]
+  * [[바코드|바코드]]
+  * [[용어|각종 용어]]
+  * [[대사|각종 대사]]
+</hidden>
+<WRAP clear></WRAP>
+
+  * **[[?do=randompage | 랜덤 페이지 ]]**
 
 
 
-<box 100% round orange|[[?do=recent|Recent]]>
-[size=0.9em]{{changes>15}}[/size]</box>
+{{tabinclude>wiki:recent|요즘 고친 글}}

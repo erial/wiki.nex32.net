@@ -1,0 +1,100 @@
+====== Baba O'Riley(바바 오라일리) ======
+===== 더 후(The who) 싱글 =====
+---- datatemplateentry music ----
+곡명			: Baba O’Riley
+한국어명		: 바바 오라일리
+수록작_titles		: 
+수록앨범_albums		: 
+발매일_dts		: 1971-11
+
+작사_peoples		: 피터 타운센드 | 피터 타운센드(Pete Townshend)
+작곡_peoples		: 피터 타운센드 | 피터 타운센드(Pete Townshend) 
+편곡_peoples		: 피터 타운센드 | 피터 타운센드(Pete Townshend)
+부른이_peoples		: 더 후 | 더 후(The Who)
+----
+
+===== 상세설명 =====
+이 곡은 영국밴드 더 후(The who)의 가장 유명한 곡으로, 더 후의 멤버인 피터 타운센드가 자신이 기획한 락 오페라 'Lifehouse (라이프하우스)'에 삽입할 곡으로 만들어진 곡이다. 해당 오페라의 스코틀랜드 농부 집안의 이야기를 담은 것으로 농부 레이가 젊은이와 부인 샐리에게, 아이들에게, 그리고 벗들에게 한마디씩 돌아가며 말을 남기는 형식으로 이뤄져있다. 실제로 나오진 않았지만 라이프하우스 극 내에선 집나간 딸을 찾으러 갈 때 삽입될 예정이었다고 한다.
+
+후렴구에 포함된 'Teenage wasteland(10대의 불모지)'라는 부분이 워낙 인상적이라 원 제목인 바바 오라일리보단 'Teenage wasteland'란 이명으로 더 널리 알려져있다. 
+
+노래 자체도 높은 인기를 구가했지만, 특유의 가사와 분위기가 조화를 이뤄 영화, 드라마 등에서 정말 널리 채용되는 곡이기도 하다.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+  * ++ 영상 보기 | {{youtube>x2KRpRMSu4g?medium}} ++
+  * ++ 공연 영상 | {{youtube>SH60OQN8Lzc?medium}} ++
+
+  Out here in the fields
+  난 벌판 위에 서서
+  
+  I fight for my meals
+  밥벌이를 위해 싸우네
+  
+  I get my back into my living
+  묵묵히 열심히 일하고 있으면
+  
+  I don't need to fight
+  남과 다툴 필요가 없지
+  
+  To prove I'm right
+  내가 옳단 걸 증명하려고 말야
+  
+  I don't need to be forgiven
+  용서받아야 할 필요도 없어
+
+
+  Don't cry
+  울지 말렴
+  
+  Don't raise your eye
+  눈을 뜨지 말렴
+  
+  It's only teenage wasteland
+  그저 10대의 불모지일 뿐이니까
+
+
+  Sally, take my hand
+  샐리, 내 손을 잡아요
+  
+  We'll travel south crossland
+  서쪽 사우스 크로스랜드로 여행을 갈거요
+  
+  Put out the fire
+  불을 끄고서
+  
+  And don't look past my shoulder
+  내 어깨 뒤를 보지 마오
+  
+  The exodus is here
+  대탈출이 시작될거요
+
+
+  The happy ones are near
+  행복이란 가까이 있는 것
+  
+  Let's get together
+  다같이 한번 모여보자
+  
+  Before we get much older
+  더 늙어버리기 전에
+
+
+  Teenage wasteland
+  10대의 불모지
+  
+  It's only teenage wasteland
+  그저 10대의 불모지일 뿐이니까
+  
+  Teenage wasteland
+  10대의 불모지
+  
+  Teenage wasteland
+  10대의 불모지
+
+
+  They're all wasted!
+  전부 허비해버렸다네!
+
+{{tag>가사 더_후 The_Who 피터_타운센트 라이프하우스 오페라 락오페라 삽입곡 락 아트락}}

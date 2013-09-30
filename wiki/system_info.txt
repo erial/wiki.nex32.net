@@ -1,8 +1,8 @@
 ====== 시스템정보 =====
 ===== 기본정보 =====
-  * 서버정보 : Linux 2.6.18-274.17.1.el5 / Apache/2.2.3 (CentOS)
-  * PHP 버전 : 5.3.3
-  * 도쿠위키 버전 : Release 2012-01-25 "Angua"
+  * 서버정보 : FreeBSD 9.1 / Apache/2.4.6
+  * PHP 버전 : 5.4.19
+  * 도쿠위키 버전 : Release 2013-05-10a "Weatherwax"
   * 전체 페이지 수 : {{wikistatistics>type=pages}} 개
   * 전체 가입자 수 : {{wikistatistics>type=users}} 명 
   * 활동 가입자 수 : {{wikistatistics>type=users filter=active}} 명

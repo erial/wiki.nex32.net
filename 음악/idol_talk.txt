@@ -1,0 +1,242 @@
+====== Idol talk (아이돌 토크) ======
+===== 마크로스 플러스 삽입곡 =====
+---- datatemplateentry music ----
+곡명			: Idol talk
+한국어명		: 아이돌 토크
+수록작_titles		: 애니:마크로스 플러스
+수록앨범_albums		: VICL-15037 | 마크로스 플러스 - 샤론애플, VICL-571 | 마크로스 플러스 OST2, VTCL-60345 | 마크로스 플러스 - 샤론애플 복각판, VTCL-60346 | 마크로스 플러스 OST2 복각판, VICL-23112 | 마크로스 플러스 OST For Fans Only, VTCL-60347 | 마크로스 플러스 OST For Fans Only 복각판
+발매일_dts		: 1995-02-22
+
+작사_peoples		: 가브리엘라 로빈
+작곡_peoples		: 칸노 요코
+편곡_peoples		: 칸노 요코
+부른이_peoples		: 아라이 아키노
+----
+
+===== 상세설명 =====
+마크로스 플러스의 전뇌 아이돌 샤론 애플의 이미지송 중 하나로, 다른곡들과 달리 '샤론 애플의 아이돌 이미지'를 살리기 위해서 만들어진 곡이다. 즉 작중에서의 비중은 매우 낮은 편. 이사무가 공연에 참가했을 때 공연 내용 중 하나로서 흘러나온다. 가사에서 느껴지듯 앙탈부리듯 툴툴대는 소녀의 인상을 그대로 느낄 수 있는 곡이다. 
+
+곡 자체는 프랑스어로 되어있다. 참고로 조어로 이루어진 곡이나 히브리어 등 여러 언어로 노래를 부르는 것은 샤론 애플이 전뇌 아이돌이기 때문에 다양한 문화에 어필한다는 인상을 주기 위해서 고정된 언어를 쓰지 않는 것 뿐이다. 큰 의미는 없으니 너무 신경쓸 필요는 없다. 노래는 작중에 샤론 애플의 노래를 담당한 아라이 아키노가 불렀다.
+
+===== 가사 =====
+<note important>이하 내용은 본 위키의 라이센스와 별도로 원 저작권자들에게 해당 저작권이 있습니다. 이하 컨텐츠는 정보제공의 목적으로 업로드 된 것 뿐이며, 상업적 목적을 가지지 않습니다. 그러나 원 저작권자의 요청이 있을 경우 관리자의 책임하에 삭제, 변경이 있을 수 있습니다. 작성시에도 항시 이 점 유의 해주시기 바랍니다. </note>
+
+==== 프랑스어 원곡판 ====
+
+  * ++ 영상보기 | {{youtube>j8CCm5rEC9Q?medium}} ++
+
+
+  Un peu de bleu
+  아주 약간 푸른
+  
+  pour noir de la matière
+  검정색의 존재
+  
+  Un peu de bleu
+  아주 약간 푸른
+  
+  Tu te prends pour un chat 
+  당신은 마치 고양이 같아
+  
+  Comme un jour de la vie
+  평범한 한낮의 일상처럼
+
+
+  L'une poupée de cire dans soleil 
+  햇살 아래의 밀납인형
+  
+  C'est trop! Qui sur la console 
+  너무해! 누가 콘솔 위에다
+  
+  Ombrage, orage Oh, Oh 
+  그늘과 폭풍을 일으킨거야, 아아~
+  
+  C'est amour, amour
+  그것은 사랑, 사랑
+  
+  Oh, no
+  오, 안돼
+
+
+  Quele? Quele? 
+  뭐야? 뭐야?
+  
+  Bouche encorner quele 
+  네 입술 끝으로 뭘하는거야
+  
+  Non, non, petit personnage 
+  안돼, 안돼, 속좁은 사람같으니
+  
+  Passé, passé heures
+  흐르고, 흐르는 시간
+  
+  Comme par le passé
+  지금까지 흘러왔듯이
+  
+  Non, non, pétition n'est rien 
+  안돼, 안돼, 그런 소원은 안돼
+
+
+
+  Un peu de bleu
+  아주 약간 푸른
+  
+  pour noir de la matière
+  검정색의 존재
+  
+  Un peu de bleu
+  아주 약간 푸른
+  
+  Tu te prends pour un chat 
+  당신은 마치 고양이 같아
+  
+  Comme un jour de la vie
+  평범한 한낮의 일상처럼
+
+
+  L'une poupée de cire dans soleil 
+  햇살 아래의 밀납인형
+  
+  C'est trop! Qui sur la console 
+  너무해! 누가 콘솔 위에다
+  
+  Ombrage, orage Oh, Oh 
+  그늘과 폭풍을 일으킨거야, 아아~
+  
+  C'est amour, amour
+  그것은 사랑, 사랑
+  
+  Oh, no
+  오, 안돼
+
+
+  Quele? Quele? 
+  뭐야? 뭐야?
+  
+  Bouche encorner quele 
+  네 입술 끝으로 뭘하는거야
+  
+  Non, non, petit personnage 
+  안돼, 안돼, 속좁은 사람같으니
+  
+  Passé, passé heures
+  흐르고, 흐르는 시간
+  
+  Comme par le passé
+  지금까지 흘러왔듯이
+  
+  Non, non, pétition n'est rien 
+  안돼, 안돼, 그런 소원은 안돼
+
+
+  Quele? Quele? 
+  뭐야? 뭐야?
+  
+  Bouche encorner quele 
+  네 입술 끝으로 뭘하는거야
+  
+  Non, non, petit personnage 
+  안돼, 안돼, 속좁은 사람같으니
+  
+  Passé, passé heures
+  흐르고, 흐르는 시간
+  
+  Comme par le passé
+  지금까지 흘러왔듯이
+  
+  Non, non, petit en vouloir 
+  안돼, 안돼, 조금 미워질 거야
+
+
+  Quele? Quele? 
+  뭐야? 뭐야?
+  
+  Bouche encorner quele 
+  네 입술 끝으로 뭘하는거야
+  
+  Non, non, petit personnage 
+  안돼, 안돼, 속좁은 사람같으니
+  
+  Passé, passé heures
+  흐르고, 흐르는 시간
+  
+  Comme par le passé
+  지금까지 흘러왔듯이
+  
+  Non, non, pétition n'est rien 
+  안돼, 안돼, 그런 소원은 안돼
+
+
+  Quele? Quele? 
+  뭐야? 뭐야?
+  
+  Bouche encorner quele 
+  네 입술 끝으로 뭘하는거야
+  
+  Non, non, petit personnage 
+  안돼, 안돼, 속좁은 사람같으니
+  
+  Passé, passé heures
+  흐르고, 흐르는 시간
+  
+  Comme par le passé
+  지금까지 흘러왔듯이
+  
+  Non, non, petit en vouloir 
+  안돼, 안돼, 조금 미워질 거야
+
+==== 일본어 가사 ====
+앨범에 수록된 일역 가사. 그 뿐이다.
+
+  アオイロ　ノ　スコシダケ
+  ソザイノ　クロイロ　ノ　タメノ
+  アオイロ　ノ　スコシダケ
+  アナタハ　ネコニ　ナリキッテイル
+  ジンセイノ　トアル　イチニチ　ノ　ヨウニ
+
+
+  タイヨウノ　ナカ　ノ　ロウニンギョウ
+  ヒドスギル！　ダレガ　コンソールノ　ウエニ
+  カゲカラ　アラシヲ　オコシタノ？
+  ソレハ　アイ！　アイ！
+  Oh,　no
+
+
+  ナニヨ　ナニヨ？
+  ナンデ　クチビルノ　ハジデ　ツツイテクルノ？
+  ダメヨ　ダメ　ツマラナイ　ヒトネ
+  スギル　スギテユク　ジカン
+  イママデト　オンナジヨウニ
+  ダメヨ　ダメ　ソコノ　シンジャタチ
+
+
+  アオイロ　ノ　スコシダケ
+  ソザイノ　クロイロ　ノ　タメノ
+  アオイロ　ノ　スコシダケ
+  アナタハ　ネコニ　ナリキッテイル
+  ジンセイノ　トアル　イチニチ　ノ　ヨウニ
+
+
+  タイヨウノ　ナカ　ノ　ロウニンギョウ
+  ヒドスギル！　ダレガ　コンソールノ　ウエデ
+  カゲカラ　アラシヲ　オコシタノ？
+  ソレハ　アイ！　アイ！
+  Oh,　no
+
+
+  ナニヨ　ナニヨ？
+  ナンデ　クチビルノ　ハジデ　ツツイテクルノ？
+  ダメヨ　ダメ　ツマラナイ　ヒトネ
+  スギル　スギテユク　ジカン
+  イママデト　オンナジヨウニ
+  ダメヨ　ダメ　ソコノ　セイガンシャ　タチ
+
+  ナニヨ　ナニヨ？
+  ナンデ　クチビルノ　ハジデ　ツツイテクルノ？
+  ダメヨ　ダメ　ツマラナイ　ヒトネ
+  スギル　スギテユク　ジカン
+  イママデト　オンナジヨウニ
+  ダメヨ　ダメ　チョット　ニクラシイ
+
+
+{{tag>가사 애니음악 마크로스 마크로스_플러스 삽입곡 가브리엘라_로빈 칸노_요코 아라이_아키노 댄스}}

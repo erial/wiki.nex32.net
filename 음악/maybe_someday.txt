@@ -3,7 +3,7 @@
 ---- datatemplateentry music ----
 곡명			: Maybe someday
 한국어명		: 언젠가 훗날
-수록작_titles		: 게임:데스크림존2
+수록작_titles		: 게임:데스크림슨2
 수록앨범_albums		: ECAP-0001 | 데스크림존2 OST '유리 로젠버그'
 발매일_dts		: 1999-11-25
 
